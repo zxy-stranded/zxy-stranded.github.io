@@ -1,0 +1,53 @@
+name: Check and deploy website
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Generate and validate people data
+        run: python3 scripts/sync-people.py
+      - name: Validate website links and subdirectory paths
+        run: python3 scripts/check-site.py
+      - name: Validate JavaScript
+        run: |
+          node --check dist/apps/portrait/app.js
+          node --check dist/apps/portrait/people-data.js
+      - name: Verify matching algorithm
+        run: node tests/matching.cjs
+      - name: Upload website
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref_name == github.event.repository.default_branch
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
