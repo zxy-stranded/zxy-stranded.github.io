@@ -7,3 +7,7 @@ __pycache__/
 
 # 本地交付包，无需重复提交到仓库
 delivery/
+
+node_modules/
+dist/
+qc-history-backfill-20261029/

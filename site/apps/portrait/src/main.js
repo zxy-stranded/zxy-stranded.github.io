@@ -1,0 +1,43 @@
+import { createApp } from "vue";
+import { createRouter, createWebHashHistory } from "vue-router";
+import App from "./App.vue";
+import Home from "./views/Home.vue";
+import Quiz from "./views/Quiz.vue";
+import Result from "./views/Result.vue";
+import Gallery from "./views/Gallery.vue";
+import Detail from "./views/Detail.vue";
+import Invite from "./views/Invite.vue";
+import Loading from "./views/Loading.vue";
+import { state, complete } from "./store.js";
+import { figureFor } from "./engine.js";
+import "./style.css";
+const router = createRouter({
+  history: createWebHashHistory(),
+  routes: [
+    { path: "/", component: Home },
+    { path: "/quiz", component: Quiz },
+    { path: "/loading", component: Loading },
+    { path: "/result", component: Result },
+    { path: "/gallery", component: Gallery },
+    { path: "/figure/:id", component: Detail },
+    { path: "/invite/:id", component: Invite },
+    { path: "/:pathMatch(.*)*", redirect: "/" },
+  ],
+  scrollBehavior(to, from) {
+    if (to.path === from.path) return;
+    return { top: 0 };
+  },
+});
+router.beforeEach((to) => {
+  if (to.path === "/quiz" && !state.session) return "/";
+  if (["/result", "/loading"].includes(to.path) && !complete.value) return "/";
+  if (to.params.id && !figureFor(to.params.id)) return "/";
+  const r = new URLSearchParams(location.search).get("r");
+  if (to.path === "/" && r && figureFor(r)) {
+    const clean = new URL(location.href);
+    clean.searchParams.delete("r");
+    history.replaceState(history.state, "", clean.href);
+    return "/invite/" + r;
+  }
+});
+createApp(App).use(router).mount("#app");

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "liubei",
+    "name": "刘备",
+    "bio": "蜀汉建立者，与诸葛亮形成长期君臣合作。",
+    "reference": true
+  },
+  {
+    "id": "baoshuya",
+    "name": "鲍叔牙",
+    "bio": "春秋齐国人物，传世叙事重其对管仲的理解与举荐。",
+    "reference": true
+  },
+  {
+    "id": "simaguang",
+    "name": "司马光",
+    "bio": "北宋政治家、史学家，与王安石在新法问题上意见分歧。",
+    "reference": true
+  },
+  {
+    "id": "zhaomingcheng",
+    "name": "赵明诚",
+    "bio": "宋代金石学者，与李清照共同收藏整理金石资料。",
+    "reference": true
+  },
+  {
+    "id": "huangtingjian",
+    "name": "黄庭坚",
+    "bio": "北宋诗人、书法家，与苏轼有文学交往。",
+    "reference": true
+  },
+  {
+    "id": "pangjuan",
+    "name": "庞涓",
+    "bio": "战国魏将，与孙膑的对抗见于《史记》相关记载。",
+    "reference": true
+  },
+  {
+    "id": "liyu",
+    "name": "李煜",
+    "bio": "南唐词人，与纳兰性德不同时代；这里只作文学影响参照。",
+    "reference": true
+  },
+  {
+    "id": "jiajing",
+    "name": "嘉靖帝",
+    "bio": "明代皇帝；海瑞曾上疏直言。",
+    "reference": true
+  },
+  {
+    "id": "gaogong",
+    "name": "高拱",
+    "bio": "明代政治人物，与张居正有政治矛盾。",
+    "reference": true
+  },
+  {
+    "id": "suzhe",
+    "name": "苏辙",
+    "bio": "北宋文学与政治人物，反对部分新法。",
+    "reference": true
+  },
+  {
+    "id": "lvyijian",
+    "name": "吕夷简",
+    "bio": "北宋政治人物，与范仲淹有政议冲突。",
+    "reference": true
+  },
+  {
+    "id": "luobinwang",
+    "name": "骆宾王",
+    "bio": "唐代文学家，曾撰写反武则天檄文。",
+    "reference": true
+  },
+  {
+    "id": "shangguanyi",
+    "name": "上官仪",
+    "bio": "唐代政治与文学人物，卷入武则天时期权力冲突。",
+    "reference": true
+  },
+  {
+    "id": "qinhui",
+    "name": "秦桧",
+    "bio": "南宋政治人物，与岳飞遭受的政治迫害相关。",
+    "reference": true
+  },
+  {
+    "id": "hubilie",
+    "name": "忽必烈",
+    "bio": "元朝建立者，文天祥在宋元之际坚守立场。",
+    "reference": true
+  },
+  {
+    "id": "gongzicheng",
+    "name": "公子成",
+    "bio": "赵国宗室，参与胡服改革相关争论。",
+    "reference": true
+  },
+  {
+    "id": "lvbuwei",
+    "name": "吕不韦",
+    "bio": "秦国政治人物，后在权力变化中离开中枢。",
+    "reference": true
+  },
+  {
+    "id": "jian",
+    "name": "汲黯",
+    "bio": "汉代官员，以向汉武帝直谏著称。",
+    "reference": true
+  }
+]

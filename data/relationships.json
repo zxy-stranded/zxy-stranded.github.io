@@ -1,0 +1,482 @@
+[
+  {
+    "id": "e01",
+    "source": "liubei",
+    "target": "zhugeliang",
+    "type": "partner",
+    "note": "一个托付方向，一个经营落实",
+    "basis": "《三国志》蜀书相关传记"
+  },
+  {
+    "id": "e02",
+    "source": "liubang",
+    "target": "zhangliang",
+    "type": "partner",
+    "note": "把临场机会接成长程谋划",
+    "basis": "《史记·留侯世家》"
+  },
+  {
+    "id": "e03",
+    "source": "liubang",
+    "target": "xiaohe",
+    "type": "partner",
+    "note": "前线推进，后方持续供给",
+    "basis": "《史记·萧相国世家》"
+  },
+  {
+    "id": "e04",
+    "source": "liubang",
+    "target": "chenping",
+    "type": "partner",
+    "note": "复杂局面里寻找第三条路",
+    "basis": "《史记·陈丞相世家》"
+  },
+  {
+    "id": "e05",
+    "source": "liubang",
+    "target": "hanxin",
+    "type": "partner",
+    "note": "统筹与战术相互成就亦有张力",
+    "basis": "《史记·淮阴侯列传》"
+  },
+  {
+    "id": "e06",
+    "source": "xiaohe",
+    "target": "hanxin",
+    "type": "partner",
+    "note": "识别才能，也承担举荐责任",
+    "basis": "《史记·萧相国世家》"
+  },
+  {
+    "id": "e07",
+    "source": "caocao",
+    "target": "simayi",
+    "type": "partner",
+    "note": "任用与审慎并存的合作",
+    "basis": "《三国志》《晋书》相关传记"
+  },
+  {
+    "id": "e08",
+    "source": "guanzhong",
+    "target": "baoshuya",
+    "type": "partner",
+    "note": "理解一个人，也为他搭一座桥",
+    "basis": "《史记·管晏列传》"
+  },
+  {
+    "id": "e09",
+    "source": "sushi",
+    "target": "ouyangxiu",
+    "type": "partner",
+    "note": "前辈识才，后来者长出新声",
+    "basis": "《宋史》及二人诗文"
+  },
+  {
+    "id": "e10",
+    "source": "fanzhongyan",
+    "target": "ouyangxiu",
+    "type": "partner",
+    "note": "以不同方式承担公共责任",
+    "basis": "《宋史》相关传记"
+  },
+  {
+    "id": "e11",
+    "source": "libai",
+    "target": "dufu",
+    "type": "partner",
+    "note": "不同诗心，在友谊里相遇",
+    "basis": "杜甫赠李白相关诗作"
+  },
+  {
+    "id": "e12",
+    "source": "liqingzhao",
+    "target": "zhaomingcheng",
+    "type": "partner",
+    "note": "把共同热爱整理成生活",
+    "basis": "《金石录后序》"
+  },
+  {
+    "id": "e13",
+    "source": "sushi",
+    "target": "huangtingjian",
+    "type": "partner",
+    "note": "在诗书往还中彼此启发",
+    "basis": "二人诗文与相关文集"
+  },
+  {
+    "id": "e14",
+    "source": "zhuyuanzhang",
+    "target": "liubowen",
+    "type": "partner",
+    "note": "开局需要行动，也需要谋划",
+    "basis": "《明史·刘基传》"
+  },
+  {
+    "id": "e15",
+    "source": "goujian",
+    "target": "guanzhong",
+    "type": "analogy",
+    "note": "务实筹划的跨代参照",
+    "basis": "跨时代性格类比，非直接交往"
+  },
+  {
+    "id": "e16",
+    "source": "wanganshi",
+    "target": "ouyangxiu",
+    "type": "partner",
+    "note": "文学赏识与政见不同可并存",
+    "basis": "《宋史》及相关文集"
+  },
+  {
+    "id": "e17",
+    "source": "sushi",
+    "target": "wanganshi",
+    "type": "partner",
+    "note": "分歧之外，仍能看见才华",
+    "basis": "二人诗文与相关传记"
+  },
+  {
+    "id": "e18",
+    "source": "zhougong",
+    "target": "guanzhong",
+    "type": "analogy",
+    "note": "制度建设的跨代参照",
+    "basis": "跨时代性格类比，非直接交往"
+  },
+  {
+    "id": "e19",
+    "source": "shenkuo",
+    "target": "bisheng",
+    "type": "partner",
+    "note": "一项工艺，由记录传向后世",
+    "basis": "《梦溪笔谈·技艺》记载，非师徒关系"
+  },
+  {
+    "id": "e20",
+    "source": "caocao",
+    "target": "hanwudi",
+    "type": "analogy",
+    "note": "资源动员的跨代参照",
+    "basis": "跨时代性格类比，非直接交往"
+  },
+  {
+    "id": "e21",
+    "source": "zengguofan",
+    "target": "zhuyuanzhang",
+    "type": "analogy",
+    "note": "组织经营的跨代参照",
+    "basis": "跨时代性格类比，非直接交往"
+  },
+  {
+    "id": "e22",
+    "source": "xuxiake",
+    "target": "lishizhen",
+    "type": "analogy",
+    "note": "亲历求证的跨代参照",
+    "basis": "跨时代性格类比，非直接交往"
+  },
+  {
+    "id": "e23",
+    "source": "zhangheng",
+    "target": "shenkuo",
+    "type": "analogy",
+    "note": "跨域好奇的两种实践",
+    "basis": "跨时代性格类比，非直接交往"
+  },
+  {
+    "id": "e24",
+    "source": "xiangyu",
+    "target": "liubang",
+    "type": "rival",
+    "note": "同处变局，选择不同的组织路",
+    "basis": "《史记》相关本纪"
+  },
+  {
+    "id": "e25",
+    "source": "zhugeliang",
+    "target": "simayi",
+    "type": "rival",
+    "note": "同一战局里的不同节奏",
+    "basis": "《三国志》《晋书》相关传记"
+  },
+  {
+    "id": "e26",
+    "source": "sunbin",
+    "target": "pangjuan",
+    "type": "rival",
+    "note": "受挫之后，重新安排强弱",
+    "basis": "《史记·孙子吴起列传》"
+  },
+  {
+    "id": "e27",
+    "source": "wanganshi",
+    "target": "simaguang",
+    "type": "rival",
+    "note": "关于改变与稳定的争论",
+    "basis": "《宋史》相关传记"
+  },
+  {
+    "id": "e28",
+    "source": "sushi",
+    "target": "wanganshi",
+    "type": "rival",
+    "note": "政见有分歧，评价仍有余地",
+    "basis": "二人诗文及《宋史》"
+  },
+  {
+    "id": "e29",
+    "source": "ouyangxiu",
+    "target": "wanganshi",
+    "type": "rival",
+    "note": "赏识文章，不等于赞同政策",
+    "basis": "《宋史》及二人文集"
+  },
+  {
+    "id": "e30",
+    "source": "caocao",
+    "target": "liubei",
+    "type": "rival",
+    "note": "争取同一时代的不同出路",
+    "basis": "《三国志》相关传记"
+  },
+  {
+    "id": "e31",
+    "source": "caocao",
+    "target": "liubang",
+    "type": "analogy",
+    "note": "用人与行事的跨代对照",
+    "basis": "跨时代性格类比，非直接交往"
+  },
+  {
+    "id": "e32",
+    "source": "qinshihuang",
+    "target": "jingke",
+    "type": "rival",
+    "note": "激烈行动背后是不可逆代价",
+    "basis": "《史记·刺客列传》"
+  },
+  {
+    "id": "e33",
+    "source": "qinshihuang",
+    "target": "zhangliang",
+    "type": "rival",
+    "note": "早年的一击与后来的谋划",
+    "basis": "《史记·留侯世家》"
+  },
+  {
+    "id": "e34",
+    "source": "zhuyuanzhang",
+    "target": "liubowen",
+    "type": "rival",
+    "note": "任用关系也有政治压力",
+    "basis": "《明史·刘基传》"
+  },
+  {
+    "id": "e35",
+    "source": "liubang",
+    "target": "hanxin",
+    "type": "rival",
+    "note": "功成之后，合作条件改变",
+    "basis": "《史记·淮阴侯列传》"
+  },
+  {
+    "id": "e36",
+    "source": "liubang",
+    "target": "chenping",
+    "type": "rival",
+    "note": "信任需要在疑虑中维持",
+    "basis": "《史记·陈丞相世家》相关记载"
+  },
+  {
+    "id": "e37",
+    "source": "liubang",
+    "target": "xiaohe",
+    "type": "rival",
+    "note": "功高处境中的信任张力",
+    "basis": "《史记·萧相国世家》"
+  },
+  {
+    "id": "e38",
+    "source": "caocao",
+    "target": "simayi",
+    "type": "rival",
+    "note": "同处权力网络，信任有边界",
+    "basis": "相关传记的复杂任用关系，非对等政敌"
+  },
+  {
+    "id": "e39",
+    "source": "sushi",
+    "target": "simaguang",
+    "type": "rival",
+    "note": "同反新法，也会再起分歧",
+    "basis": "苏轼任事与相关奏议线索"
+  },
+  {
+    "id": "e40",
+    "source": "fanzhongyan",
+    "target": "simaguang",
+    "type": "analogy",
+    "note": "先忧与守成的跨代讨论",
+    "basis": "理念参照，非直接政争"
+  },
+  {
+    "id": "e41",
+    "source": "hairui",
+    "target": "zhangjuzheng",
+    "type": "analogy",
+    "note": "清介与务实的两种尺度",
+    "basis": "性格类比，不宣称直接政治对抗"
+  },
+  {
+    "id": "e42",
+    "source": "shangyang",
+    "target": "wanganshi",
+    "type": "analogy",
+    "note": "改革的力度与代价之辨",
+    "basis": "跨时代性格类比，非直接交往"
+  },
+  {
+    "id": "e43",
+    "source": "xiangyu",
+    "target": "hanxin",
+    "type": "rival",
+    "note": "旧识与后来战局的转向",
+    "basis": "《史记》相关传记"
+  },
+  {
+    "id": "e44",
+    "source": "xiangyu",
+    "target": "zhangliang",
+    "type": "rival",
+    "note": "谈判和谋划也是力量",
+    "basis": "《史记》相关传记"
+  },
+  {
+    "id": "e45",
+    "source": "xiangyu",
+    "target": "chenping",
+    "type": "rival",
+    "note": "合作关系如何走向离开",
+    "basis": "《史记·陈丞相世家》"
+  },
+  {
+    "id": "e46",
+    "source": "xiangyu",
+    "target": "xiaohe",
+    "type": "rival",
+    "note": "战场之外还有后勤竞争",
+    "basis": "楚汉战争的不同阵营，非个人私仇"
+  },
+  {
+    "id": "e47",
+    "source": "hairui",
+    "target": "baozheng",
+    "type": "analogy",
+    "note": "清正的跨代参照",
+    "basis": "跨时代性格类比，非直接交往"
+  },
+  {
+    "id": "e48",
+    "source": "nalanxingde",
+    "target": "liyu",
+    "type": "analogy",
+    "note": "词作中的情感相互照见",
+    "basis": "文学影响参照，非直接相识"
+  },
+  {
+    "id": "e49",
+    "source": "liqingzhao",
+    "target": "sushi",
+    "type": "analogy",
+    "note": "同为词家，审美自有尺度",
+    "basis": "词论与文学比较，不宣称个人交游"
+  },
+  {
+    "id": "e50",
+    "source": "hairui",
+    "target": "jiajing",
+    "type": "rival",
+    "note": "直谏是一场真实的政治风险",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e51",
+    "source": "zhangjuzheng",
+    "target": "gaogong",
+    "type": "rival",
+    "note": "政治合作也可能走向分歧",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e52",
+    "source": "wanganshi",
+    "target": "suzhe",
+    "type": "rival",
+    "note": "新法问题上的不同判断",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e53",
+    "source": "fanzhongyan",
+    "target": "lvyijian",
+    "type": "rival",
+    "note": "关于政务与责任的争论",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e54",
+    "source": "wuzetian",
+    "target": "luobinwang",
+    "type": "rival",
+    "note": "一篇檄文中的政治对抗",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e55",
+    "source": "wuzetian",
+    "target": "shangguanyi",
+    "type": "rival",
+    "note": "权力冲突带来严重后果",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e56",
+    "source": "yuefei",
+    "target": "qinhui",
+    "type": "rival",
+    "note": "不能抹平的迫害与伤害",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e57",
+    "source": "wentianxiang",
+    "target": "hubilie",
+    "type": "rival",
+    "note": "改朝换代中的不同立场",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e58",
+    "source": "zhaowulingwang",
+    "target": "gongzicheng",
+    "type": "rival",
+    "note": "改革首先要面对既有习惯",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e59",
+    "source": "qinshihuang",
+    "target": "lvbuwei",
+    "type": "rival",
+    "note": "权力转移改变合作条件",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  },
+  {
+    "id": "e60",
+    "source": "hanwudi",
+    "target": "jian",
+    "type": "rival",
+    "note": "进取身旁需要直言的提醒",
+    "basis": "相关正史人物传记；此处标注政治冲突或不同立场，不一律解释为私人仇恨。"
+  }
+]

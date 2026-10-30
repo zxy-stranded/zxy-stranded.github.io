@@ -1,0 +1,1076 @@
+[
+  {
+    "name": "赵",
+    "pinyin": "zhào",
+    "tones": [4],
+    "plain": "zhao"
+  },
+  {
+    "name": "钱",
+    "pinyin": "qián",
+    "tones": [2],
+    "plain": "qian"
+  },
+  {
+    "name": "孙",
+    "pinyin": "sūn",
+    "tones": [1],
+    "plain": "sun"
+  },
+  {
+    "name": "李",
+    "pinyin": "lǐ",
+    "tones": [3],
+    "plain": "li"
+  },
+  {
+    "name": "周",
+    "pinyin": "zhōu",
+    "tones": [1],
+    "plain": "zhou"
+  },
+  {
+    "name": "吴",
+    "pinyin": "wú",
+    "tones": [2],
+    "plain": "wu"
+  },
+  {
+    "name": "郑",
+    "pinyin": "zhèng",
+    "tones": [4],
+    "plain": "zheng"
+  },
+  {
+    "name": "王",
+    "pinyin": "wáng",
+    "tones": [2],
+    "plain": "wang"
+  },
+  {
+    "name": "冯",
+    "pinyin": "féng",
+    "tones": [2],
+    "plain": "feng"
+  },
+  {
+    "name": "陈",
+    "pinyin": "chén",
+    "tones": [2],
+    "plain": "chen"
+  },
+  {
+    "name": "褚",
+    "pinyin": "chǔ",
+    "tones": [3],
+    "plain": "chu"
+  },
+  {
+    "name": "卫",
+    "pinyin": "wèi",
+    "tones": [4],
+    "plain": "wei"
+  },
+  {
+    "name": "蒋",
+    "pinyin": "jiǎng",
+    "tones": [3],
+    "plain": "jiang"
+  },
+  {
+    "name": "沈",
+    "pinyin": "shěn",
+    "tones": [3],
+    "plain": "shen"
+  },
+  {
+    "name": "韩",
+    "pinyin": "hán",
+    "tones": [2],
+    "plain": "han"
+  },
+  {
+    "name": "杨",
+    "pinyin": "yáng",
+    "tones": [2],
+    "plain": "yang"
+  },
+  {
+    "name": "朱",
+    "pinyin": "zhū",
+    "tones": [1],
+    "plain": "zhu"
+  },
+  {
+    "name": "秦",
+    "pinyin": "qín",
+    "tones": [2],
+    "plain": "qin"
+  },
+  {
+    "name": "尤",
+    "pinyin": "yóu",
+    "tones": [2],
+    "plain": "you"
+  },
+  {
+    "name": "许",
+    "pinyin": "xǔ",
+    "tones": [3],
+    "plain": "xu"
+  },
+  {
+    "name": "何",
+    "pinyin": "hé",
+    "tones": [2],
+    "plain": "he"
+  },
+  {
+    "name": "吕",
+    "pinyin": "lǚ",
+    "tones": [3],
+    "plain": "lu"
+  },
+  {
+    "name": "施",
+    "pinyin": "shī",
+    "tones": [1],
+    "plain": "shi"
+  },
+  {
+    "name": "张",
+    "pinyin": "zhāng",
+    "tones": [1],
+    "plain": "zhang"
+  },
+  {
+    "name": "孔",
+    "pinyin": "kǒng",
+    "tones": [3],
+    "plain": "kong"
+  },
+  {
+    "name": "曹",
+    "pinyin": "cáo",
+    "tones": [2],
+    "plain": "cao"
+  },
+  {
+    "name": "严",
+    "pinyin": "yán",
+    "tones": [2],
+    "plain": "yan"
+  },
+  {
+    "name": "华",
+    "pinyin": "huà",
+    "tones": [4],
+    "plain": "hua"
+  },
+  {
+    "name": "金",
+    "pinyin": "jīn",
+    "tones": [1],
+    "plain": "jin"
+  },
+  {
+    "name": "魏",
+    "pinyin": "wèi",
+    "tones": [4],
+    "plain": "wei"
+  },
+  {
+    "name": "陶",
+    "pinyin": "táo",
+    "tones": [2],
+    "plain": "tao"
+  },
+  {
+    "name": "姜",
+    "pinyin": "jiāng",
+    "tones": [1],
+    "plain": "jiang"
+  },
+  {
+    "name": "戚",
+    "pinyin": "qī",
+    "tones": [1],
+    "plain": "qi"
+  },
+  {
+    "name": "谢",
+    "pinyin": "xiè",
+    "tones": [4],
+    "plain": "xie"
+  },
+  {
+    "name": "邹",
+    "pinyin": "zōu",
+    "tones": [1],
+    "plain": "zou"
+  },
+  {
+    "name": "喻",
+    "pinyin": "yù",
+    "tones": [4],
+    "plain": "yu"
+  },
+  {
+    "name": "柏",
+    "pinyin": "bǎi",
+    "tones": [3],
+    "plain": "bai"
+  },
+  {
+    "name": "水",
+    "pinyin": "shuǐ",
+    "tones": [3],
+    "plain": "shui"
+  },
+  {
+    "name": "窦",
+    "pinyin": "dòu",
+    "tones": [4],
+    "plain": "dou"
+  },
+  {
+    "name": "章",
+    "pinyin": "zhāng",
+    "tones": [1],
+    "plain": "zhang"
+  },
+  {
+    "name": "云",
+    "pinyin": "yún",
+    "tones": [2],
+    "plain": "yun"
+  },
+  {
+    "name": "苏",
+    "pinyin": "sū",
+    "tones": [1],
+    "plain": "su"
+  },
+  {
+    "name": "潘",
+    "pinyin": "pān",
+    "tones": [1],
+    "plain": "pan"
+  },
+  {
+    "name": "葛",
+    "pinyin": "gě",
+    "tones": [3],
+    "plain": "ge"
+  },
+  {
+    "name": "奚",
+    "pinyin": "xī",
+    "tones": [1],
+    "plain": "xi"
+  },
+  {
+    "name": "范",
+    "pinyin": "fàn",
+    "tones": [4],
+    "plain": "fan"
+  },
+  {
+    "name": "彭",
+    "pinyin": "péng",
+    "tones": [2],
+    "plain": "peng"
+  },
+  {
+    "name": "郎",
+    "pinyin": "láng",
+    "tones": [2],
+    "plain": "lang"
+  },
+  {
+    "name": "鲁",
+    "pinyin": "lǔ",
+    "tones": [3],
+    "plain": "lu"
+  },
+  {
+    "name": "韦",
+    "pinyin": "wéi",
+    "tones": [2],
+    "plain": "wei"
+  },
+  {
+    "name": "昌",
+    "pinyin": "chāng",
+    "tones": [1],
+    "plain": "chang"
+  },
+  {
+    "name": "马",
+    "pinyin": "mǎ",
+    "tones": [3],
+    "plain": "ma"
+  },
+  {
+    "name": "苗",
+    "pinyin": "miáo",
+    "tones": [2],
+    "plain": "miao"
+  },
+  {
+    "name": "凤",
+    "pinyin": "fèng",
+    "tones": [4],
+    "plain": "feng"
+  },
+  {
+    "name": "花",
+    "pinyin": "huā",
+    "tones": [1],
+    "plain": "hua"
+  },
+  {
+    "name": "方",
+    "pinyin": "fāng",
+    "tones": [1],
+    "plain": "fang"
+  },
+  {
+    "name": "俞",
+    "pinyin": "yú",
+    "tones": [2],
+    "plain": "yu"
+  },
+  {
+    "name": "任",
+    "pinyin": "rén",
+    "tones": [2],
+    "plain": "ren"
+  },
+  {
+    "name": "袁",
+    "pinyin": "yuán",
+    "tones": [2],
+    "plain": "yuan"
+  },
+  {
+    "name": "柳",
+    "pinyin": "liǔ",
+    "tones": [3],
+    "plain": "liu"
+  },
+  {
+    "name": "鲍",
+    "pinyin": "bào",
+    "tones": [4],
+    "plain": "bao"
+  },
+  {
+    "name": "史",
+    "pinyin": "shǐ",
+    "tones": [3],
+    "plain": "shi"
+  },
+  {
+    "name": "唐",
+    "pinyin": "táng",
+    "tones": [2],
+    "plain": "tang"
+  },
+  {
+    "name": "费",
+    "pinyin": "fèi",
+    "tones": [4],
+    "plain": "fei"
+  },
+  {
+    "name": "廉",
+    "pinyin": "lián",
+    "tones": [2],
+    "plain": "lian"
+  },
+  {
+    "name": "岑",
+    "pinyin": "cén",
+    "tones": [2],
+    "plain": "cen"
+  },
+  {
+    "name": "薛",
+    "pinyin": "xuē",
+    "tones": [1],
+    "plain": "xue"
+  },
+  {
+    "name": "雷",
+    "pinyin": "léi",
+    "tones": [2],
+    "plain": "lei"
+  },
+  {
+    "name": "贺",
+    "pinyin": "hè",
+    "tones": [4],
+    "plain": "he"
+  },
+  {
+    "name": "倪",
+    "pinyin": "ní",
+    "tones": [2],
+    "plain": "ni"
+  },
+  {
+    "name": "汤",
+    "pinyin": "tāng",
+    "tones": [1],
+    "plain": "tang"
+  },
+  {
+    "name": "滕",
+    "pinyin": "téng",
+    "tones": [2],
+    "plain": "teng"
+  },
+  {
+    "name": "殷",
+    "pinyin": "yīn",
+    "tones": [1],
+    "plain": "yin"
+  },
+  {
+    "name": "罗",
+    "pinyin": "luó",
+    "tones": [2],
+    "plain": "luo"
+  },
+  {
+    "name": "毕",
+    "pinyin": "bì",
+    "tones": [4],
+    "plain": "bi"
+  },
+  {
+    "name": "郝",
+    "pinyin": "hǎo",
+    "tones": [3],
+    "plain": "hao"
+  },
+  {
+    "name": "邬",
+    "pinyin": "wū",
+    "tones": [1],
+    "plain": "wu"
+  },
+  {
+    "name": "安",
+    "pinyin": "ān",
+    "tones": [1],
+    "plain": "an"
+  },
+  {
+    "name": "常",
+    "pinyin": "cháng",
+    "tones": [2],
+    "plain": "chang"
+  },
+  {
+    "name": "乐",
+    "pinyin": "yuè",
+    "tones": [4],
+    "plain": "yue"
+  },
+  {
+    "name": "于",
+    "pinyin": "yú",
+    "tones": [2],
+    "plain": "yu"
+  },
+  {
+    "name": "傅",
+    "pinyin": "fù",
+    "tones": [4],
+    "plain": "fu"
+  },
+  {
+    "name": "皮",
+    "pinyin": "pí",
+    "tones": [2],
+    "plain": "pi"
+  },
+  {
+    "name": "卞",
+    "pinyin": "biàn",
+    "tones": [4],
+    "plain": "bian"
+  },
+  {
+    "name": "齐",
+    "pinyin": "qí",
+    "tones": [2],
+    "plain": "qi"
+  },
+  {
+    "name": "康",
+    "pinyin": "kāng",
+    "tones": [1],
+    "plain": "kang"
+  },
+  {
+    "name": "伍",
+    "pinyin": "wǔ",
+    "tones": [3],
+    "plain": "wu"
+  },
+  {
+    "name": "余",
+    "pinyin": "yú",
+    "tones": [2],
+    "plain": "yu"
+  },
+  {
+    "name": "元",
+    "pinyin": "yuán",
+    "tones": [2],
+    "plain": "yuan"
+  },
+  {
+    "name": "卜",
+    "pinyin": "bǔ",
+    "tones": [3],
+    "plain": "bu"
+  },
+  {
+    "name": "顾",
+    "pinyin": "gù",
+    "tones": [4],
+    "plain": "gu"
+  },
+  {
+    "name": "孟",
+    "pinyin": "mèng",
+    "tones": [4],
+    "plain": "meng"
+  },
+  {
+    "name": "平",
+    "pinyin": "píng",
+    "tones": [2],
+    "plain": "ping"
+  },
+  {
+    "name": "黄",
+    "pinyin": "huáng",
+    "tones": [2],
+    "plain": "huang"
+  },
+  {
+    "name": "和",
+    "pinyin": "hé",
+    "tones": [2],
+    "plain": "he"
+  },
+  {
+    "name": "穆",
+    "pinyin": "mù",
+    "tones": [4],
+    "plain": "mu"
+  },
+  {
+    "name": "萧",
+    "pinyin": "xiāo",
+    "tones": [1],
+    "plain": "xiao"
+  },
+  {
+    "name": "尹",
+    "pinyin": "yǐn",
+    "tones": [3],
+    "plain": "yin"
+  },
+  {
+    "name": "姚",
+    "pinyin": "yáo",
+    "tones": [2],
+    "plain": "yao"
+  },
+  {
+    "name": "邵",
+    "pinyin": "shào",
+    "tones": [4],
+    "plain": "shao"
+  },
+  {
+    "name": "湛",
+    "pinyin": "zhàn",
+    "tones": [4],
+    "plain": "zhan"
+  },
+  {
+    "name": "汪",
+    "pinyin": "wāng",
+    "tones": [1],
+    "plain": "wang"
+  },
+  {
+    "name": "祁",
+    "pinyin": "qí",
+    "tones": [2],
+    "plain": "qi"
+  },
+  {
+    "name": "毛",
+    "pinyin": "máo",
+    "tones": [2],
+    "plain": "mao"
+  },
+  {
+    "name": "禹",
+    "pinyin": "yǔ",
+    "tones": [3],
+    "plain": "yu"
+  },
+  {
+    "name": "狄",
+    "pinyin": "dí",
+    "tones": [2],
+    "plain": "di"
+  },
+  {
+    "name": "米",
+    "pinyin": "mǐ",
+    "tones": [3],
+    "plain": "mi"
+  },
+  {
+    "name": "贝",
+    "pinyin": "bèi",
+    "tones": [4],
+    "plain": "bei"
+  },
+  {
+    "name": "明",
+    "pinyin": "míng",
+    "tones": [2],
+    "plain": "ming"
+  },
+  {
+    "name": "臧",
+    "pinyin": "zāng",
+    "tones": [1],
+    "plain": "zang"
+  },
+  {
+    "name": "计",
+    "pinyin": "jì",
+    "tones": [4],
+    "plain": "ji"
+  },
+  {
+    "name": "伏",
+    "pinyin": "fú",
+    "tones": [2],
+    "plain": "fu"
+  },
+  {
+    "name": "成",
+    "pinyin": "chéng",
+    "tones": [2],
+    "plain": "cheng"
+  },
+  {
+    "name": "戴",
+    "pinyin": "dài",
+    "tones": [4],
+    "plain": "dai"
+  },
+  {
+    "name": "宋",
+    "pinyin": "sòng",
+    "tones": [4],
+    "plain": "song"
+  },
+  {
+    "name": "茅",
+    "pinyin": "máo",
+    "tones": [2],
+    "plain": "mao"
+  },
+  {
+    "name": "庞",
+    "pinyin": "páng",
+    "tones": [2],
+    "plain": "pang"
+  },
+  {
+    "name": "熊",
+    "pinyin": "xióng",
+    "tones": [2],
+    "plain": "xiong"
+  },
+  {
+    "name": "纪",
+    "pinyin": "jǐ",
+    "tones": [3],
+    "plain": "ji"
+  },
+  {
+    "name": "舒",
+    "pinyin": "shū",
+    "tones": [1],
+    "plain": "shu"
+  },
+  {
+    "name": "屈",
+    "pinyin": "qū",
+    "tones": [1],
+    "plain": "qu"
+  },
+  {
+    "name": "项",
+    "pinyin": "xiàng",
+    "tones": [4],
+    "plain": "xiang"
+  },
+  {
+    "name": "祝",
+    "pinyin": "zhù",
+    "tones": [4],
+    "plain": "zhu"
+  },
+  {
+    "name": "董",
+    "pinyin": "dǒng",
+    "tones": [3],
+    "plain": "dong"
+  },
+  {
+    "name": "梁",
+    "pinyin": "liáng",
+    "tones": [2],
+    "plain": "liang"
+  },
+  {
+    "name": "杜",
+    "pinyin": "dù",
+    "tones": [4],
+    "plain": "du"
+  },
+  {
+    "name": "阮",
+    "pinyin": "ruǎn",
+    "tones": [3],
+    "plain": "ruan"
+  },
+  {
+    "name": "蓝",
+    "pinyin": "lán",
+    "tones": [2],
+    "plain": "lan"
+  },
+  {
+    "name": "闵",
+    "pinyin": "mǐn",
+    "tones": [3],
+    "plain": "min"
+  },
+  {
+    "name": "席",
+    "pinyin": "xí",
+    "tones": [2],
+    "plain": "xi"
+  },
+  {
+    "name": "季",
+    "pinyin": "jì",
+    "tones": [4],
+    "plain": "ji"
+  },
+  {
+    "name": "麻",
+    "pinyin": "má",
+    "tones": [2],
+    "plain": "ma"
+  },
+  {
+    "name": "强",
+    "pinyin": "qiáng",
+    "tones": [2],
+    "plain": "qiang"
+  },
+  {
+    "name": "贾",
+    "pinyin": "jiǎ",
+    "tones": [3],
+    "plain": "jia"
+  },
+  {
+    "name": "路",
+    "pinyin": "lù",
+    "tones": [4],
+    "plain": "lu"
+  },
+  {
+    "name": "娄",
+    "pinyin": "lóu",
+    "tones": [2],
+    "plain": "lou"
+  },
+  {
+    "name": "危",
+    "pinyin": "wēi",
+    "tones": [1],
+    "plain": "wei"
+  },
+  {
+    "name": "江",
+    "pinyin": "jiāng",
+    "tones": [1],
+    "plain": "jiang"
+  },
+  {
+    "name": "童",
+    "pinyin": "tóng",
+    "tones": [2],
+    "plain": "tong"
+  },
+  {
+    "name": "颜",
+    "pinyin": "yán",
+    "tones": [2],
+    "plain": "yan"
+  },
+  {
+    "name": "郭",
+    "pinyin": "guō",
+    "tones": [1],
+    "plain": "guo"
+  },
+  {
+    "name": "梅",
+    "pinyin": "méi",
+    "tones": [2],
+    "plain": "mei"
+  },
+  {
+    "name": "盛",
+    "pinyin": "shèng",
+    "tones": [4],
+    "plain": "sheng"
+  },
+  {
+    "name": "林",
+    "pinyin": "lín",
+    "tones": [2],
+    "plain": "lin"
+  },
+  {
+    "name": "钟",
+    "pinyin": "zhōng",
+    "tones": [1],
+    "plain": "zhong"
+  },
+  {
+    "name": "徐",
+    "pinyin": "xú",
+    "tones": [2],
+    "plain": "xu"
+  },
+  {
+    "name": "邱",
+    "pinyin": "qiū",
+    "tones": [1],
+    "plain": "qiu"
+  },
+  {
+    "name": "骆",
+    "pinyin": "luò",
+    "tones": [4],
+    "plain": "luo"
+  },
+  {
+    "name": "高",
+    "pinyin": "gāo",
+    "tones": [1],
+    "plain": "gao"
+  },
+  {
+    "name": "夏",
+    "pinyin": "xià",
+    "tones": [4],
+    "plain": "xia"
+  },
+  {
+    "name": "蔡",
+    "pinyin": "cài",
+    "tones": [4],
+    "plain": "cai"
+  },
+  {
+    "name": "田",
+    "pinyin": "tián",
+    "tones": [2],
+    "plain": "tian"
+  },
+  {
+    "name": "胡",
+    "pinyin": "hú",
+    "tones": [2],
+    "plain": "hu"
+  },
+  {
+    "name": "廖",
+    "pinyin": "liào",
+    "tones": [4],
+    "plain": "liao"
+  },
+  {
+    "name": "黎",
+    "pinyin": "lí",
+    "tones": [2],
+    "plain": "li"
+  },
+  {
+    "name": "叶",
+    "pinyin": "yè",
+    "tones": [4],
+    "plain": "ye"
+  },
+  {
+    "name": "文",
+    "pinyin": "wén",
+    "tones": [2],
+    "plain": "wen"
+  },
+  {
+    "name": "易",
+    "pinyin": "yì",
+    "tones": [4],
+    "plain": "yi"
+  },
+  {
+    "name": "程",
+    "pinyin": "chéng",
+    "tones": [2],
+    "plain": "cheng"
+  },
+  {
+    "name": "单",
+    "pinyin": "shàn",
+    "tones": [4],
+    "plain": "shan"
+  },
+  {
+    "name": "解",
+    "pinyin": "xiè",
+    "tones": [4],
+    "plain": "xie"
+  },
+  {
+    "name": "曾",
+    "pinyin": "zēng",
+    "tones": [1],
+    "plain": "zeng"
+  },
+  {
+    "name": "查",
+    "pinyin": "zhā",
+    "tones": [1],
+    "plain": "zha"
+  },
+  {
+    "name": "区",
+    "pinyin": "ōu",
+    "tones": [1],
+    "plain": "ou"
+  },
+  {
+    "name": "仇",
+    "pinyin": "qiú",
+    "tones": [2],
+    "plain": "qiu"
+  },
+  {
+    "name": "欧阳",
+    "pinyin": "ōu yáng",
+    "tones": [1, 2],
+    "plain": "ouyang"
+  },
+  {
+    "name": "司马",
+    "pinyin": "sī mǎ",
+    "tones": [1, 3],
+    "plain": "sima"
+  },
+  {
+    "name": "诸葛",
+    "pinyin": "zhū gě",
+    "tones": [1, 3],
+    "plain": "zhuge"
+  },
+  {
+    "name": "上官",
+    "pinyin": "shàng guān",
+    "tones": [4, 1],
+    "plain": "shangguan"
+  },
+  {
+    "name": "夏侯",
+    "pinyin": "xià hóu",
+    "tones": [4, 2],
+    "plain": "xiahou"
+  },
+  {
+    "name": "东方",
+    "pinyin": "dōng fāng",
+    "tones": [1, 1],
+    "plain": "dongfang"
+  },
+  {
+    "name": "尉迟",
+    "pinyin": "yù chí",
+    "tones": [4, 2],
+    "plain": "yuchi"
+  },
+  {
+    "name": "长孙",
+    "pinyin": "zhǎng sūn",
+    "tones": [3, 1],
+    "plain": "zhangsun"
+  },
+  {
+    "name": "皇甫",
+    "pinyin": "huáng fǔ",
+    "tones": [2, 3],
+    "plain": "huangfu"
+  },
+  {
+    "name": "慕容",
+    "pinyin": "mù róng",
+    "tones": [4, 2],
+    "plain": "murong"
+  },
+  {
+    "name": "宇文",
+    "pinyin": "yǔ wén",
+    "tones": [3, 2],
+    "plain": "yuwen"
+  },
+  {
+    "name": "令狐",
+    "pinyin": "líng hú",
+    "tones": [2, 2],
+    "plain": "linghu"
+  },
+  {
+    "name": "司徒",
+    "pinyin": "sī tú",
+    "tones": [1, 2],
+    "plain": "situ"
+  },
+  {
+    "name": "公孙",
+    "pinyin": "gōng sūn",
+    "tones": [1, 1],
+    "plain": "gongsun"
+  }
+]

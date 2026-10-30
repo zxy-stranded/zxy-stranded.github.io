@@ -1,0 +1,6712 @@
+[
+  {
+    "char": "木",
+    "pinyin": "mù",
+    "tone": 4,
+    "plain": "mu",
+    "element": "木",
+    "meaning": "生长",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "林",
+    "pinyin": "lín",
+    "tone": 2,
+    "plain": "lin",
+    "element": "木",
+    "meaning": "林木",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "森",
+    "pinyin": "sēn",
+    "tone": 1,
+    "plain": "sen",
+    "element": "木",
+    "meaning": "繁茂",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "松",
+    "pinyin": "sōng",
+    "tone": 1,
+    "plain": "song",
+    "element": "木",
+    "meaning": "松柏",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "柏",
+    "pinyin": "bǎi",
+    "tone": 3,
+    "plain": "bai",
+    "element": "木",
+    "meaning": "坚贞",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "杉",
+    "pinyin": "shān",
+    "tone": 1,
+    "plain": "shan",
+    "element": "木",
+    "meaning": "挺秀",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "柳",
+    "pinyin": "liǔ",
+    "tone": 3,
+    "plain": "liu",
+    "element": "木",
+    "meaning": "柔韧",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "桐",
+    "pinyin": "tóng",
+    "tone": 2,
+    "plain": "tong",
+    "element": "木",
+    "meaning": "桐木",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "梓",
+    "pinyin": "zǐ",
+    "tone": 3,
+    "plain": "zi",
+    "element": "木",
+    "meaning": "桑梓",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "楠",
+    "pinyin": "nán",
+    "tone": 2,
+    "plain": "nan",
+    "element": "木",
+    "meaning": "珍木",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "榆",
+    "pinyin": "yú",
+    "tone": 2,
+    "plain": "yu",
+    "element": "木",
+    "meaning": "安定",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "槐",
+    "pinyin": "huái",
+    "tone": 2,
+    "plain": "huai",
+    "element": "木",
+    "meaning": "嘉木",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "榕",
+    "pinyin": "róng",
+    "tone": 2,
+    "plain": "rong",
+    "element": "木",
+    "meaning": "荫庇",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "桂",
+    "pinyin": "guì",
+    "tone": 4,
+    "plain": "gui",
+    "element": "木",
+    "meaning": "桂香",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "梅",
+    "pinyin": "méi",
+    "tone": 2,
+    "plain": "mei",
+    "element": "木",
+    "meaning": "清雅",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "桃",
+    "pinyin": "táo",
+    "tone": 2,
+    "plain": "tao",
+    "element": "木",
+    "meaning": "明媚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "杏",
+    "pinyin": "xìng",
+    "tone": 4,
+    "plain": "xing",
+    "element": "木",
+    "meaning": "春意",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "梨",
+    "pinyin": "lí",
+    "tone": 2,
+    "plain": "li",
+    "element": "木",
+    "meaning": "素洁",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "柯",
+    "pinyin": "kē",
+    "tone": 1,
+    "plain": "ke",
+    "element": "木",
+    "meaning": "枝干",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "栩",
+    "pinyin": "xǔ",
+    "tone": 3,
+    "plain": "xu",
+    "element": "木",
+    "meaning": "生动",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "桢",
+    "pinyin": "zhēn",
+    "tone": 1,
+    "plain": "zhen",
+    "element": "木",
+    "meaning": "栋梁",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "桓",
+    "pinyin": "huán",
+    "tone": 2,
+    "plain": "huan",
+    "element": "木",
+    "meaning": "坚毅",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "榛",
+    "pinyin": "zhēn",
+    "tone": 1,
+    "plain": "zhen",
+    "element": "木",
+    "meaning": "蓬勃",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "棣",
+    "pinyin": "dì",
+    "tone": 4,
+    "plain": "di",
+    "element": "木",
+    "meaning": "手足",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "棠",
+    "pinyin": "táng",
+    "tone": 2,
+    "plain": "tang",
+    "element": "木",
+    "meaning": "海棠",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "椿",
+    "pinyin": "chūn",
+    "tone": 1,
+    "plain": "chun",
+    "element": "木",
+    "meaning": "长青",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "楚",
+    "pinyin": "chǔ",
+    "tone": 3,
+    "plain": "chu",
+    "element": "木",
+    "meaning": "清晰",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "樾",
+    "pinyin": "yuè",
+    "tone": 4,
+    "plain": "yue",
+    "element": "木",
+    "meaning": "树荫",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "樟",
+    "pinyin": "zhāng",
+    "tone": 1,
+    "plain": "zhang",
+    "element": "木",
+    "meaning": "芬芳",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "榭",
+    "pinyin": "xiè",
+    "tone": 4,
+    "plain": "xie",
+    "element": "木",
+    "meaning": "雅舍",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "楷",
+    "pinyin": "kǎi",
+    "tone": 3,
+    "plain": "kai",
+    "element": "木",
+    "meaning": "楷模",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "栋",
+    "pinyin": "dòng",
+    "tone": 4,
+    "plain": "dong",
+    "element": "木",
+    "meaning": "栋梁",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "本",
+    "pinyin": "běn",
+    "tone": 3,
+    "plain": "ben",
+    "element": "木",
+    "meaning": "根本",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "朴",
+    "pinyin": "pǔ",
+    "tone": 3,
+    "plain": "pu",
+    "element": "木",
+    "meaning": "质朴",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "枫",
+    "pinyin": "fēng",
+    "tone": 1,
+    "plain": "feng",
+    "element": "木",
+    "meaning": "秋色",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "栎",
+    "pinyin": "lì",
+    "tone": 4,
+    "plain": "li",
+    "element": "木",
+    "meaning": "坚实",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "竹",
+    "pinyin": "zhú",
+    "tone": 2,
+    "plain": "zhu",
+    "element": "木",
+    "meaning": "节操",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "筠",
+    "pinyin": "yún",
+    "tone": 2,
+    "plain": "yun",
+    "element": "木",
+    "meaning": "竹韵",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "笙",
+    "pinyin": "shēng",
+    "tone": 1,
+    "plain": "sheng",
+    "element": "木",
+    "meaning": "笙乐",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "笛",
+    "pinyin": "dí",
+    "tone": 2,
+    "plain": "di",
+    "element": "木",
+    "meaning": "清音",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "箫",
+    "pinyin": "xiāo",
+    "tone": 1,
+    "plain": "xiao",
+    "element": "木",
+    "meaning": "雅乐",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "筱",
+    "pinyin": "xiǎo",
+    "tone": 3,
+    "plain": "xiao",
+    "element": "木",
+    "meaning": "小竹",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "简",
+    "pinyin": "jiǎn",
+    "tone": 3,
+    "plain": "jian",
+    "element": "木",
+    "meaning": "简约",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "箬",
+    "pinyin": "ruò",
+    "tone": 4,
+    "plain": "ruo",
+    "element": "木",
+    "meaning": "竹叶",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "簇",
+    "pinyin": "cù",
+    "tone": 4,
+    "plain": "cu",
+    "element": "木",
+    "meaning": "团聚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "篁",
+    "pinyin": "huáng",
+    "tone": 2,
+    "plain": "huang",
+    "element": "木",
+    "meaning": "竹林",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "芝",
+    "pinyin": "zhī",
+    "tone": 1,
+    "plain": "zhi",
+    "element": "木",
+    "meaning": "芝兰",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "兰",
+    "pinyin": "lán",
+    "tone": 2,
+    "plain": "lan",
+    "element": "木",
+    "meaning": "幽香",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "芷",
+    "pinyin": "zhǐ",
+    "tone": 3,
+    "plain": "zhi",
+    "element": "木",
+    "meaning": "芳草",
+    "gender": "female",
+    "common": true
+  },
+  {
+    "char": "芸",
+    "pinyin": "yún",
+    "tone": 2,
+    "plain": "yun",
+    "element": "木",
+    "meaning": "勤学",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "芹",
+    "pinyin": "qín",
+    "tone": 2,
+    "plain": "qin",
+    "element": "木",
+    "meaning": "清勤",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "芮",
+    "pinyin": "ruì",
+    "tone": 4,
+    "plain": "rui",
+    "element": "木",
+    "meaning": "初生",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "芯",
+    "pinyin": "xīn",
+    "tone": 1,
+    "plain": "xin",
+    "element": "木",
+    "meaning": "内蕴",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "芳",
+    "pinyin": "fāng",
+    "tone": 1,
+    "plain": "fang",
+    "element": "木",
+    "meaning": "芳馨",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "芙",
+    "pinyin": "fú",
+    "tone": 2,
+    "plain": "fu",
+    "element": "木",
+    "meaning": "荷花",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "芬",
+    "pinyin": "fēn",
+    "tone": 1,
+    "plain": "fen",
+    "element": "木",
+    "meaning": "芬芳",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "花",
+    "pinyin": "huā",
+    "tone": 1,
+    "plain": "hua",
+    "element": "木",
+    "meaning": "繁花",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "苓",
+    "pinyin": "líng",
+    "tone": 2,
+    "plain": "ling",
+    "element": "木",
+    "meaning": "草木",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "苒",
+    "pinyin": "rǎn",
+    "tone": 3,
+    "plain": "ran",
+    "element": "木",
+    "meaning": "渐进",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "苑",
+    "pinyin": "yuàn",
+    "tone": 4,
+    "plain": "yuan",
+    "element": "木",
+    "meaning": "雅园",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "若",
+    "pinyin": "ruò",
+    "tone": 4,
+    "plain": "ruo",
+    "element": "木",
+    "meaning": "从容",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "英",
+    "pinyin": "yīng",
+    "tone": 1,
+    "plain": "ying",
+    "element": "木",
+    "meaning": "英华",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "苗",
+    "pinyin": "miáo",
+    "tone": 2,
+    "plain": "miao",
+    "element": "木",
+    "meaning": "新生",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "茂",
+    "pinyin": "mào",
+    "tone": 4,
+    "plain": "mao",
+    "element": "木",
+    "meaning": "繁盛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "茗",
+    "pinyin": "míng",
+    "tone": 2,
+    "plain": "ming",
+    "element": "木",
+    "meaning": "清茗",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "茜",
+    "pinyin": "qiàn",
+    "tone": 4,
+    "plain": "qian",
+    "element": "木",
+    "meaning": "绚丽",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "茵",
+    "pinyin": "yīn",
+    "tone": 1,
+    "plain": "yin",
+    "element": "木",
+    "meaning": "温润",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "荃",
+    "pinyin": "quán",
+    "tone": 2,
+    "plain": "quan",
+    "element": "木",
+    "meaning": "芳草",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "荷",
+    "pinyin": "hé",
+    "tone": 2,
+    "plain": "he",
+    "element": "木",
+    "meaning": "清荷",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "莉",
+    "pinyin": "lì",
+    "tone": 4,
+    "plain": "li",
+    "element": "木",
+    "meaning": "茉莉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "莎",
+    "pinyin": "shā",
+    "tone": 1,
+    "plain": "sha",
+    "element": "木",
+    "meaning": "柔美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "莲",
+    "pinyin": "lián",
+    "tone": 2,
+    "plain": "lian",
+    "element": "木",
+    "meaning": "洁净",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "莺",
+    "pinyin": "yīng",
+    "tone": 1,
+    "plain": "ying",
+    "element": "木",
+    "meaning": "清鸣",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "莞",
+    "pinyin": "wǎn",
+    "tone": 3,
+    "plain": "wan",
+    "element": "木",
+    "meaning": "舒展",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "菀",
+    "pinyin": "wǎn",
+    "tone": 3,
+    "plain": "wan",
+    "element": "木",
+    "meaning": "草盛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "菁",
+    "pinyin": "jīng",
+    "tone": 1,
+    "plain": "jing",
+    "element": "木",
+    "meaning": "菁华",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "菲",
+    "pinyin": "fēi",
+    "tone": 1,
+    "plain": "fei",
+    "element": "木",
+    "meaning": "芬菲",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "萃",
+    "pinyin": "cuì",
+    "tone": 4,
+    "plain": "cui",
+    "element": "木",
+    "meaning": "荟萃",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "萌",
+    "pinyin": "méng",
+    "tone": 2,
+    "plain": "meng",
+    "element": "木",
+    "meaning": "萌发",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "菡",
+    "pinyin": "hàn",
+    "tone": 4,
+    "plain": "han",
+    "element": "木",
+    "meaning": "荷苞",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "萱",
+    "pinyin": "xuān",
+    "tone": 1,
+    "plain": "xuan",
+    "element": "木",
+    "meaning": "忘忧",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "葵",
+    "pinyin": "kuí",
+    "tone": 2,
+    "plain": "kui",
+    "element": "木",
+    "meaning": "向阳",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "葳",
+    "pinyin": "wēi",
+    "tone": 1,
+    "plain": "wei",
+    "element": "木",
+    "meaning": "繁茂",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "葭",
+    "pinyin": "jiā",
+    "tone": 1,
+    "plain": "jia",
+    "element": "木",
+    "meaning": "芦苇",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蓉",
+    "pinyin": "róng",
+    "tone": 2,
+    "plain": "rong",
+    "element": "木",
+    "meaning": "芙蓉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蒙",
+    "pinyin": "méng",
+    "tone": 2,
+    "plain": "meng",
+    "element": "木",
+    "meaning": "初生",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蒲",
+    "pinyin": "pú",
+    "tone": 2,
+    "plain": "pu",
+    "element": "木",
+    "meaning": "柔韧",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蓁",
+    "pinyin": "zhēn",
+    "tone": 1,
+    "plain": "zhen",
+    "element": "木",
+    "meaning": "茂盛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蓓",
+    "pinyin": "bèi",
+    "tone": 4,
+    "plain": "bei",
+    "element": "木",
+    "meaning": "蓓蕾",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蔚",
+    "pinyin": "wèi",
+    "tone": 4,
+    "plain": "wei",
+    "element": "木",
+    "meaning": "丰美",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "蔓",
+    "pinyin": "màn",
+    "tone": 4,
+    "plain": "man",
+    "element": "木",
+    "meaning": "延展",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蕊",
+    "pinyin": "ruǐ",
+    "tone": 3,
+    "plain": "rui",
+    "element": "木",
+    "meaning": "花蕊",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "蕴",
+    "pinyin": "yùn",
+    "tone": 4,
+    "plain": "yun",
+    "element": "木",
+    "meaning": "积蓄",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "薇",
+    "pinyin": "wēi",
+    "tone": 1,
+    "plain": "wei",
+    "element": "木",
+    "meaning": "蔷薇",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "薰",
+    "pinyin": "xūn",
+    "tone": 1,
+    "plain": "xun",
+    "element": "木",
+    "meaning": "芳香",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "薪",
+    "pinyin": "xīn",
+    "tone": 1,
+    "plain": "xin",
+    "element": "木",
+    "meaning": "传承",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蕙",
+    "pinyin": "huì",
+    "tone": 4,
+    "plain": "hui",
+    "element": "木",
+    "meaning": "兰质",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "藜",
+    "pinyin": "lí",
+    "tone": 2,
+    "plain": "li",
+    "element": "木",
+    "meaning": "质朴",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "藤",
+    "pinyin": "téng",
+    "tone": 2,
+    "plain": "teng",
+    "element": "木",
+    "meaning": "坚韧",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蘅",
+    "pinyin": "héng",
+    "tone": 2,
+    "plain": "heng",
+    "element": "木",
+    "meaning": "芳香",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "艺",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "木",
+    "meaning": "才艺",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "荣",
+    "pinyin": "róng",
+    "tone": 2,
+    "plain": "rong",
+    "element": "木",
+    "meaning": "荣盛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "萧",
+    "pinyin": "xiāo",
+    "tone": 1,
+    "plain": "xiao",
+    "element": "木",
+    "meaning": "清朗",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "景",
+    "pinyin": "jǐng",
+    "tone": 3,
+    "plain": "jing",
+    "element": "木",
+    "meaning": "景致",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "春",
+    "pinyin": "chūn",
+    "tone": 1,
+    "plain": "chun",
+    "element": "木",
+    "meaning": "生机",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "东",
+    "pinyin": "dōng",
+    "tone": 1,
+    "plain": "dong",
+    "element": "木",
+    "meaning": "东方",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "乔",
+    "pinyin": "qiáo",
+    "tone": 2,
+    "plain": "qiao",
+    "element": "木",
+    "meaning": "乔木",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "宜",
+    "pinyin": "yí",
+    "tone": 2,
+    "plain": "yi",
+    "element": "木",
+    "meaning": "合宜",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "佳",
+    "pinyin": "jiā",
+    "tone": 1,
+    "plain": "jia",
+    "element": "木",
+    "meaning": "美好",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "嘉",
+    "pinyin": "jiā",
+    "tone": 1,
+    "plain": "jia",
+    "element": "木",
+    "meaning": "嘉美",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "欣",
+    "pinyin": "xīn",
+    "tone": 1,
+    "plain": "xin",
+    "element": "木",
+    "meaning": "欣悦",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "祺",
+    "pinyin": "qí",
+    "tone": 2,
+    "plain": "qi",
+    "element": "木",
+    "meaning": "安好",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "颀",
+    "pinyin": "qí",
+    "tone": 2,
+    "plain": "qi",
+    "element": "木",
+    "meaning": "修长",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "颜",
+    "pinyin": "yán",
+    "tone": 2,
+    "plain": "yan",
+    "element": "木",
+    "meaning": "容颜",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "颖",
+    "pinyin": "yǐng",
+    "tone": 3,
+    "plain": "ying",
+    "element": "木",
+    "meaning": "聪颖",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "日",
+    "pinyin": "rì",
+    "tone": 4,
+    "plain": "ri",
+    "element": "火",
+    "meaning": "光明",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "旦",
+    "pinyin": "dàn",
+    "tone": 4,
+    "plain": "dan",
+    "element": "火",
+    "meaning": "初明",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "旭",
+    "pinyin": "xù",
+    "tone": 4,
+    "plain": "xu",
+    "element": "火",
+    "meaning": "朝阳",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "旻",
+    "pinyin": "mín",
+    "tone": 2,
+    "plain": "min",
+    "element": "火",
+    "meaning": "秋空",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "旸",
+    "pinyin": "yáng",
+    "tone": 2,
+    "plain": "yang",
+    "element": "火",
+    "meaning": "晴日",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "旺",
+    "pinyin": "wàng",
+    "tone": 4,
+    "plain": "wang",
+    "element": "火",
+    "meaning": "兴盛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "昀",
+    "pinyin": "yún",
+    "tone": 2,
+    "plain": "yun",
+    "element": "火",
+    "meaning": "日光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "昆",
+    "pinyin": "kūn",
+    "tone": 1,
+    "plain": "kun",
+    "element": "火",
+    "meaning": "同心",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "昊",
+    "pinyin": "hào",
+    "tone": 4,
+    "plain": "hao",
+    "element": "火",
+    "meaning": "广天",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "昌",
+    "pinyin": "chāng",
+    "tone": 1,
+    "plain": "chang",
+    "element": "火",
+    "meaning": "光明",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "明",
+    "pinyin": "míng",
+    "tone": 2,
+    "plain": "ming",
+    "element": "火",
+    "meaning": "明亮",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "昕",
+    "pinyin": "xīn",
+    "tone": 1,
+    "plain": "xin",
+    "element": "火",
+    "meaning": "初光",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "映",
+    "pinyin": "yìng",
+    "tone": 4,
+    "plain": "ying",
+    "element": "火",
+    "meaning": "映照",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "星",
+    "pinyin": "xīng",
+    "tone": 1,
+    "plain": "xing",
+    "element": "火",
+    "meaning": "星辰",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "昱",
+    "pinyin": "yù",
+    "tone": 4,
+    "plain": "yu",
+    "element": "火",
+    "meaning": "日光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "昶",
+    "pinyin": "chǎng",
+    "tone": 3,
+    "plain": "chang",
+    "element": "火",
+    "meaning": "舒畅",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "昭",
+    "pinyin": "zhāo",
+    "tone": 1,
+    "plain": "zhao",
+    "element": "火",
+    "meaning": "显明",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "晏",
+    "pinyin": "yàn",
+    "tone": 4,
+    "plain": "yan",
+    "element": "火",
+    "meaning": "安和",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晓",
+    "pinyin": "xiǎo",
+    "tone": 3,
+    "plain": "xiao",
+    "element": "火",
+    "meaning": "破晓",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晔",
+    "pinyin": "yè",
+    "tone": 4,
+    "plain": "ye",
+    "element": "火",
+    "meaning": "光华",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晗",
+    "pinyin": "hán",
+    "tone": 2,
+    "plain": "han",
+    "element": "火",
+    "meaning": "将明",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "晞",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "火",
+    "meaning": "晨露",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晟",
+    "pinyin": "shèng",
+    "tone": 4,
+    "plain": "sheng",
+    "element": "火",
+    "meaning": "兴盛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晨",
+    "pinyin": "chén",
+    "tone": 2,
+    "plain": "chen",
+    "element": "火",
+    "meaning": "清晨",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "晴",
+    "pinyin": "qíng",
+    "tone": 2,
+    "plain": "qing",
+    "element": "火",
+    "meaning": "晴朗",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "晶",
+    "pinyin": "jīng",
+    "tone": 1,
+    "plain": "jing",
+    "element": "火",
+    "meaning": "晶莹",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "智",
+    "pinyin": "zhì",
+    "tone": 4,
+    "plain": "zhi",
+    "element": "火",
+    "meaning": "明智",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "暄",
+    "pinyin": "xuān",
+    "tone": 1,
+    "plain": "xuan",
+    "element": "火",
+    "meaning": "温暖",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "暖",
+    "pinyin": "nuǎn",
+    "tone": 3,
+    "plain": "nuan",
+    "element": "火",
+    "meaning": "和暖",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "暮",
+    "pinyin": "mù",
+    "tone": 4,
+    "plain": "mu",
+    "element": "火",
+    "meaning": "暮色",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "曦",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "火",
+    "meaning": "晨光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "曜",
+    "pinyin": "yào",
+    "tone": 4,
+    "plain": "yao",
+    "element": "火",
+    "meaning": "光曜",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "曼",
+    "pinyin": "màn",
+    "tone": 4,
+    "plain": "man",
+    "element": "火",
+    "meaning": "舒展",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "昂",
+    "pinyin": "áng",
+    "tone": 2,
+    "plain": "ang",
+    "element": "火",
+    "meaning": "昂扬",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晁",
+    "pinyin": "cháo",
+    "tone": 2,
+    "plain": "chao",
+    "element": "火",
+    "meaning": "朝光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晋",
+    "pinyin": "jìn",
+    "tone": 4,
+    "plain": "jin",
+    "element": "火",
+    "meaning": "上进",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晰",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "火",
+    "meaning": "明晰",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "曈",
+    "pinyin": "tóng",
+    "tone": 2,
+    "plain": "tong",
+    "element": "火",
+    "meaning": "日出",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "照",
+    "pinyin": "zhào",
+    "tone": 4,
+    "plain": "zhao",
+    "element": "火",
+    "meaning": "照映",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "煦",
+    "pinyin": "xù",
+    "tone": 4,
+    "plain": "xu",
+    "element": "火",
+    "meaning": "和煦",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "火",
+    "pinyin": "huǒ",
+    "tone": 3,
+    "plain": "huo",
+    "element": "火",
+    "meaning": "热诚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "灯",
+    "pinyin": "dēng",
+    "tone": 1,
+    "plain": "deng",
+    "element": "火",
+    "meaning": "灯火",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "灿",
+    "pinyin": "càn",
+    "tone": 4,
+    "plain": "can",
+    "element": "火",
+    "meaning": "灿烂",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "炅",
+    "pinyin": "jiǒng",
+    "tone": 3,
+    "plain": "jiong",
+    "element": "火",
+    "meaning": "明亮",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "炎",
+    "pinyin": "yán",
+    "tone": 2,
+    "plain": "yan",
+    "element": "火",
+    "meaning": "热情",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "炜",
+    "pinyin": "wěi",
+    "tone": 3,
+    "plain": "wei",
+    "element": "火",
+    "meaning": "光彩",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "炫",
+    "pinyin": "xuàn",
+    "tone": 4,
+    "plain": "xuan",
+    "element": "火",
+    "meaning": "光耀",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "炯",
+    "pinyin": "jiǒng",
+    "tone": 3,
+    "plain": "jiong",
+    "element": "火",
+    "meaning": "明亮",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "炳",
+    "pinyin": "bǐng",
+    "tone": 3,
+    "plain": "bing",
+    "element": "火",
+    "meaning": "显著",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "烁",
+    "pinyin": "shuò",
+    "tone": 4,
+    "plain": "shuo",
+    "element": "火",
+    "meaning": "闪亮",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "烨",
+    "pinyin": "yè",
+    "tone": 4,
+    "plain": "ye",
+    "element": "火",
+    "meaning": "光辉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "烈",
+    "pinyin": "liè",
+    "tone": 4,
+    "plain": "lie",
+    "element": "火",
+    "meaning": "热忱",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "烺",
+    "pinyin": "lǎng",
+    "tone": 3,
+    "plain": "lang",
+    "element": "火",
+    "meaning": "明朗",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "焕",
+    "pinyin": "huàn",
+    "tone": 4,
+    "plain": "huan",
+    "element": "火",
+    "meaning": "焕新",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "焓",
+    "pinyin": "hán",
+    "tone": 2,
+    "plain": "han",
+    "element": "火",
+    "meaning": "热意",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "焜",
+    "pinyin": "kūn",
+    "tone": 1,
+    "plain": "kun",
+    "element": "火",
+    "meaning": "光明",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "焱",
+    "pinyin": "yàn",
+    "tone": 4,
+    "plain": "yan",
+    "element": "火",
+    "meaning": "焰光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "煊",
+    "pinyin": "xuān",
+    "tone": 1,
+    "plain": "xuan",
+    "element": "火",
+    "meaning": "温暖",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "煜",
+    "pinyin": "yù",
+    "tone": 4,
+    "plain": "yu",
+    "element": "火",
+    "meaning": "照耀",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "煌",
+    "pinyin": "huáng",
+    "tone": 2,
+    "plain": "huang",
+    "element": "火",
+    "meaning": "辉煌",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "熙",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "火",
+    "meaning": "光明",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "熠",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "火",
+    "meaning": "闪耀",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "熹",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "火",
+    "meaning": "微明",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "燃",
+    "pinyin": "rán",
+    "tone": 2,
+    "plain": "ran",
+    "element": "火",
+    "meaning": "燃起",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "燊",
+    "pinyin": "shēn",
+    "tone": 1,
+    "plain": "shen",
+    "element": "火",
+    "meaning": "兴盛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "燕",
+    "pinyin": "yàn",
+    "tone": 4,
+    "plain": "yan",
+    "element": "火",
+    "meaning": "安适",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "灵",
+    "pinyin": "líng",
+    "tone": 2,
+    "plain": "ling",
+    "element": "火",
+    "meaning": "灵动",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "烟",
+    "pinyin": "yān",
+    "tone": 1,
+    "plain": "yan",
+    "element": "火",
+    "meaning": "烟岚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "朗",
+    "pinyin": "lǎng",
+    "tone": 3,
+    "plain": "lang",
+    "element": "火",
+    "meaning": "清朗",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "亮",
+    "pinyin": "liàng",
+    "tone": 4,
+    "plain": "liang",
+    "element": "火",
+    "meaning": "明亮",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "光",
+    "pinyin": "guāng",
+    "tone": 1,
+    "plain": "guang",
+    "element": "火",
+    "meaning": "光辉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "耀",
+    "pinyin": "yào",
+    "tone": 4,
+    "plain": "yao",
+    "element": "火",
+    "meaning": "照耀",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "彤",
+    "pinyin": "tóng",
+    "tone": 2,
+    "plain": "tong",
+    "element": "火",
+    "meaning": "红彩",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "丹",
+    "pinyin": "dān",
+    "tone": 1,
+    "plain": "dan",
+    "element": "火",
+    "meaning": "赤诚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "朱",
+    "pinyin": "zhū",
+    "tone": 1,
+    "plain": "zhu",
+    "element": "火",
+    "meaning": "朱红",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "夏",
+    "pinyin": "xià",
+    "tone": 4,
+    "plain": "xia",
+    "element": "火",
+    "meaning": "盛夏",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "南",
+    "pinyin": "nán",
+    "tone": 2,
+    "plain": "nan",
+    "element": "火",
+    "meaning": "南方",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "之",
+    "pinyin": "zhī",
+    "tone": 1,
+    "plain": "zhi",
+    "element": "火",
+    "meaning": "往达",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "予",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "plain": "yu",
+    "element": "火",
+    "meaning": "给予",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "亦",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "火",
+    "meaning": "亦然",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "乐",
+    "pinyin": "lè",
+    "tone": 4,
+    "plain": "le",
+    "element": "火",
+    "meaning": "喜乐",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "宁",
+    "pinyin": "níng",
+    "tone": 2,
+    "plain": "ning",
+    "element": "火",
+    "meaning": "安宁",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "安",
+    "pinyin": "ān",
+    "tone": 1,
+    "plain": "an",
+    "element": "火",
+    "meaning": "安定",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "心",
+    "pinyin": "xīn",
+    "tone": 1,
+    "plain": "xin",
+    "element": "火",
+    "meaning": "本心",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "念",
+    "pinyin": "niàn",
+    "tone": 4,
+    "plain": "nian",
+    "element": "火",
+    "meaning": "思念",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "思",
+    "pinyin": "sī",
+    "tone": 1,
+    "plain": "si",
+    "element": "火",
+    "meaning": "思考",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "忆",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "火",
+    "meaning": "记忆",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "恬",
+    "pinyin": "tián",
+    "tone": 2,
+    "plain": "tian",
+    "element": "火",
+    "meaning": "安恬",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "恺",
+    "pinyin": "kǎi",
+    "tone": 3,
+    "plain": "kai",
+    "element": "火",
+    "meaning": "和乐",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "怡",
+    "pinyin": "yí",
+    "tone": 2,
+    "plain": "yi",
+    "element": "火",
+    "meaning": "和悦",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "恩",
+    "pinyin": "ēn",
+    "tone": 1,
+    "plain": "en",
+    "element": "火",
+    "meaning": "恩泽",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "息",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "火",
+    "meaning": "安息",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "悦",
+    "pinyin": "yuè",
+    "tone": 4,
+    "plain": "yue",
+    "element": "火",
+    "meaning": "喜悦",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "惟",
+    "pinyin": "wéi",
+    "tone": 2,
+    "plain": "wei",
+    "element": "火",
+    "meaning": "专注",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "惠",
+    "pinyin": "huì",
+    "tone": 4,
+    "plain": "hui",
+    "element": "火",
+    "meaning": "仁惠",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "慧",
+    "pinyin": "huì",
+    "tone": 4,
+    "plain": "hui",
+    "element": "火",
+    "meaning": "明慧",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "慕",
+    "pinyin": "mù",
+    "tone": 4,
+    "plain": "mu",
+    "element": "火",
+    "meaning": "向慕",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "憬",
+    "pinyin": "jǐng",
+    "tone": 3,
+    "plain": "jing",
+    "element": "火",
+    "meaning": "憧憬",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "懿",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "火",
+    "meaning": "美德",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "志",
+    "pinyin": "zhì",
+    "tone": 4,
+    "plain": "zhi",
+    "element": "火",
+    "meaning": "志向",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "忠",
+    "pinyin": "zhōng",
+    "tone": 1,
+    "plain": "zhong",
+    "element": "火",
+    "meaning": "忠诚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "恕",
+    "pinyin": "shù",
+    "tone": 4,
+    "plain": "shu",
+    "element": "火",
+    "meaning": "体谅",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "慈",
+    "pinyin": "cí",
+    "tone": 2,
+    "plain": "ci",
+    "element": "火",
+    "meaning": "慈爱",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "愿",
+    "pinyin": "yuàn",
+    "tone": 4,
+    "plain": "yuan",
+    "element": "火",
+    "meaning": "心愿",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "德",
+    "pinyin": "dé",
+    "tone": 2,
+    "plain": "de",
+    "element": "火",
+    "meaning": "德行",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "礼",
+    "pinyin": "lǐ",
+    "tone": 3,
+    "plain": "li",
+    "element": "火",
+    "meaning": "礼敬",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "亭",
+    "pinyin": "tíng",
+    "tone": 2,
+    "plain": "ting",
+    "element": "火",
+    "meaning": "雅亭",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "卓",
+    "pinyin": "zhuó",
+    "tone": 2,
+    "plain": "zhuo",
+    "element": "火",
+    "meaning": "卓然",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "章",
+    "pinyin": "zhāng",
+    "tone": 1,
+    "plain": "zhang",
+    "element": "火",
+    "meaning": "文采",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "采",
+    "pinyin": "cǎi",
+    "tone": 3,
+    "plain": "cai",
+    "element": "火",
+    "meaning": "神采",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "蝶",
+    "pinyin": "dié",
+    "tone": 2,
+    "plain": "die",
+    "element": "火",
+    "meaning": "轻盈",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "雁",
+    "pinyin": "yàn",
+    "tone": 4,
+    "plain": "yan",
+    "element": "火",
+    "meaning": "远志",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "鹿",
+    "pinyin": "lù",
+    "tone": 4,
+    "plain": "lu",
+    "element": "火",
+    "meaning": "灵秀",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "鹭",
+    "pinyin": "lù",
+    "tone": 4,
+    "plain": "lu",
+    "element": "火",
+    "meaning": "清洁",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "鸾",
+    "pinyin": "luán",
+    "tone": 2,
+    "plain": "luan",
+    "element": "火",
+    "meaning": "祥鸟",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "鹤",
+    "pinyin": "hè",
+    "tone": 4,
+    "plain": "he",
+    "element": "火",
+    "meaning": "高洁",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "土",
+    "pinyin": "tǔ",
+    "tone": 3,
+    "plain": "tu",
+    "element": "土",
+    "meaning": "厚载",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "山",
+    "pinyin": "shān",
+    "tone": 1,
+    "plain": "shan",
+    "element": "土",
+    "meaning": "山岳",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "岚",
+    "pinyin": "lán",
+    "tone": 2,
+    "plain": "lan",
+    "element": "土",
+    "meaning": "山气",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "岩",
+    "pinyin": "yán",
+    "tone": 2,
+    "plain": "yan",
+    "element": "土",
+    "meaning": "山岩",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "岑",
+    "pinyin": "cén",
+    "tone": 2,
+    "plain": "cen",
+    "element": "土",
+    "meaning": "山峰",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "岐",
+    "pinyin": "qí",
+    "tone": 2,
+    "plain": "qi",
+    "element": "土",
+    "meaning": "山路",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "岱",
+    "pinyin": "dài",
+    "tone": 4,
+    "plain": "dai",
+    "element": "土",
+    "meaning": "泰山",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "岳",
+    "pinyin": "yuè",
+    "tone": 4,
+    "plain": "yue",
+    "element": "土",
+    "meaning": "山岳",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "岸",
+    "pinyin": "àn",
+    "tone": 4,
+    "plain": "an",
+    "element": "土",
+    "meaning": "岸畔",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "峰",
+    "pinyin": "fēng",
+    "tone": 1,
+    "plain": "feng",
+    "element": "土",
+    "meaning": "高峰",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "峻",
+    "pinyin": "jùn",
+    "tone": 4,
+    "plain": "jun",
+    "element": "土",
+    "meaning": "高峻",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "峤",
+    "pinyin": "qiáo",
+    "tone": 2,
+    "plain": "qiao",
+    "element": "土",
+    "meaning": "高山",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "峥",
+    "pinyin": "zhēng",
+    "tone": 1,
+    "plain": "zheng",
+    "element": "土",
+    "meaning": "峻拔",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "嵘",
+    "pinyin": "róng",
+    "tone": 2,
+    "plain": "rong",
+    "element": "土",
+    "meaning": "峥嵘",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "峡",
+    "pinyin": "xiá",
+    "tone": 2,
+    "plain": "xia",
+    "element": "土",
+    "meaning": "山峡",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "崎",
+    "pinyin": "qí",
+    "tone": 2,
+    "plain": "qi",
+    "element": "土",
+    "meaning": "奇秀",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "嵩",
+    "pinyin": "sōng",
+    "tone": 1,
+    "plain": "song",
+    "element": "土",
+    "meaning": "高山",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "嵬",
+    "pinyin": "wéi",
+    "tone": 2,
+    "plain": "wei",
+    "element": "土",
+    "meaning": "高远",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "嵋",
+    "pinyin": "méi",
+    "tone": 2,
+    "plain": "mei",
+    "element": "土",
+    "meaning": "山色",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "嶙",
+    "pinyin": "lín",
+    "tone": 2,
+    "plain": "lin",
+    "element": "土",
+    "meaning": "嶙峋",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "嶷",
+    "pinyin": "yí",
+    "tone": 2,
+    "plain": "yi",
+    "element": "土",
+    "meaning": "高峻",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "屿",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "plain": "yu",
+    "element": "土",
+    "meaning": "岛屿",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "嵚",
+    "pinyin": "qīn",
+    "tone": 1,
+    "plain": "qin",
+    "element": "土",
+    "meaning": "高山",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "垚",
+    "pinyin": "yáo",
+    "tone": 2,
+    "plain": "yao",
+    "element": "土",
+    "meaning": "土高",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "均",
+    "pinyin": "jūn",
+    "tone": 1,
+    "plain": "jun",
+    "element": "土",
+    "meaning": "均衡",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "坤",
+    "pinyin": "kūn",
+    "tone": 1,
+    "plain": "kun",
+    "element": "土",
+    "meaning": "宽厚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "坪",
+    "pinyin": "píng",
+    "tone": 2,
+    "plain": "ping",
+    "element": "土",
+    "meaning": "坦然",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "垠",
+    "pinyin": "yín",
+    "tone": 2,
+    "plain": "yin",
+    "element": "土",
+    "meaning": "广阔",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "培",
+    "pinyin": "péi",
+    "tone": 2,
+    "plain": "pei",
+    "element": "土",
+    "meaning": "培育",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "城",
+    "pinyin": "chéng",
+    "tone": 2,
+    "plain": "cheng",
+    "element": "土",
+    "meaning": "守护",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "域",
+    "pinyin": "yù",
+    "tone": 4,
+    "plain": "yu",
+    "element": "土",
+    "meaning": "天地",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "堂",
+    "pinyin": "táng",
+    "tone": 2,
+    "plain": "tang",
+    "element": "土",
+    "meaning": "端正",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "堃",
+    "pinyin": "kūn",
+    "tone": 1,
+    "plain": "kun",
+    "element": "土",
+    "meaning": "厚德",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "塬",
+    "pinyin": "yuán",
+    "tone": 2,
+    "plain": "yuan",
+    "element": "土",
+    "meaning": "高原",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "境",
+    "pinyin": "jìng",
+    "tone": 4,
+    "plain": "jing",
+    "element": "土",
+    "meaning": "意境",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "墨",
+    "pinyin": "mò",
+    "tone": 4,
+    "plain": "mo",
+    "element": "土",
+    "meaning": "墨韵",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "增",
+    "pinyin": "zēng",
+    "tone": 1,
+    "plain": "zeng",
+    "element": "土",
+    "meaning": "增长",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "坚",
+    "pinyin": "jiān",
+    "tone": 1,
+    "plain": "jian",
+    "element": "土",
+    "meaning": "坚实",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "基",
+    "pinyin": "jī",
+    "tone": 1,
+    "plain": "ji",
+    "element": "土",
+    "meaning": "根基",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "垣",
+    "pinyin": "yuán",
+    "tone": 2,
+    "plain": "yuan",
+    "element": "土",
+    "meaning": "守护",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "圣",
+    "pinyin": "shèng",
+    "tone": 4,
+    "plain": "sheng",
+    "element": "土",
+    "meaning": "通达",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "圭",
+    "pinyin": "guī",
+    "tone": 1,
+    "plain": "gui",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "圻",
+    "pinyin": "qí",
+    "tone": 2,
+    "plain": "qi",
+    "element": "土",
+    "meaning": "广域",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "堇",
+    "pinyin": "jǐn",
+    "tone": 3,
+    "plain": "jin",
+    "element": "土",
+    "meaning": "珍惜",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "坦",
+    "pinyin": "tǎn",
+    "tone": 3,
+    "plain": "tan",
+    "element": "土",
+    "meaning": "坦诚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "垒",
+    "pinyin": "lěi",
+    "tone": 3,
+    "plain": "lei",
+    "element": "土",
+    "meaning": "积累",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "坛",
+    "pinyin": "tán",
+    "tone": 2,
+    "plain": "tan",
+    "element": "土",
+    "meaning": "积淀",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "圆",
+    "pinyin": "yuán",
+    "tone": 2,
+    "plain": "yuan",
+    "element": "土",
+    "meaning": "圆融",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "园",
+    "pinyin": "yuán",
+    "tone": 2,
+    "plain": "yuan",
+    "element": "土",
+    "meaning": "园圃",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "囿",
+    "pinyin": "yòu",
+    "tone": 4,
+    "plain": "you",
+    "element": "土",
+    "meaning": "涵养",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "宇",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "plain": "yu",
+    "element": "土",
+    "meaning": "气宇",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "宥",
+    "pinyin": "yòu",
+    "tone": 4,
+    "plain": "you",
+    "element": "土",
+    "meaning": "宽容",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "宛",
+    "pinyin": "wǎn",
+    "tone": 3,
+    "plain": "wan",
+    "element": "土",
+    "meaning": "婉转",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "容",
+    "pinyin": "róng",
+    "tone": 2,
+    "plain": "rong",
+    "element": "土",
+    "meaning": "包容",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "宴",
+    "pinyin": "yàn",
+    "tone": 4,
+    "plain": "yan",
+    "element": "土",
+    "meaning": "安乐",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "宸",
+    "pinyin": "chén",
+    "tone": 2,
+    "plain": "chen",
+    "element": "土",
+    "meaning": "深宇",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "寅",
+    "pinyin": "yín",
+    "tone": 2,
+    "plain": "yin",
+    "element": "土",
+    "meaning": "敬谨",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "宽",
+    "pinyin": "kuān",
+    "tone": 1,
+    "plain": "kuan",
+    "element": "土",
+    "meaning": "宽和",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "尹",
+    "pinyin": "yǐn",
+    "tone": 3,
+    "plain": "yin",
+    "element": "土",
+    "meaning": "治理",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "尧",
+    "pinyin": "yáo",
+    "tone": 2,
+    "plain": "yao",
+    "element": "土",
+    "meaning": "高远",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "禹",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "plain": "yu",
+    "element": "土",
+    "meaning": "勤恳",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "允",
+    "pinyin": "yǔn",
+    "tone": 3,
+    "plain": "yun",
+    "element": "土",
+    "meaning": "诚信",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "佑",
+    "pinyin": "yòu",
+    "tone": 4,
+    "plain": "you",
+    "element": "土",
+    "meaning": "助益",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "依",
+    "pinyin": "yī",
+    "tone": 1,
+    "plain": "yi",
+    "element": "土",
+    "meaning": "依托",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "以",
+    "pinyin": "yǐ",
+    "tone": 3,
+    "plain": "yi",
+    "element": "土",
+    "meaning": "以行",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "伊",
+    "pinyin": "yī",
+    "tone": 1,
+    "plain": "yi",
+    "element": "土",
+    "meaning": "柔和",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "伍",
+    "pinyin": "wǔ",
+    "tone": 3,
+    "plain": "wu",
+    "element": "土",
+    "meaning": "协作",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "伟",
+    "pinyin": "wěi",
+    "tone": 3,
+    "plain": "wei",
+    "element": "土",
+    "meaning": "高大",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "侑",
+    "pinyin": "yòu",
+    "tone": 4,
+    "plain": "you",
+    "element": "土",
+    "meaning": "助兴",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "佚",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "土",
+    "meaning": "安逸",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "优",
+    "pinyin": "yōu",
+    "tone": 1,
+    "plain": "you",
+    "element": "土",
+    "meaning": "优雅",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "友",
+    "pinyin": "yǒu",
+    "tone": 3,
+    "plain": "you",
+    "element": "土",
+    "meaning": "友善",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "亚",
+    "pinyin": "yà",
+    "tone": 4,
+    "plain": "ya",
+    "element": "土",
+    "meaning": "谦和",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "羽",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "plain": "yu",
+    "element": "土",
+    "meaning": "羽翼",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "翊",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "土",
+    "meaning": "辅佐",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "翕",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "土",
+    "meaning": "和合",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "翔",
+    "pinyin": "xiáng",
+    "tone": 2,
+    "plain": "xiang",
+    "element": "土",
+    "meaning": "飞翔",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "翎",
+    "pinyin": "líng",
+    "tone": 2,
+    "plain": "ling",
+    "element": "土",
+    "meaning": "羽翎",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "翰",
+    "pinyin": "hàn",
+    "tone": 4,
+    "plain": "han",
+    "element": "土",
+    "meaning": "文翰",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "翀",
+    "pinyin": "chōng",
+    "tone": 1,
+    "plain": "chong",
+    "element": "土",
+    "meaning": "飞升",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "翡",
+    "pinyin": "fěi",
+    "tone": 3,
+    "plain": "fei",
+    "element": "土",
+    "meaning": "碧羽",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "翠",
+    "pinyin": "cuì",
+    "tone": 4,
+    "plain": "cui",
+    "element": "土",
+    "meaning": "翠色",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "玥",
+    "pinyin": "yuè",
+    "tone": 4,
+    "plain": "yue",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "玮",
+    "pinyin": "wěi",
+    "tone": 3,
+    "plain": "wei",
+    "element": "土",
+    "meaning": "珍美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "琬",
+    "pinyin": "wǎn",
+    "tone": 3,
+    "plain": "wan",
+    "element": "土",
+    "meaning": "温润",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "琛",
+    "pinyin": "chēn",
+    "tone": 1,
+    "plain": "chen",
+    "element": "土",
+    "meaning": "珍宝",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "琦",
+    "pinyin": "qí",
+    "tone": 2,
+    "plain": "qi",
+    "element": "土",
+    "meaning": "美好",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "琪",
+    "pinyin": "qí",
+    "tone": 2,
+    "plain": "qi",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "琳",
+    "pinyin": "lín",
+    "tone": 2,
+    "plain": "lin",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "琅",
+    "pinyin": "láng",
+    "tone": 2,
+    "plain": "lang",
+    "element": "土",
+    "meaning": "琳琅",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "琨",
+    "pinyin": "kūn",
+    "tone": 1,
+    "plain": "kun",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "琢",
+    "pinyin": "zhuó",
+    "tone": 2,
+    "plain": "zhuo",
+    "element": "土",
+    "meaning": "琢磨",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "琼",
+    "pinyin": "qióng",
+    "tone": 2,
+    "plain": "qiong",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "瑛",
+    "pinyin": "yīng",
+    "tone": 1,
+    "plain": "ying",
+    "element": "土",
+    "meaning": "玉光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "瑜",
+    "pinyin": "yú",
+    "tone": 2,
+    "plain": "yu",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "瑶",
+    "pinyin": "yáo",
+    "tone": 2,
+    "plain": "yao",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "female",
+    "common": true
+  },
+  {
+    "char": "瑾",
+    "pinyin": "jǐn",
+    "tone": 3,
+    "plain": "jin",
+    "element": "土",
+    "meaning": "美德",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "瑷",
+    "pinyin": "ài",
+    "tone": 4,
+    "plain": "ai",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "璇",
+    "pinyin": "xuán",
+    "tone": 2,
+    "plain": "xuan",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "璋",
+    "pinyin": "zhāng",
+    "tone": 1,
+    "plain": "zhang",
+    "element": "土",
+    "meaning": "礼玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "璟",
+    "pinyin": "jǐng",
+    "tone": 3,
+    "plain": "jing",
+    "element": "土",
+    "meaning": "玉光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "璞",
+    "pinyin": "pú",
+    "tone": 2,
+    "plain": "pu",
+    "element": "土",
+    "meaning": "质朴",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "璨",
+    "pinyin": "càn",
+    "tone": 4,
+    "plain": "can",
+    "element": "土",
+    "meaning": "明美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "璠",
+    "pinyin": "fán",
+    "tone": 2,
+    "plain": "fan",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "璧",
+    "pinyin": "bì",
+    "tone": 4,
+    "plain": "bi",
+    "element": "土",
+    "meaning": "完美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "珂",
+    "pinyin": "kē",
+    "tone": 1,
+    "plain": "ke",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "珈",
+    "pinyin": "jiā",
+    "tone": 1,
+    "plain": "jia",
+    "element": "土",
+    "meaning": "玉饰",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "玖",
+    "pinyin": "jiǔ",
+    "tone": 3,
+    "plain": "jiu",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "玫",
+    "pinyin": "méi",
+    "tone": 2,
+    "plain": "mei",
+    "element": "土",
+    "meaning": "美石",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "珑",
+    "pinyin": "lóng",
+    "tone": 2,
+    "plain": "long",
+    "element": "土",
+    "meaning": "玲珑",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "珊",
+    "pinyin": "shān",
+    "tone": 1,
+    "plain": "shan",
+    "element": "土",
+    "meaning": "珊瑚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "珍",
+    "pinyin": "zhēn",
+    "tone": 1,
+    "plain": "zhen",
+    "element": "土",
+    "meaning": "珍爱",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "珠",
+    "pinyin": "zhū",
+    "tone": 1,
+    "plain": "zhu",
+    "element": "土",
+    "meaning": "圆润",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "理",
+    "pinyin": "lǐ",
+    "tone": 3,
+    "plain": "li",
+    "element": "土",
+    "meaning": "条理",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "金",
+    "pinyin": "jīn",
+    "tone": 1,
+    "plain": "jin",
+    "element": "金",
+    "meaning": "坚贞",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "鑫",
+    "pinyin": "xīn",
+    "tone": 1,
+    "plain": "xin",
+    "element": "金",
+    "meaning": "兴盛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "钰",
+    "pinyin": "yù",
+    "tone": 4,
+    "plain": "yu",
+    "element": "金",
+    "meaning": "珍宝",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "钧",
+    "pinyin": "jūn",
+    "tone": 1,
+    "plain": "jun",
+    "element": "金",
+    "meaning": "均衡",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "钦",
+    "pinyin": "qīn",
+    "tone": 1,
+    "plain": "qin",
+    "element": "金",
+    "meaning": "敬重",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "钟",
+    "pinyin": "zhōng",
+    "tone": 1,
+    "plain": "zhong",
+    "element": "金",
+    "meaning": "专注",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "铃",
+    "pinyin": "líng",
+    "tone": 2,
+    "plain": "ling",
+    "element": "金",
+    "meaning": "清音",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "银",
+    "pinyin": "yín",
+    "tone": 2,
+    "plain": "yin",
+    "element": "金",
+    "meaning": "银辉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "铮",
+    "pinyin": "zhēng",
+    "tone": 1,
+    "plain": "zheng",
+    "element": "金",
+    "meaning": "铮然",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "铭",
+    "pinyin": "míng",
+    "tone": 2,
+    "plain": "ming",
+    "element": "金",
+    "meaning": "铭记",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "铠",
+    "pinyin": "kǎi",
+    "tone": 3,
+    "plain": "kai",
+    "element": "金",
+    "meaning": "守护",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "锐",
+    "pinyin": "ruì",
+    "tone": 4,
+    "plain": "rui",
+    "element": "金",
+    "meaning": "敏锐",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "锦",
+    "pinyin": "jǐn",
+    "tone": 3,
+    "plain": "jin",
+    "element": "金",
+    "meaning": "锦绣",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "铎",
+    "pinyin": "duó",
+    "tone": 2,
+    "plain": "duo",
+    "element": "金",
+    "meaning": "清响",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "锟",
+    "pinyin": "kūn",
+    "tone": 1,
+    "plain": "kun",
+    "element": "金",
+    "meaning": "珍铁",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "锡",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "金",
+    "meaning": "赐福",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "锴",
+    "pinyin": "kǎi",
+    "tone": 3,
+    "plain": "kai",
+    "element": "金",
+    "meaning": "坚实",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "铄",
+    "pinyin": "shuò",
+    "tone": 4,
+    "plain": "shuo",
+    "element": "金",
+    "meaning": "光亮",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "铿",
+    "pinyin": "kēng",
+    "tone": 1,
+    "plain": "keng",
+    "element": "金",
+    "meaning": "坚毅",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "锵",
+    "pinyin": "qiāng",
+    "tone": 1,
+    "plain": "qiang",
+    "element": "金",
+    "meaning": "清亮",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "镜",
+    "pinyin": "jìng",
+    "tone": 4,
+    "plain": "jing",
+    "element": "金",
+    "meaning": "明鉴",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "镕",
+    "pinyin": "róng",
+    "tone": 2,
+    "plain": "rong",
+    "element": "金",
+    "meaning": "融通",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "镐",
+    "pinyin": "hào",
+    "tone": 4,
+    "plain": "hao",
+    "element": "金",
+    "meaning": "明朗",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "钊",
+    "pinyin": "zhāo",
+    "tone": 1,
+    "plain": "zhao",
+    "element": "金",
+    "meaning": "勉励",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "钥",
+    "pinyin": "yào",
+    "tone": 4,
+    "plain": "yao",
+    "element": "金",
+    "meaning": "开启",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "锆",
+    "pinyin": "gào",
+    "tone": 4,
+    "plain": "gao",
+    "element": "金",
+    "meaning": "坚韧",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "鉴",
+    "pinyin": "jiàn",
+    "tone": 4,
+    "plain": "jian",
+    "element": "金",
+    "meaning": "明察",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "钒",
+    "pinyin": "fán",
+    "tone": 2,
+    "plain": "fan",
+    "element": "金",
+    "meaning": "坚韧",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "钲",
+    "pinyin": "zhēng",
+    "tone": 1,
+    "plain": "zheng",
+    "element": "金",
+    "meaning": "正声",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "钺",
+    "pinyin": "yuè",
+    "tone": 4,
+    "plain": "yue",
+    "element": "金",
+    "meaning": "担当",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "铖",
+    "pinyin": "chéng",
+    "tone": 2,
+    "plain": "cheng",
+    "element": "金",
+    "meaning": "刚健",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "锶",
+    "pinyin": "sī",
+    "tone": 1,
+    "plain": "si",
+    "element": "金",
+    "meaning": "专注",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "锘",
+    "pinyin": "nuò",
+    "tone": 4,
+    "plain": "nuo",
+    "element": "金",
+    "meaning": "坚韧",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "镟",
+    "pinyin": "xuàn",
+    "tone": 4,
+    "plain": "xuan",
+    "element": "金",
+    "meaning": "圆转",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "刚",
+    "pinyin": "gāng",
+    "tone": 1,
+    "plain": "gang",
+    "element": "金",
+    "meaning": "刚正",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "则",
+    "pinyin": "zé",
+    "tone": 2,
+    "plain": "ze",
+    "element": "金",
+    "meaning": "准则",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "初",
+    "pinyin": "chū",
+    "tone": 1,
+    "plain": "chu",
+    "element": "金",
+    "meaning": "初心",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "创",
+    "pinyin": "chuàng",
+    "tone": 4,
+    "plain": "chuang",
+    "element": "金",
+    "meaning": "开创",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "劭",
+    "pinyin": "shào",
+    "tone": 4,
+    "plain": "shao",
+    "element": "金",
+    "meaning": "勉励",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "勇",
+    "pinyin": "yǒng",
+    "tone": 3,
+    "plain": "yong",
+    "element": "金",
+    "meaning": "勇敢",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "勤",
+    "pinyin": "qín",
+    "tone": 2,
+    "plain": "qin",
+    "element": "金",
+    "meaning": "勤勉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "励",
+    "pinyin": "lì",
+    "tone": 4,
+    "plain": "li",
+    "element": "金",
+    "meaning": "勉励",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "力",
+    "pinyin": "lì",
+    "tone": 4,
+    "plain": "li",
+    "element": "金",
+    "meaning": "力量",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "功",
+    "pinyin": "gōng",
+    "tone": 1,
+    "plain": "gong",
+    "element": "金",
+    "meaning": "成就",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "努",
+    "pinyin": "nǔ",
+    "tone": 3,
+    "plain": "nu",
+    "element": "金",
+    "meaning": "努力",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "靖",
+    "pinyin": "jìng",
+    "tone": 4,
+    "plain": "jing",
+    "element": "金",
+    "meaning": "安定",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "青",
+    "pinyin": "qīng",
+    "tone": 1,
+    "plain": "qing",
+    "element": "金",
+    "meaning": "青春",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "静",
+    "pinyin": "jìng",
+    "tone": 4,
+    "plain": "jing",
+    "element": "金",
+    "meaning": "宁静",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "韶",
+    "pinyin": "sháo",
+    "tone": 2,
+    "plain": "shao",
+    "element": "金",
+    "meaning": "美好",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "韵",
+    "pinyin": "yùn",
+    "tone": 4,
+    "plain": "yun",
+    "element": "金",
+    "meaning": "韵致",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "音",
+    "pinyin": "yīn",
+    "tone": 1,
+    "plain": "yin",
+    "element": "金",
+    "meaning": "声音",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "声",
+    "pinyin": "shēng",
+    "tone": 1,
+    "plain": "sheng",
+    "element": "金",
+    "meaning": "声誉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "诚",
+    "pinyin": "chéng",
+    "tone": 2,
+    "plain": "cheng",
+    "element": "金",
+    "meaning": "真诚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "信",
+    "pinyin": "xìn",
+    "tone": 4,
+    "plain": "xin",
+    "element": "金",
+    "meaning": "信实",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "诗",
+    "pinyin": "shī",
+    "tone": 1,
+    "plain": "shi",
+    "element": "金",
+    "meaning": "诗意",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "词",
+    "pinyin": "cí",
+    "tone": 2,
+    "plain": "ci",
+    "element": "金",
+    "meaning": "文辞",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "语",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "plain": "yu",
+    "element": "金",
+    "meaning": "言语",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "诵",
+    "pinyin": "sòng",
+    "tone": 4,
+    "plain": "song",
+    "element": "金",
+    "meaning": "吟诵",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "译",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "金",
+    "meaning": "传译",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "识",
+    "pinyin": "shí",
+    "tone": 2,
+    "plain": "shi",
+    "element": "金",
+    "meaning": "见识",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "认",
+    "pinyin": "rèn",
+    "tone": 4,
+    "plain": "ren",
+    "element": "金",
+    "meaning": "认真",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "记",
+    "pinyin": "jì",
+    "tone": 4,
+    "plain": "ji",
+    "element": "金",
+    "meaning": "记取",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "谨",
+    "pinyin": "jǐn",
+    "tone": 3,
+    "plain": "jin",
+    "element": "金",
+    "meaning": "谨慎",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "诸",
+    "pinyin": "zhū",
+    "tone": 1,
+    "plain": "zhu",
+    "element": "金",
+    "meaning": "丰富",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "谦",
+    "pinyin": "qiān",
+    "tone": 1,
+    "plain": "qian",
+    "element": "金",
+    "meaning": "谦和",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "谕",
+    "pinyin": "yù",
+    "tone": 4,
+    "plain": "yu",
+    "element": "金",
+    "meaning": "明达",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "诩",
+    "pinyin": "xǔ",
+    "tone": 3,
+    "plain": "xu",
+    "element": "金",
+    "meaning": "自信",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "询",
+    "pinyin": "xún",
+    "tone": 2,
+    "plain": "xun",
+    "element": "金",
+    "meaning": "问学",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "谊",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "金",
+    "meaning": "情谊",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "谆",
+    "pinyin": "zhūn",
+    "tone": 1,
+    "plain": "zhun",
+    "element": "金",
+    "meaning": "诚恳",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绍",
+    "pinyin": "shào",
+    "tone": 4,
+    "plain": "shao",
+    "element": "金",
+    "meaning": "承续",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "纯",
+    "pinyin": "chún",
+    "tone": 2,
+    "plain": "chun",
+    "element": "金",
+    "meaning": "纯粹",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "素",
+    "pinyin": "sù",
+    "tone": 4,
+    "plain": "su",
+    "element": "金",
+    "meaning": "素净",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "纾",
+    "pinyin": "shū",
+    "tone": 1,
+    "plain": "shu",
+    "element": "金",
+    "meaning": "舒缓",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "纶",
+    "pinyin": "lún",
+    "tone": 2,
+    "plain": "lun",
+    "element": "金",
+    "meaning": "经纶",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绎",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "金",
+    "meaning": "寻理",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绚",
+    "pinyin": "xuàn",
+    "tone": 4,
+    "plain": "xuan",
+    "element": "金",
+    "meaning": "绚丽",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绮",
+    "pinyin": "qǐ",
+    "tone": 3,
+    "plain": "qi",
+    "element": "金",
+    "meaning": "绮美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绘",
+    "pinyin": "huì",
+    "tone": 4,
+    "plain": "hui",
+    "element": "金",
+    "meaning": "绘彩",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绒",
+    "pinyin": "róng",
+    "tone": 2,
+    "plain": "rong",
+    "element": "金",
+    "meaning": "柔软",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "维",
+    "pinyin": "wéi",
+    "tone": 2,
+    "plain": "wei",
+    "element": "金",
+    "meaning": "维系",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "纪",
+    "pinyin": "jì",
+    "tone": 4,
+    "plain": "ji",
+    "element": "金",
+    "meaning": "纪纲",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "纲",
+    "pinyin": "gāng",
+    "tone": 1,
+    "plain": "gang",
+    "element": "金",
+    "meaning": "纲领",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "纽",
+    "pinyin": "niǔ",
+    "tone": 3,
+    "plain": "niu",
+    "element": "金",
+    "meaning": "联结",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绅",
+    "pinyin": "shēn",
+    "tone": 1,
+    "plain": "shen",
+    "element": "金",
+    "meaning": "端正",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绾",
+    "pinyin": "wǎn",
+    "tone": 3,
+    "plain": "wan",
+    "element": "金",
+    "meaning": "联结",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "纤",
+    "pinyin": "xiān",
+    "tone": 1,
+    "plain": "xian",
+    "element": "金",
+    "meaning": "细巧",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绫",
+    "pinyin": "líng",
+    "tone": 2,
+    "plain": "ling",
+    "element": "金",
+    "meaning": "绫罗",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "绰",
+    "pinyin": "chuò",
+    "tone": 4,
+    "plain": "chuo",
+    "element": "金",
+    "meaning": "从容",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "川",
+    "pinyin": "chuān",
+    "tone": 1,
+    "plain": "chuan",
+    "element": "金",
+    "meaning": "川流",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "州",
+    "pinyin": "zhōu",
+    "tone": 1,
+    "plain": "zhou",
+    "element": "金",
+    "meaning": "广域",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "顺",
+    "pinyin": "shùn",
+    "tone": 4,
+    "plain": "shun",
+    "element": "金",
+    "meaning": "顺和",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "巡",
+    "pinyin": "xún",
+    "tone": 2,
+    "plain": "xun",
+    "element": "金",
+    "meaning": "巡行",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "士",
+    "pinyin": "shì",
+    "tone": 4,
+    "plain": "shi",
+    "element": "金",
+    "meaning": "志士",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "仕",
+    "pinyin": "shì",
+    "tone": 4,
+    "plain": "shi",
+    "element": "金",
+    "meaning": "成才",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "生",
+    "pinyin": "shēng",
+    "tone": 1,
+    "plain": "sheng",
+    "element": "金",
+    "meaning": "生长",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "睿",
+    "pinyin": "ruì",
+    "tone": 4,
+    "plain": "rui",
+    "element": "金",
+    "meaning": "睿思",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "真",
+    "pinyin": "zhēn",
+    "tone": 1,
+    "plain": "zhen",
+    "element": "金",
+    "meaning": "真实",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "知",
+    "pinyin": "zhī",
+    "tone": 1,
+    "plain": "zhi",
+    "element": "金",
+    "meaning": "知晓",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "秋",
+    "pinyin": "qiū",
+    "tone": 1,
+    "plain": "qiu",
+    "element": "金",
+    "meaning": "澄明",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "歆",
+    "pinyin": "xīn",
+    "tone": 1,
+    "plain": "xin",
+    "element": "金",
+    "meaning": "欣喜",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "舒",
+    "pinyin": "shū",
+    "tone": 1,
+    "plain": "shu",
+    "element": "金",
+    "meaning": "舒展",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "新",
+    "pinyin": "xīn",
+    "tone": 1,
+    "plain": "xin",
+    "element": "金",
+    "meaning": "新生",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "瑞",
+    "pinyin": "ruì",
+    "tone": 4,
+    "plain": "rui",
+    "element": "金",
+    "meaning": "祥瑞",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "珵",
+    "pinyin": "chéng",
+    "tone": 2,
+    "plain": "cheng",
+    "element": "金",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "璐",
+    "pinyin": "lù",
+    "tone": 4,
+    "plain": "lu",
+    "element": "金",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "琮",
+    "pinyin": "cóng",
+    "tone": 2,
+    "plain": "cong",
+    "element": "金",
+    "meaning": "礼玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "琇",
+    "pinyin": "xiù",
+    "tone": 4,
+    "plain": "xiu",
+    "element": "金",
+    "meaning": "秀美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "瑄",
+    "pinyin": "xuān",
+    "tone": 1,
+    "plain": "xuan",
+    "element": "金",
+    "meaning": "礼玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "玹",
+    "pinyin": "xuán",
+    "tone": 2,
+    "plain": "xuan",
+    "element": "金",
+    "meaning": "玉色",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "玠",
+    "pinyin": "jiè",
+    "tone": 4,
+    "plain": "jie",
+    "element": "金",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "珣",
+    "pinyin": "xún",
+    "tone": 2,
+    "plain": "xun",
+    "element": "金",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "璎",
+    "pinyin": "yīng",
+    "tone": 1,
+    "plain": "ying",
+    "element": "金",
+    "meaning": "玉饰",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "珺",
+    "pinyin": "jùn",
+    "tone": 4,
+    "plain": "jun",
+    "element": "金",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "水",
+    "pinyin": "shuǐ",
+    "tone": 3,
+    "plain": "shui",
+    "element": "水",
+    "meaning": "柔韧",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "永",
+    "pinyin": "yǒng",
+    "tone": 3,
+    "plain": "yong",
+    "element": "水",
+    "meaning": "长久",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "汀",
+    "pinyin": "tīng",
+    "tone": 1,
+    "plain": "ting",
+    "element": "水",
+    "meaning": "水岸",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "汇",
+    "pinyin": "huì",
+    "tone": 4,
+    "plain": "hui",
+    "element": "水",
+    "meaning": "汇聚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "汉",
+    "pinyin": "hàn",
+    "tone": 4,
+    "plain": "han",
+    "element": "水",
+    "meaning": "广大",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "汐",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "水",
+    "meaning": "晚潮",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "江",
+    "pinyin": "jiāng",
+    "tone": 1,
+    "plain": "jiang",
+    "element": "水",
+    "meaning": "江流",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "池",
+    "pinyin": "chí",
+    "tone": 2,
+    "plain": "chi",
+    "element": "水",
+    "meaning": "清池",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "汝",
+    "pinyin": "rǔ",
+    "tone": 3,
+    "plain": "ru",
+    "element": "水",
+    "meaning": "亲切",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "汕",
+    "pinyin": "shàn",
+    "tone": 4,
+    "plain": "shan",
+    "element": "水",
+    "meaning": "水貌",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "汶",
+    "pinyin": "wèn",
+    "tone": 4,
+    "plain": "wen",
+    "element": "水",
+    "meaning": "清流",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沁",
+    "pinyin": "qìn",
+    "tone": 4,
+    "plain": "qin",
+    "element": "水",
+    "meaning": "沁润",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沅",
+    "pinyin": "yuán",
+    "tone": 2,
+    "plain": "yuan",
+    "element": "水",
+    "meaning": "沅水",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沂",
+    "pinyin": "yí",
+    "tone": 2,
+    "plain": "yi",
+    "element": "水",
+    "meaning": "沂水",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沐",
+    "pinyin": "mù",
+    "tone": 4,
+    "plain": "mu",
+    "element": "水",
+    "meaning": "润泽",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "沛",
+    "pinyin": "pèi",
+    "tone": 4,
+    "plain": "pei",
+    "element": "水",
+    "meaning": "充沛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沣",
+    "pinyin": "fēng",
+    "tone": 1,
+    "plain": "feng",
+    "element": "水",
+    "meaning": "丰沛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沙",
+    "pinyin": "shā",
+    "tone": 1,
+    "plain": "sha",
+    "element": "水",
+    "meaning": "细致",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沃",
+    "pinyin": "wò",
+    "tone": 4,
+    "plain": "wo",
+    "element": "水",
+    "meaning": "丰饶",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沆",
+    "pinyin": "hàng",
+    "tone": 4,
+    "plain": "hang",
+    "element": "水",
+    "meaning": "广阔",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沧",
+    "pinyin": "cāng",
+    "tone": 1,
+    "plain": "cang",
+    "element": "水",
+    "meaning": "苍茫",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沨",
+    "pinyin": "fēng",
+    "tone": 1,
+    "plain": "feng",
+    "element": "水",
+    "meaning": "水声",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "泓",
+    "pinyin": "hóng",
+    "tone": 2,
+    "plain": "hong",
+    "element": "水",
+    "meaning": "深广",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "法",
+    "pinyin": "fǎ",
+    "tone": 3,
+    "plain": "fa",
+    "element": "水",
+    "meaning": "法度",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "波",
+    "pinyin": "bō",
+    "tone": 1,
+    "plain": "bo",
+    "element": "水",
+    "meaning": "波光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "泽",
+    "pinyin": "zé",
+    "tone": 2,
+    "plain": "ze",
+    "element": "水",
+    "meaning": "恩泽",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "泠",
+    "pinyin": "líng",
+    "tone": 2,
+    "plain": "ling",
+    "element": "水",
+    "meaning": "清越",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "泫",
+    "pinyin": "xuàn",
+    "tone": 4,
+    "plain": "xuan",
+    "element": "水",
+    "meaning": "晶莹",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "泮",
+    "pinyin": "pàn",
+    "tone": 4,
+    "plain": "pan",
+    "element": "水",
+    "meaning": "融和",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "洁",
+    "pinyin": "jié",
+    "tone": 2,
+    "plain": "jie",
+    "element": "水",
+    "meaning": "纯洁",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "洋",
+    "pinyin": "yáng",
+    "tone": 2,
+    "plain": "yang",
+    "element": "水",
+    "meaning": "广大",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "洵",
+    "pinyin": "xún",
+    "tone": 2,
+    "plain": "xun",
+    "element": "水",
+    "meaning": "诚信",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "津",
+    "pinyin": "jīn",
+    "tone": 1,
+    "plain": "jin",
+    "element": "水",
+    "meaning": "润泽",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "洺",
+    "pinyin": "míng",
+    "tone": 2,
+    "plain": "ming",
+    "element": "水",
+    "meaning": "水名",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "洲",
+    "pinyin": "zhōu",
+    "tone": 1,
+    "plain": "zhou",
+    "element": "水",
+    "meaning": "洲渚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "洛",
+    "pinyin": "luò",
+    "tone": 4,
+    "plain": "luo",
+    "element": "水",
+    "meaning": "洛水",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "洪",
+    "pinyin": "hóng",
+    "tone": 2,
+    "plain": "hong",
+    "element": "水",
+    "meaning": "宽广",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "活",
+    "pinyin": "huó",
+    "tone": 2,
+    "plain": "huo",
+    "element": "水",
+    "meaning": "灵活",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "流",
+    "pinyin": "liú",
+    "tone": 2,
+    "plain": "liu",
+    "element": "水",
+    "meaning": "流动",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "浅",
+    "pinyin": "qiǎn",
+    "tone": 3,
+    "plain": "qian",
+    "element": "水",
+    "meaning": "清浅",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "浚",
+    "pinyin": "jùn",
+    "tone": 4,
+    "plain": "jun",
+    "element": "水",
+    "meaning": "深挖",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "浦",
+    "pinyin": "pǔ",
+    "tone": 3,
+    "plain": "pu",
+    "element": "水",
+    "meaning": "水滨",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "浩",
+    "pinyin": "hào",
+    "tone": 4,
+    "plain": "hao",
+    "element": "水",
+    "meaning": "浩然",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "浪",
+    "pinyin": "làng",
+    "tone": 4,
+    "plain": "lang",
+    "element": "水",
+    "meaning": "开阔",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "海",
+    "pinyin": "hǎi",
+    "tone": 3,
+    "plain": "hai",
+    "element": "水",
+    "meaning": "宽广",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "涓",
+    "pinyin": "juān",
+    "tone": 1,
+    "plain": "juan",
+    "element": "水",
+    "meaning": "细流",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "涔",
+    "pinyin": "cén",
+    "tone": 2,
+    "plain": "cen",
+    "element": "水",
+    "meaning": "水意",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "涛",
+    "pinyin": "tāo",
+    "tone": 1,
+    "plain": "tao",
+    "element": "水",
+    "meaning": "波涛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "润",
+    "pinyin": "rùn",
+    "tone": 4,
+    "plain": "run",
+    "element": "水",
+    "meaning": "温润",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "涵",
+    "pinyin": "hán",
+    "tone": 2,
+    "plain": "han",
+    "element": "水",
+    "meaning": "涵养",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "淇",
+    "pinyin": "qí",
+    "tone": 2,
+    "plain": "qi",
+    "element": "水",
+    "meaning": "淇水",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "淑",
+    "pinyin": "shū",
+    "tone": 1,
+    "plain": "shu",
+    "element": "水",
+    "meaning": "淑善",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "淙",
+    "pinyin": "cóng",
+    "tone": 2,
+    "plain": "cong",
+    "element": "水",
+    "meaning": "水声",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "淞",
+    "pinyin": "sōng",
+    "tone": 1,
+    "plain": "song",
+    "element": "水",
+    "meaning": "清流",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "淡",
+    "pinyin": "dàn",
+    "tone": 4,
+    "plain": "dan",
+    "element": "水",
+    "meaning": "淡泊",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "清",
+    "pinyin": "qīng",
+    "tone": 1,
+    "plain": "qing",
+    "element": "水",
+    "meaning": "清澈",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "渊",
+    "pinyin": "yuān",
+    "tone": 1,
+    "plain": "yuan",
+    "element": "水",
+    "meaning": "深厚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "渌",
+    "pinyin": "lù",
+    "tone": 4,
+    "plain": "lu",
+    "element": "水",
+    "meaning": "清水",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "渝",
+    "pinyin": "yú",
+    "tone": 2,
+    "plain": "yu",
+    "element": "水",
+    "meaning": "坚守",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "渠",
+    "pinyin": "qú",
+    "tone": 2,
+    "plain": "qu",
+    "element": "水",
+    "meaning": "通达",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "渡",
+    "pinyin": "dù",
+    "tone": 4,
+    "plain": "du",
+    "element": "水",
+    "meaning": "通行",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "湘",
+    "pinyin": "xiāng",
+    "tone": 1,
+    "plain": "xiang",
+    "element": "水",
+    "meaning": "湘水",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "湛",
+    "pinyin": "zhàn",
+    "tone": 4,
+    "plain": "zhan",
+    "element": "水",
+    "meaning": "清深",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "湜",
+    "pinyin": "shí",
+    "tone": 2,
+    "plain": "shi",
+    "element": "水",
+    "meaning": "清澈",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "湄",
+    "pinyin": "méi",
+    "tone": 2,
+    "plain": "mei",
+    "element": "水",
+    "meaning": "水岸",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "湲",
+    "pinyin": "yuán",
+    "tone": 2,
+    "plain": "yuan",
+    "element": "水",
+    "meaning": "缓流",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "游",
+    "pinyin": "yóu",
+    "tone": 2,
+    "plain": "you",
+    "element": "水",
+    "meaning": "游心",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "湫",
+    "pinyin": "qiū",
+    "tone": 1,
+    "plain": "qiu",
+    "element": "水",
+    "meaning": "清潭",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "溪",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "水",
+    "meaning": "溪流",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "溯",
+    "pinyin": "sù",
+    "tone": 4,
+    "plain": "su",
+    "element": "水",
+    "meaning": "求源",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "溱",
+    "pinyin": "zhēn",
+    "tone": 1,
+    "plain": "zhen",
+    "element": "水",
+    "meaning": "水盛",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "溶",
+    "pinyin": "róng",
+    "tone": 2,
+    "plain": "rong",
+    "element": "水",
+    "meaning": "包容",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "溥",
+    "pinyin": "pǔ",
+    "tone": 3,
+    "plain": "pu",
+    "element": "水",
+    "meaning": "广大",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "滢",
+    "pinyin": "yíng",
+    "tone": 2,
+    "plain": "ying",
+    "element": "水",
+    "meaning": "清莹",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "源",
+    "pinyin": "yuán",
+    "tone": 2,
+    "plain": "yuan",
+    "element": "水",
+    "meaning": "本源",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "澈",
+    "pinyin": "chè",
+    "tone": 4,
+    "plain": "che",
+    "element": "水",
+    "meaning": "澄澈",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "澄",
+    "pinyin": "chéng",
+    "tone": 2,
+    "plain": "cheng",
+    "element": "水",
+    "meaning": "明净",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "澍",
+    "pinyin": "shù",
+    "tone": 4,
+    "plain": "shu",
+    "element": "水",
+    "meaning": "及时雨",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "澜",
+    "pinyin": "lán",
+    "tone": 2,
+    "plain": "lan",
+    "element": "水",
+    "meaning": "波澜",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "澹",
+    "pinyin": "dàn",
+    "tone": 4,
+    "plain": "dan",
+    "element": "水",
+    "meaning": "恬淡",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "潇",
+    "pinyin": "xiāo",
+    "tone": 1,
+    "plain": "xiao",
+    "element": "水",
+    "meaning": "洒脱",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "潼",
+    "pinyin": "tóng",
+    "tone": 2,
+    "plain": "tong",
+    "element": "水",
+    "meaning": "高朗",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "潺",
+    "pinyin": "chán",
+    "tone": 2,
+    "plain": "chan",
+    "element": "水",
+    "meaning": "水声",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "澧",
+    "pinyin": "lǐ",
+    "tone": 3,
+    "plain": "li",
+    "element": "水",
+    "meaning": "水名",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "澎",
+    "pinyin": "péng",
+    "tone": 2,
+    "plain": "peng",
+    "element": "水",
+    "meaning": "澎湃",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "澳",
+    "pinyin": "ào",
+    "tone": 4,
+    "plain": "ao",
+    "element": "水",
+    "meaning": "深广",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "滨",
+    "pinyin": "bīn",
+    "tone": 1,
+    "plain": "bin",
+    "element": "水",
+    "meaning": "水边",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "濠",
+    "pinyin": "háo",
+    "tone": 2,
+    "plain": "hao",
+    "element": "水",
+    "meaning": "水色",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "濂",
+    "pinyin": "lián",
+    "tone": 2,
+    "plain": "lian",
+    "element": "水",
+    "meaning": "清正",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沄",
+    "pinyin": "yún",
+    "tone": 2,
+    "plain": "yun",
+    "element": "水",
+    "meaning": "水流",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "云",
+    "pinyin": "yún",
+    "tone": 2,
+    "plain": "yun",
+    "element": "水",
+    "meaning": "云舒",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "雨",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "plain": "yu",
+    "element": "水",
+    "meaning": "雨泽",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "雪",
+    "pinyin": "xuě",
+    "tone": 3,
+    "plain": "xue",
+    "element": "水",
+    "meaning": "清洁",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "霏",
+    "pinyin": "fēi",
+    "tone": 1,
+    "plain": "fei",
+    "element": "水",
+    "meaning": "飞雨",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "霖",
+    "pinyin": "lín",
+    "tone": 2,
+    "plain": "lin",
+    "element": "水",
+    "meaning": "甘霖",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "霁",
+    "pinyin": "jì",
+    "tone": 4,
+    "plain": "ji",
+    "element": "水",
+    "meaning": "雨晴",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "露",
+    "pinyin": "lù",
+    "tone": 4,
+    "plain": "lu",
+    "element": "水",
+    "meaning": "晶莹",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "霞",
+    "pinyin": "xiá",
+    "tone": 2,
+    "plain": "xia",
+    "element": "水",
+    "meaning": "霞光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "霄",
+    "pinyin": "xiāo",
+    "tone": 1,
+    "plain": "xiao",
+    "element": "水",
+    "meaning": "高远",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "雯",
+    "pinyin": "wén",
+    "tone": 2,
+    "plain": "wen",
+    "element": "水",
+    "meaning": "云纹",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "霓",
+    "pinyin": "ní",
+    "tone": 2,
+    "plain": "ni",
+    "element": "水",
+    "meaning": "彩虹",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "雷",
+    "pinyin": "léi",
+    "tone": 2,
+    "plain": "lei",
+    "element": "水",
+    "meaning": "震发",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "冰",
+    "pinyin": "bīng",
+    "tone": 1,
+    "plain": "bing",
+    "element": "水",
+    "meaning": "明净",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "冬",
+    "pinyin": "dōng",
+    "tone": 1,
+    "plain": "dong",
+    "element": "水",
+    "meaning": "冬意",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "凌",
+    "pinyin": "líng",
+    "tone": 2,
+    "plain": "ling",
+    "element": "水",
+    "meaning": "凌云",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "凝",
+    "pinyin": "níng",
+    "tone": 2,
+    "plain": "ning",
+    "element": "水",
+    "meaning": "凝聚",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "寒",
+    "pinyin": "hán",
+    "tone": 2,
+    "plain": "han",
+    "element": "水",
+    "meaning": "清寒",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "净",
+    "pinyin": "jìng",
+    "tone": 4,
+    "plain": "jing",
+    "element": "水",
+    "meaning": "洁净",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "玄",
+    "pinyin": "xuán",
+    "tone": 2,
+    "plain": "xuan",
+    "element": "水",
+    "meaning": "深远",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "子",
+    "pinyin": "zǐ",
+    "tone": 3,
+    "plain": "zi",
+    "element": "水",
+    "meaning": "初始",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "文",
+    "pinyin": "wén",
+    "tone": 2,
+    "plain": "wen",
+    "element": "水",
+    "meaning": "文采",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "武",
+    "pinyin": "wǔ",
+    "tone": 3,
+    "plain": "wu",
+    "element": "水",
+    "meaning": "勇健",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "行",
+    "pinyin": "xíng",
+    "tone": 2,
+    "plain": "xing",
+    "element": "水",
+    "meaning": "践行",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "舟",
+    "pinyin": "zhōu",
+    "tone": 1,
+    "plain": "zhou",
+    "element": "水",
+    "meaning": "远行",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "帆",
+    "pinyin": "fān",
+    "tone": 1,
+    "plain": "fan",
+    "element": "水",
+    "meaning": "远志",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "渺",
+    "pinyin": "miǎo",
+    "tone": 3,
+    "plain": "miao",
+    "element": "水",
+    "meaning": "悠远",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "漪",
+    "pinyin": "yī",
+    "tone": 1,
+    "plain": "yi",
+    "element": "水",
+    "meaning": "微澜",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "君",
+    "pinyin": "jūn",
+    "tone": 1,
+    "plain": "jun",
+    "element": "木",
+    "meaning": "君子",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "修",
+    "pinyin": "xiū",
+    "tone": 1,
+    "plain": "xiu",
+    "element": "木",
+    "meaning": "修养",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "俊",
+    "pinyin": "jùn",
+    "tone": 4,
+    "plain": "jun",
+    "element": "木",
+    "meaning": "俊秀",
+    "gender": "male",
+    "common": true
+  },
+  {
+    "char": "杰",
+    "pinyin": "jié",
+    "tone": 2,
+    "plain": "jie",
+    "element": "木",
+    "meaning": "杰出",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "桀",
+    "pinyin": "jié",
+    "tone": 2,
+    "plain": "jie",
+    "element": "木",
+    "meaning": "卓立",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "仁",
+    "pinyin": "rén",
+    "tone": 2,
+    "plain": "ren",
+    "element": "木",
+    "meaning": "仁爱",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "义",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "木",
+    "meaning": "义理",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "和",
+    "pinyin": "hé",
+    "tone": 2,
+    "plain": "he",
+    "element": "木",
+    "meaning": "和合",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "秀",
+    "pinyin": "xiù",
+    "tone": 4,
+    "plain": "xiu",
+    "element": "木",
+    "meaning": "秀雅",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "程",
+    "pinyin": "chéng",
+    "tone": 2,
+    "plain": "cheng",
+    "element": "木",
+    "meaning": "前程",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "稷",
+    "pinyin": "jì",
+    "tone": 4,
+    "plain": "ji",
+    "element": "木",
+    "meaning": "谷物",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "秦",
+    "pinyin": "qín",
+    "tone": 2,
+    "plain": "qin",
+    "element": "木",
+    "meaning": "秦韵",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "稼",
+    "pinyin": "jià",
+    "tone": 4,
+    "plain": "jia",
+    "element": "木",
+    "meaning": "丰收",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "稻",
+    "pinyin": "dào",
+    "tone": 4,
+    "plain": "dao",
+    "element": "木",
+    "meaning": "丰盈",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "策",
+    "pinyin": "cè",
+    "tone": 4,
+    "plain": "ce",
+    "element": "木",
+    "meaning": "谋略",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "筝",
+    "pinyin": "zhēng",
+    "tone": 1,
+    "plain": "zheng",
+    "element": "木",
+    "meaning": "清音",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "竞",
+    "pinyin": "jìng",
+    "tone": 4,
+    "plain": "jing",
+    "element": "木",
+    "meaning": "进取",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "健",
+    "pinyin": "jiàn",
+    "tone": 4,
+    "plain": "jian",
+    "element": "木",
+    "meaning": "康健",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "谷",
+    "pinyin": "gǔ",
+    "tone": 3,
+    "plain": "gu",
+    "element": "木",
+    "meaning": "丰谷",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "皓",
+    "pinyin": "hào",
+    "tone": 4,
+    "plain": "hao",
+    "element": "木",
+    "meaning": "明洁",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "扬",
+    "pinyin": "yáng",
+    "tone": 2,
+    "plain": "yang",
+    "element": "火",
+    "meaning": "昂扬",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "然",
+    "pinyin": "rán",
+    "tone": 2,
+    "plain": "ran",
+    "element": "火",
+    "meaning": "自然",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "诺",
+    "pinyin": "nuò",
+    "tone": 4,
+    "plain": "nuo",
+    "element": "火",
+    "meaning": "承诺",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "易",
+    "pinyin": "yì",
+    "tone": 4,
+    "plain": "yi",
+    "element": "火",
+    "meaning": "平易",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "迪",
+    "pinyin": "dí",
+    "tone": 2,
+    "plain": "di",
+    "element": "火",
+    "meaning": "启迪",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "达",
+    "pinyin": "dá",
+    "tone": 2,
+    "plain": "da",
+    "element": "火",
+    "meaning": "通达",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "昉",
+    "pinyin": "fǎng",
+    "tone": 3,
+    "plain": "fang",
+    "element": "火",
+    "meaning": "初明",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "昔",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "火",
+    "meaning": "往昔",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晖",
+    "pinyin": "huī",
+    "tone": 1,
+    "plain": "hui",
+    "element": "火",
+    "meaning": "日光",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "晸",
+    "pinyin": "zhěng",
+    "tone": 3,
+    "plain": "zheng",
+    "element": "火",
+    "meaning": "明朗",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "律",
+    "pinyin": "lǜ",
+    "tone": 4,
+    "plain": "lv",
+    "element": "火",
+    "meaning": "规律",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "腾",
+    "pinyin": "téng",
+    "tone": 2,
+    "plain": "teng",
+    "element": "火",
+    "meaning": "飞腾",
+    "gender": "male",
+    "common": false
+  },
+  {
+    "char": "甜",
+    "pinyin": "tián",
+    "tone": 2,
+    "plain": "tian",
+    "element": "火",
+    "meaning": "甘美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "玉",
+    "pinyin": "yù",
+    "tone": 4,
+    "plain": "yu",
+    "element": "土",
+    "meaning": "美玉",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "良",
+    "pinyin": "liáng",
+    "tone": 2,
+    "plain": "liang",
+    "element": "土",
+    "meaning": "善良",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "辰",
+    "pinyin": "chén",
+    "tone": 2,
+    "plain": "chen",
+    "element": "土",
+    "meaning": "时辰",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "远",
+    "pinyin": "yuǎn",
+    "tone": 3,
+    "plain": "yuan",
+    "element": "土",
+    "meaning": "远志",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "悠",
+    "pinyin": "yōu",
+    "tone": 1,
+    "plain": "you",
+    "element": "土",
+    "meaning": "悠然",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "砚",
+    "pinyin": "yàn",
+    "tone": 4,
+    "plain": "yan",
+    "element": "土",
+    "meaning": "文心",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "碧",
+    "pinyin": "bì",
+    "tone": 4,
+    "plain": "bi",
+    "element": "土",
+    "meaning": "碧玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "畅",
+    "pinyin": "chàng",
+    "tone": 4,
+    "plain": "chang",
+    "element": "土",
+    "meaning": "畅达",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "盼",
+    "pinyin": "pàn",
+    "tone": 4,
+    "plain": "pan",
+    "element": "土",
+    "meaning": "期盼",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "旖",
+    "pinyin": "yǐ",
+    "tone": 3,
+    "plain": "yi",
+    "element": "土",
+    "meaning": "柔美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "旎",
+    "pinyin": "nǐ",
+    "tone": 3,
+    "plain": "ni",
+    "element": "土",
+    "meaning": "旖旎",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "岫",
+    "pinyin": "xiù",
+    "tone": 4,
+    "plain": "xiu",
+    "element": "土",
+    "meaning": "山岫",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "齐",
+    "pinyin": "qí",
+    "tone": 2,
+    "plain": "qi",
+    "element": "金",
+    "meaning": "齐整",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "正",
+    "pinyin": "zhèng",
+    "tone": 4,
+    "plain": "zheng",
+    "element": "金",
+    "meaning": "端正",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "升",
+    "pinyin": "shēng",
+    "tone": 1,
+    "plain": "sheng",
+    "element": "金",
+    "meaning": "上升",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "承",
+    "pinyin": "chéng",
+    "tone": 2,
+    "plain": "cheng",
+    "element": "金",
+    "meaning": "承接",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "宣",
+    "pinyin": "xuān",
+    "tone": 1,
+    "plain": "xuan",
+    "element": "金",
+    "meaning": "明达",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "书",
+    "pinyin": "shū",
+    "tone": 1,
+    "plain": "shu",
+    "element": "金",
+    "meaning": "书香",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "叙",
+    "pinyin": "xù",
+    "tone": 4,
+    "plain": "xu",
+    "element": "金",
+    "meaning": "条理",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "斯",
+    "pinyin": "sī",
+    "tone": 1,
+    "plain": "si",
+    "element": "金",
+    "meaning": "斯文",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "姗",
+    "pinyin": "shān",
+    "tone": 1,
+    "plain": "shan",
+    "element": "金",
+    "meaning": "从容",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "姿",
+    "pinyin": "zī",
+    "tone": 1,
+    "plain": "zi",
+    "element": "金",
+    "meaning": "姿仪",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "姝",
+    "pinyin": "shū",
+    "tone": 1,
+    "plain": "shu",
+    "element": "金",
+    "meaning": "美好",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "婉",
+    "pinyin": "wǎn",
+    "tone": 3,
+    "plain": "wan",
+    "element": "金",
+    "meaning": "婉约",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "媛",
+    "pinyin": "yuàn",
+    "tone": 4,
+    "plain": "yuan",
+    "element": "金",
+    "meaning": "美好",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "嫣",
+    "pinyin": "yān",
+    "tone": 1,
+    "plain": "yan",
+    "element": "金",
+    "meaning": "明媚",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "倩",
+    "pinyin": "qiàn",
+    "tone": 4,
+    "plain": "qian",
+    "element": "金",
+    "meaning": "清丽",
+    "gender": "female",
+    "common": false
+  },
+  {
+    "char": "姣",
+    "pinyin": "jiāo",
+    "tone": 1,
+    "plain": "jiao",
+    "element": "金",
+    "meaning": "美好",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "始",
+    "pinyin": "shǐ",
+    "tone": 3,
+    "plain": "shi",
+    "element": "金",
+    "meaning": "开端",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "怀",
+    "pinyin": "huái",
+    "tone": 2,
+    "plain": "huai",
+    "element": "水",
+    "meaning": "胸怀",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "好",
+    "pinyin": "hǎo",
+    "tone": 3,
+    "plain": "hao",
+    "element": "水",
+    "meaning": "美好",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "美",
+    "pinyin": "měi",
+    "tone": 3,
+    "plain": "mei",
+    "element": "水",
+    "meaning": "美善",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "希",
+    "pinyin": "xī",
+    "tone": 1,
+    "plain": "xi",
+    "element": "水",
+    "meaning": "希冀",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "合",
+    "pinyin": "hé",
+    "tone": 2,
+    "plain": "he",
+    "element": "水",
+    "meaning": "和合",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "贝",
+    "pinyin": "bèi",
+    "tone": 4,
+    "plain": "bei",
+    "element": "水",
+    "meaning": "珍贝",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "沫",
+    "pinyin": "mò",
+    "tone": 4,
+    "plain": "mo",
+    "element": "水",
+    "meaning": "水沫",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "漫",
+    "pinyin": "màn",
+    "tone": 4,
+    "plain": "man",
+    "element": "水",
+    "meaning": "舒展",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "漾",
+    "pinyin": "yàng",
+    "tone": 4,
+    "plain": "yang",
+    "element": "水",
+    "meaning": "波漾",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "渟",
+    "pinyin": "tíng",
+    "tone": 2,
+    "plain": "ting",
+    "element": "水",
+    "meaning": "水静",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "淳",
+    "pinyin": "chún",
+    "tone": 2,
+    "plain": "chun",
+    "element": "水",
+    "meaning": "淳厚",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "望",
+    "pinyin": "wàng",
+    "tone": 4,
+    "plain": "wang",
+    "element": "水",
+    "meaning": "远望",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "含",
+    "pinyin": "hán",
+    "tone": 2,
+    "plain": "han",
+    "element": "水",
+    "meaning": "涵容",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "敏",
+    "pinyin": "mǐn",
+    "tone": 3,
+    "plain": "min",
+    "element": "水",
+    "meaning": "敏捷",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "牧",
+    "pinyin": "mù",
+    "tone": 4,
+    "plain": "mu",
+    "element": "水",
+    "meaning": "牧心",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "飞",
+    "pinyin": "fēi",
+    "tone": 1,
+    "plain": "fei",
+    "element": "水",
+    "meaning": "高飞",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "一",
+    "pinyin": "yī",
+    "tone": 1,
+    "plain": "yi",
+    "element": "水",
+    "meaning": "专一",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "如",
+    "pinyin": "rú",
+    "tone": 2,
+    "plain": "ru",
+    "element": "水",
+    "meaning": "如意",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "可",
+    "pinyin": "kě",
+    "tone": 3,
+    "plain": "ke",
+    "element": "水",
+    "meaning": "可心",
+    "gender": "neutral",
+    "common": true
+  },
+  {
+    "char": "孚",
+    "pinyin": "fú",
+    "tone": 2,
+    "plain": "fu",
+    "element": "水",
+    "meaning": "诚信",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "攸",
+    "pinyin": "yōu",
+    "tone": 1,
+    "plain": "you",
+    "element": "木",
+    "meaning": "从容",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "仪",
+    "pinyin": "yí",
+    "tone": 2,
+    "plain": "yi",
+    "element": "木",
+    "meaning": "仪度",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "雅",
+    "pinyin": "yǎ",
+    "tone": 3,
+    "plain": "ya",
+    "element": "木",
+    "meaning": "雅正",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "颂",
+    "pinyin": "sòng",
+    "tone": 4,
+    "plain": "song",
+    "element": "木",
+    "meaning": "赞美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "徽",
+    "pinyin": "huī",
+    "tone": 1,
+    "plain": "hui",
+    "element": "火",
+    "meaning": "美好",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "令",
+    "pinyin": "lìng",
+    "tone": 4,
+    "plain": "ling",
+    "element": "火",
+    "meaning": "美善",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "慎",
+    "pinyin": "shèn",
+    "tone": 4,
+    "plain": "shen",
+    "element": "火",
+    "meaning": "谨慎",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "窈",
+    "pinyin": "yǎo",
+    "tone": 3,
+    "plain": "yao",
+    "element": "火",
+    "meaning": "幽美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "窕",
+    "pinyin": "tiǎo",
+    "tone": 3,
+    "plain": "tiao",
+    "element": "火",
+    "meaning": "优美",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "熏",
+    "pinyin": "xūn",
+    "tone": 1,
+    "plain": "xun",
+    "element": "火",
+    "meaning": "温暖",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "衿",
+    "pinyin": "jīn",
+    "tone": 1,
+    "plain": "jin",
+    "element": "土",
+    "meaning": "衣襟",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "佩",
+    "pinyin": "pèi",
+    "tone": 4,
+    "plain": "pei",
+    "element": "土",
+    "meaning": "佩玉",
+    "gender": "neutral",
+    "common": false
+  },
+  {
+    "char": "琰",
+    "pinyin": "yǎn",
+    "tone": 3,
+    "plain": "yan",
+    "element": "土",
+    "meaning": "玉光",
+    "gender": "neutral",
+    "common": false
+  }
+]

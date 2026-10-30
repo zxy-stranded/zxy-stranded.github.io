@@ -1,0 +1,30 @@
+[
+  {
+    "id": "shijing",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E8%AF%97%E7%BB%8F/shijing.json",
+    "sha256": "3c7ca54d59424542ada99adfcc85420287fbbd5c8a511e9baf705cb2b04051e7",
+    "license": "MIT（整理项目）；所用诗词原文属于公有领域",
+    "attribution": "chinese-poetry/chinese-poetry contributors"
+  },
+  {
+    "id": "chuci",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E6%A5%9A%E8%BE%9E/chuci.json",
+    "sha256": "5069e733d93781cecd55405c6d4699a7c17125b3f13cf79810d68792482e5b9b",
+    "license": "MIT（整理项目）；所用诗词原文属于公有领域",
+    "attribution": "chinese-poetry/chinese-poetry contributors"
+  },
+  {
+    "id": "tang",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E5%85%A8%E5%94%90%E8%AF%97/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
+    "sha256": "d77a145f7470da2ed2f79515944563c062ffc43fceda07f195a36ead66b7e5c7",
+    "license": "MIT（整理项目）；所用诗词原文属于公有领域",
+    "attribution": "chinese-poetry/chinese-poetry contributors"
+  },
+  {
+    "id": "song",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E5%AE%8B%E8%AF%8D/%E5%AE%8B%E8%AF%8D%E4%B8%89%E7%99%BE%E9%A6%96.json",
+    "sha256": "ca5d74f7fdb9d5a6acc22a7c8b4395228cad4bb8be53df44c19ba83ab6983b20",
+    "license": "MIT（整理项目）；所用诗词原文属于公有领域",
+    "attribution": "chinese-poetry/chinese-poetry contributors"
+  }
+]

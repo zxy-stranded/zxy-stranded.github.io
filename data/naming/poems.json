@@ -1,0 +1,2428 @@
+[
+  {
+    "collection": "诗经",
+    "title": "子衿",
+    "author": "佚名",
+    "quote": "青青子衿，悠悠我心。纵我不往，子宁不嗣音？",
+    "originalQuote": "青青子衿，悠悠我心。纵我不往，子宁不嗣音？",
+    "characters": ["青", "子", "衿", "悠", "心", "宁", "音"],
+    "id": "poem001",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "思齐",
+    "author": "佚名",
+    "quote": "思齐大任，文王之母，思媚周姜，京室之妇。大姒嗣徽音，则百斯男。",
+    "originalQuote": "思齐大任，文王之母，思媚周姜，京室之妇。大姒嗣徽音，则百斯男。",
+    "characters": ["思", "齐", "文", "之", "徽", "音", "则", "斯"],
+    "id": "poem002",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "子衿",
+    "author": "佚名",
+    "quote": "青青子佩，悠悠我思。纵我不往，子宁不来？",
+    "originalQuote": "青青子佩，悠悠我思。纵我不往，子宁不来？",
+    "characters": ["青", "子", "佩", "悠", "思", "宁"],
+    "id": "poem003",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "汾沮洳",
+    "author": "佚名",
+    "quote": "彼汾一方，言采其桑。彼其之子，美如英。美如英，殊异乎公行。",
+    "originalQuote": "彼汾一方，言采其桑。彼其之子，美如英。美如英，殊异乎公行。",
+    "characters": ["一", "采", "之", "子", "美", "如", "英", "行"],
+    "id": "poem004",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "女曰鸡鸣",
+    "author": "佚名",
+    "quote": "弋言加之，与子宜之。宜言饮酒，与子偕老。琴瑟在御，莫不静好。",
+    "originalQuote": "弋言加之，与子宜之。宜言饮酒，与子偕老。琴瑟在御，莫不静好。",
+    "characters": ["之", "子", "宜", "静", "好"],
+    "id": "poem005",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "野有蔓草",
+    "author": "佚名",
+    "quote": "野有蔓草，零露瀼瀼。有美一人，婉如清扬。邂逅相遇，与子偕臧。",
+    "originalQuote": "野有蔓草，零露瀼瀼。有美一人，婉如清扬。邂逅相遇，与子偕臧。",
+    "characters": ["蔓", "露", "美", "一", "婉", "如", "清", "扬", "子"],
+    "id": "poem006",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "斯干",
+    "author": "佚名",
+    "quote": "殖殖其庭，有觉其楹。哙哙其正，哕哕其冥。君子攸宁。",
+    "originalQuote": "殖殖其庭，有觉其楹。哙哙其正，哕哕其冥。君子攸宁。",
+    "characters": ["正", "君", "子", "攸", "宁"],
+    "id": "poem007",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "车舝",
+    "author": "佚名",
+    "quote": "高山仰止，景行行止。四牡𬴂𬴂，六辔如琴。觏尔新婚，以慰我心。",
+    "originalQuote": "高山仰止，景行行止。四牡騑騑，六辔如琴。觏尔新婚，以慰我心。",
+    "characters": ["山", "景", "行", "如", "新", "以", "心"],
+    "id": "poem008",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "湛露",
+    "author": "佚名",
+    "quote": "其桐其椅，其实离离。岂弟君子，莫不令仪。",
+    "originalQuote": "其桐其椅，其实离离。岂弟君子，莫不令仪。",
+    "characters": ["桐", "君", "子", "令", "仪"],
+    "id": "poem009",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "抑",
+    "author": "佚名",
+    "quote": "慎尔出话，敬尔威仪，无不柔嘉。白圭之玷，尚可磨也；斯言之玷，不可为也！",
+    "originalQuote": "慎尔出话，敬尔威仪，无不柔嘉。白圭之玷，尚可磨也；斯言之玷，不可为也！",
+    "characters": ["慎", "仪", "嘉", "圭", "之", "可", "斯"],
+    "id": "poem010",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "木瓜",
+    "author": "佚名",
+    "quote": "投我以木桃，报之以琼瑶。匪报也，永以为好也！",
+    "originalQuote": "投我以木桃，报之以琼瑶。匪报也，永以为好也！",
+    "characters": ["以", "木", "桃", "之", "琼", "瑶", "永", "好"],
+    "id": "poem011",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "有女同车",
+    "author": "佚名",
+    "quote": "有女同车，颜如舜华。将翱将翔，佩玉琼琚。彼美孟姜，洵美且都。",
+    "originalQuote": "有女同车，颜如舜华。将翱将翔，佩玉琼琚。彼美孟姜，洵美且都。",
+    "characters": ["颜", "如", "翔", "佩", "玉", "琼", "美", "洵"],
+    "id": "poem012",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "野有蔓草",
+    "author": "佚名",
+    "quote": "野有蔓草，零露漙兮。有美一人，清扬婉兮。邂逅相遇，适我愿兮。",
+    "originalQuote": "野有蔓草，零露漙兮。有美一人，清扬婉兮。邂逅相遇，适我愿兮。",
+    "characters": ["蔓", "露", "美", "一", "清", "扬", "婉", "愿"],
+    "id": "poem013",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "木瓜",
+    "author": "佚名",
+    "quote": "投我以木瓜，报之以琼琚。匪报也，永以为好也！",
+    "originalQuote": "投我以木瓜，报之以琼琚。匪报也，永以为好也！",
+    "characters": ["以", "木", "之", "琼", "永", "好"],
+    "id": "poem014",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "猗嗟",
+    "author": "佚名",
+    "quote": "猗嗟娈兮，清扬婉兮。舞则选兮，射则贯兮，四矢反兮，以御乱兮。",
+    "originalQuote": "猗嗟娈兮，清扬婉兮。舞则选兮，射则贯兮，四矢反兮，以御乱兮。",
+    "characters": ["清", "扬", "婉", "则", "以"],
+    "id": "poem015",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "小戎",
+    "author": "佚名",
+    "quote": "小戎俴收，五楘梁辀。游环胁驱，阴靷鋈续。文茵畅毂，驾我骐馵。",
+    "originalQuote": "小戎俴收，五楘梁辀。游环胁驱，阴靷鋈续。文茵畅毂，驾我骐馵。",
+    "characters": ["游", "文", "茵", "畅"],
+    "id": "poem016",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "宾之初筵",
+    "author": "佚名",
+    "quote": "饮酒孔嘉，维其令仪。",
+    "originalQuote": "饮酒孔嘉，维其令仪。",
+    "characters": ["嘉", "维", "令", "仪"],
+    "id": "poem017",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "君子偕老",
+    "author": "佚名",
+    "quote": "君子偕老，副笄六珈。委委佗佗，如山如河，象服是宜。子之不淑，云如之何？",
+    "originalQuote": "君子偕老，副笄六珈。委委佗佗，如山如河，象服是宜。子之不淑，云如之何？",
+    "characters": ["君", "子", "珈", "如", "山", "宜", "之", "淑", "云"],
+    "id": "poem018",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "何人斯",
+    "author": "佚名",
+    "quote": "尔之安行，亦不遑舍。尔之亟行，遑脂尔车。一者之来，云何其盱。",
+    "originalQuote": "尔之安行，亦不遑舍。尔之亟行，遑脂尔车。一者之来，云何其盱。",
+    "characters": ["之", "安", "行", "亦", "一", "云"],
+    "id": "poem019",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "小明",
+    "author": "佚名",
+    "quote": "嗟尔君子，无恒安息。靖共尔位，好是正直。神之听之，介尔景福。",
+    "originalQuote": "嗟尔君子，无恒安息。靖共尔位，好是正直。神之听之，介尔景福。",
+    "characters": ["君", "子", "安", "息", "靖", "好", "正", "之", "景"],
+    "id": "poem020",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "皇矣",
+    "author": "佚名",
+    "quote": "帝谓文王：予怀明德，不大声以色，不长夏以革。不识不知，顺帝之则。",
+    "originalQuote": "帝谓文王：予怀明德，不大声以色，不长夏以革。不识不知，顺帝之则。",
+    "characters": [
+      "文",
+      "予",
+      "怀",
+      "明",
+      "德",
+      "声",
+      "以",
+      "夏",
+      "识",
+      "知",
+      "顺",
+      "之",
+      "则"
+    ],
+    "id": "poem021",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "抑",
+    "author": "佚名",
+    "quote": "借曰未知，亦既抱子。民之靡盈，谁夙知而莫成？昊天孔昭，我生靡乐。",
+    "originalQuote": "借曰未知，亦既抱子。民之靡盈，谁夙知而莫成？昊天孔昭，我生靡乐。",
+    "characters": ["知", "亦", "子", "之", "昊", "昭", "生", "乐"],
+    "id": "poem022",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "雄雉",
+    "author": "佚名",
+    "quote": "瞻彼日月，悠悠我思。道之云远，曷云能来？",
+    "originalQuote": "瞻彼日月，悠悠我思。道之云远，曷云能来？",
+    "characters": ["日", "悠", "思", "之", "云", "远"],
+    "id": "poem023",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "载驰",
+    "author": "佚名",
+    "quote": "陟彼阿丘，言采其蝱。女子善怀，亦各有行。许人尤之，众稚且狂。",
+    "originalQuote": "陟彼阿丘，言采其蝱。女子善怀，亦各有行。许人尤之，众稚且狂。",
+    "characters": ["采", "子", "怀", "亦", "行", "之"],
+    "id": "poem024",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "河广",
+    "author": "佚名",
+    "quote": "谁谓河广？一苇杭之。谁谓宋远？跂予望之。",
+    "originalQuote": "谁谓河广？一苇杭之。谁谓宋远？跂予望之。",
+    "characters": ["一", "之", "远", "予", "望"],
+    "id": "poem025",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "风雨",
+    "author": "佚名",
+    "quote": "风雨如晦，鸡鸣不已。既见君子，云胡不喜？",
+    "originalQuote": "风雨如晦，鸡鸣不已。既见君子，云胡不喜？",
+    "characters": ["雨", "如", "君", "子", "云"],
+    "id": "poem026",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "汾沮洳",
+    "author": "佚名",
+    "quote": "彼汾一曲，言采其藚。彼其之子，美如玉。美如玉，殊异乎公族。",
+    "originalQuote": "彼汾一曲，言采其藚。彼其之子，美如玉。美如玉，殊异乎公族。",
+    "characters": ["一", "采", "之", "子", "美", "如", "玉"],
+    "id": "poem027",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "园有桃",
+    "author": "佚名",
+    "quote": "彼人是哉，子曰何其？心之忧矣，其谁知之？其谁知之，盖亦勿思！",
+    "originalQuote": "彼人是哉，子曰何其？心之忧矣，其谁知之？其谁知之，盖亦勿思！",
+    "characters": ["子", "心", "之", "知", "亦", "思"],
+    "id": "poem028",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "晨风",
+    "author": "佚名",
+    "quote": "鴥彼晨风，郁彼北林。未见君子，忧心钦钦。如何如何，忘我实多！",
+    "originalQuote": "鴥彼晨风，郁彼北林。未见君子，忧心钦钦。如何如何，忘我实多！",
+    "characters": ["晨", "林", "君", "子", "心", "钦", "如"],
+    "id": "poem029",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "东山",
+    "author": "佚名",
+    "quote": "之子于归，皇驳其马。亲结其缡，九十其仪。其新孔嘉，其旧如之何？",
+    "originalQuote": "之子于归，皇驳其马。亲结其缡，九十其仪。其新孔嘉，其旧如之何？",
+    "characters": ["之", "子", "仪", "新", "嘉", "如"],
+    "id": "poem030",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "南有嘉鱼",
+    "author": "佚名",
+    "quote": "翩翩者鵻，烝然来思。君子有酒，嘉宾式燕又思。",
+    "originalQuote": "翩翩者鵻，烝然来思。君子有酒，嘉宾式燕又思。",
+    "characters": ["然", "思", "君", "子", "嘉", "燕"],
+    "id": "poem031",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "小明",
+    "author": "佚名",
+    "quote": "嗟尔君子，无恒安处。靖共尔位，正直是与。神之听之，式谷以女。",
+    "originalQuote": "嗟尔君子，无恒安处。靖共尔位，正直是与。神之听之，式穀以女。",
+    "characters": ["君", "子", "安", "靖", "正", "之", "谷", "以"],
+    "id": "poem032",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "泂酌",
+    "author": "佚名",
+    "quote": "泂酌彼行潦，挹彼注兹，可以餴饎。岂弟君子，民之父母。",
+    "originalQuote": "泂酌彼行潦，挹彼注兹，可以餴饎。岂弟君子，民之父母。",
+    "characters": ["行", "可", "以", "君", "子", "之"],
+    "id": "poem033",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "泂酌",
+    "author": "佚名",
+    "quote": "泂酌彼行潦，挹彼注兹，可以濯罍。岂弟君子，民之攸归。",
+    "originalQuote": "泂酌彼行潦，挹彼注兹，可以濯罍。岂弟君子，民之攸归。",
+    "characters": ["行", "可", "以", "君", "子", "之", "攸"],
+    "id": "poem034",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "卷阿",
+    "author": "佚名",
+    "quote": "尔土宇昄章，亦孔之厚矣。岂弟君子，俾尔弥尔性，百神尔主矣。",
+    "originalQuote": "尔土宇昄章，亦孔之厚矣。岂弟君子，俾尔弥尔性，百神尔主矣。",
+    "characters": ["土", "宇", "章", "亦", "之", "君", "子"],
+    "id": "poem035",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "桑柔",
+    "author": "佚名",
+    "quote": "嗟尔朋友，予岂不知而作。如彼飞虫，时亦弋获。既之阴女，反予来赫。",
+    "originalQuote": "嗟尔朋友，予岂不知而作。如彼飞虫，时亦弋获。既之阴女，反予来赫。",
+    "characters": ["友", "予", "知", "如", "飞", "亦", "之"],
+    "id": "poem036",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "云汉",
+    "author": "佚名",
+    "quote": "瞻卬昊天，有嘒其星。大夫君子，昭假无赢。大命近止，无弃尔成。",
+    "originalQuote": "瞻卬昊天，有嘒其星。大夫君子，昭假无赢。大命近止，无弃尔成。",
+    "characters": ["昊", "星", "君", "子", "昭"],
+    "id": "poem037",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "敬之",
+    "author": "佚名",
+    "quote": "维予小子，不聪敬止。日就月将，学有缉熙于光明。佛时仔肩，示我显德行。",
+    "originalQuote": "维予小子，不聪敬止。日就月将，学有缉熙于光明。佛时仔肩，示我显德行。",
+    "characters": ["维", "予", "子", "日", "熙", "光", "明", "德", "行"],
+    "id": "poem038",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "何彼襛矣",
+    "author": "佚名",
+    "quote": "何彼襛矣，华如桃李？平王之孙，齐侯之子。",
+    "originalQuote": "何彼襛矣，华如桃李？平王之孙，齐侯之子。",
+    "characters": ["如", "桃", "之", "齐", "子"],
+    "id": "poem039",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "柏舟",
+    "author": "佚名",
+    "quote": "日居月诸，胡迭而微？心之忧矣，如匪浣衣。静言思之，不能奋飞。",
+    "originalQuote": "日居月诸，胡迭而微？心之忧矣，如匪浣衣。静言思之，不能奋飞。",
+    "characters": ["日", "诸", "心", "之", "如", "静", "思", "飞"],
+    "id": "poem040",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "燕燕",
+    "author": "佚名",
+    "quote": "燕燕于飞，下上其音。之子于归，远送于南。瞻望弗及，实劳我心。",
+    "originalQuote": "燕燕于飞，下上其音。之子于归，远送于南。瞻望弗及，实劳我心。",
+    "characters": ["燕", "飞", "音", "之", "子", "远", "南", "望", "心"],
+    "id": "poem041",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "雄雉",
+    "author": "佚名",
+    "quote": "百尔君子，不知德行。不忮不求，何用不臧。",
+    "originalQuote": "百尔君子，不知德行。不忮不求，何用不臧。",
+    "characters": ["君", "子", "知", "德", "行"],
+    "id": "poem042",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "泉水",
+    "author": "佚名",
+    "quote": "毖彼泉水，亦流于淇。有怀于卫，靡日不思。娈彼诸姬，聊与之谋。",
+    "originalQuote": "毖彼泉水，亦流于淇。有怀于卫，靡日不思。娈彼诸姬，聊与之谋。",
+    "characters": ["水", "亦", "流", "淇", "怀", "日", "思", "诸", "之"],
+    "id": "poem043",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "二子乘舟",
+    "author": "佚名",
+    "quote": "二子乘舟，泛泛其景。愿言思子，中心养养！",
+    "originalQuote": "二子乘舟，泛泛其景。愿言思子，中心养养！",
+    "characters": ["子", "舟", "景", "愿", "思", "心"],
+    "id": "poem044",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "定之方中",
+    "author": "佚名",
+    "quote": "升彼虚矣，以望楚矣。望楚与堂，景山与京。降观于桑，卜云其吉，终然允臧。",
+    "originalQuote": "升彼虚矣，以望楚矣。望楚与堂，景山与京。降观于桑，卜云其吉，终然允臧。",
+    "characters": ["升", "以", "望", "楚", "堂", "景", "山", "云", "然", "允"],
+    "id": "poem045",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "蝃𬟽",
+    "author": "佚名",
+    "quote": "蝃𬟽在东，莫之敢指。女子有行，远父母兄弟。",
+    "originalQuote": "蝃蝀在东，莫之敢指。女子有行，远父母兄弟。",
+    "characters": ["东", "之", "子", "行", "远"],
+    "id": "poem046",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "蝃𬟽",
+    "author": "佚名",
+    "quote": "朝𬯀于西，崇朝其雨。女子有行，远兄弟父母。",
+    "originalQuote": "朝隮于西，崇朝其雨。女子有行，远兄弟父母。",
+    "characters": ["雨", "子", "行", "远"],
+    "id": "poem047",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "竹竿",
+    "author": "佚名",
+    "quote": "籊籊竹竿，以钓于淇。岂不尔思？远莫致之。",
+    "originalQuote": "籊籊竹竿，以钓于淇。岂不尔思？远莫致之。",
+    "characters": ["竹", "以", "淇", "思", "远", "之"],
+    "id": "poem048",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "芄兰",
+    "author": "佚名",
+    "quote": "芄兰之支，童子佩觿。虽则佩觿，能不我知。容兮遂兮，垂带悸兮。",
+    "originalQuote": "芄兰之支，童子佩觿。虽则佩觿，能不我知。容兮遂兮，垂带悸兮。",
+    "characters": ["兰", "之", "子", "佩", "则", "知", "容"],
+    "id": "poem049",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "扬之水",
+    "author": "佚名",
+    "quote": "扬之水，不流束薪。彼其之子，不与我戍申。怀哉怀哉，曷月予还归哉？",
+    "originalQuote": "扬之水，不流束薪。彼其之子，不与我戍申。怀哉怀哉，曷月予还归哉？",
+    "characters": ["扬", "之", "水", "流", "薪", "子", "怀", "予"],
+    "id": "poem050",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "扬之水",
+    "author": "佚名",
+    "quote": "扬之水，不流束楚。彼其之子，不与我戍甫。怀哉怀哉，曷月予还归哉？",
+    "originalQuote": "扬之水，不流束楚。彼其之子，不与我戍甫。怀哉怀哉，曷月予还归哉？",
+    "characters": ["扬", "之", "水", "流", "楚", "子", "怀", "予"],
+    "id": "poem051",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "缁衣",
+    "author": "佚名",
+    "quote": "缁衣之宜兮，敝予又改为兮。适子之馆兮。还予授子之粲兮。",
+    "originalQuote": "缁衣之宜兮，敝予又改为兮。适子之馆兮。还予授子之粲兮。",
+    "characters": ["之", "宜", "予", "子"],
+    "id": "poem052",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "风雨",
+    "author": "佚名",
+    "quote": "风雨凄凄，鸡鸣喈喈，既见君子。云胡不夷？",
+    "originalQuote": "风雨凄凄，鸡鸣喈喈，既见君子。云胡不夷？",
+    "characters": ["雨", "君", "子", "云"],
+    "id": "poem053",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "敝笱",
+    "author": "佚名",
+    "quote": "敝笱在梁，其鱼鲂鳏。齐子归止，其从如云。",
+    "originalQuote": "敝笱在梁，其鱼鲂鳏。齐子归止，其从如云。",
+    "characters": ["齐", "子", "如", "云"],
+    "id": "poem054",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "敝笱",
+    "author": "佚名",
+    "quote": "敝笱在梁，其鱼鲂鱮。齐子归止，其从如雨。",
+    "originalQuote": "敝笱在梁，其鱼鲂鱮。齐子归止，其从如雨。",
+    "characters": ["齐", "子", "如", "雨"],
+    "id": "poem055",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "陟岵",
+    "author": "佚名",
+    "quote": "陟彼岵兮，瞻望父兮。父曰：嗟！予子行役，夙夜无已。上慎旃哉，犹来！无止！",
+    "originalQuote": "陟彼岵兮，瞻望父兮。父曰：嗟！予子行役，夙夜无已。上慎旃哉，犹来！无止！",
+    "characters": ["望", "予", "子", "行", "慎"],
+    "id": "poem056",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "无衣",
+    "author": "佚名",
+    "quote": "岂曰无衣七兮？不如子之衣，安且吉兮！",
+    "originalQuote": "岂曰无衣七兮？不如子之衣，安且吉兮！",
+    "characters": ["如", "子", "之", "安"],
+    "id": "poem057",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "无衣",
+    "author": "佚名",
+    "quote": "岂曰无衣六兮？不如子之衣，安且燠兮！",
+    "originalQuote": "岂曰无衣六兮？不如子之衣，安且燠兮！",
+    "characters": ["如", "子", "之", "安"],
+    "id": "poem058",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "小戎",
+    "author": "佚名",
+    "quote": "言念君子，温其如玉。在其板屋，乱我心曲。",
+    "originalQuote": "言念君子，温其如玉。在其板屋，乱我心曲。",
+    "characters": ["念", "君", "子", "如", "玉", "心"],
+    "id": "poem059",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "诗经",
+    "title": "渭阳",
+    "author": "佚名",
+    "quote": "我送舅氏，悠悠我思。何以赠之？琼瑰玉佩。",
+    "originalQuote": "我送舅氏，悠悠我思。何以赠之？琼瑰玉佩。",
+    "characters": ["悠", "思", "以", "之", "琼", "玉", "佩"],
+    "id": "poem060",
+    "source": "chinese-poetry/chinese-poetry：诗经选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "怀沙",
+    "author": "屈原",
+    "quote": "怀瑾握瑜兮，穷不知所示。",
+    "originalQuote": "怀瑾握瑜兮，穷不知所示。",
+    "characters": ["怀", "瑾", "瑜", "知"],
+    "id": "poem061",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "远游",
+    "author": "屈原",
+    "quote": "奇傅说之讬辰星兮，羡韩众之得一。",
+    "originalQuote": "奇傅说之讬辰星兮，羡韩众之得一。",
+    "characters": ["之", "辰", "星", "一"],
+    "id": "poem062",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "云中君",
+    "author": "屈原",
+    "quote": "浴兰汤兮沐芳，华采衣兮若英",
+    "originalQuote": "浴兰汤兮沐芳，华采衣兮若英",
+    "characters": ["兰", "沐", "芳", "采", "若", "英"],
+    "id": "poem063",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "湘君",
+    "author": "屈原",
+    "quote": "美要眇兮宜修，沛吾乘兮桂舟",
+    "originalQuote": "美要眇兮宜修，沛吾乘兮桂舟",
+    "characters": ["美", "宜", "修", "沛", "桂", "舟"],
+    "id": "poem064",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "天问",
+    "author": "屈原",
+    "quote": "羲和之未扬，若华何光？",
+    "originalQuote": "羲和之未扬，若华何光？",
+    "characters": ["和", "之", "扬", "若", "光"],
+    "id": "poem065",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "涉江",
+    "author": "屈原",
+    "quote": "带长铗之陆离兮，冠切云之崔嵬，被明月兮佩宝璐。",
+    "originalQuote": "带长铗之陆离兮，冠切云之崔嵬，被明月兮佩宝璐。",
+    "characters": ["之", "云", "嵬", "明", "佩", "璐"],
+    "id": "poem066",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "远逝",
+    "author": "刘向",
+    "quote": "杖玉策与朱旗兮，垂明月之玄珠。",
+    "originalQuote": "杖玉策与朱旗兮，垂明月之玄珠。",
+    "characters": ["玉", "策", "朱", "明", "之", "玄", "珠"],
+    "id": "poem067",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "离骚",
+    "author": "屈原",
+    "quote": "前望舒使先驱兮，后飞廉使奔属。",
+    "originalQuote": "前望舒使先驱兮，后飞廉使奔属。",
+    "characters": ["望", "舒", "飞"],
+    "id": "poem068",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "离骚",
+    "author": "屈原",
+    "quote": "驾八龙之婉婉兮，载云旗之委蛇。",
+    "originalQuote": "驾八龙之婉婉兮，载云旗之委蛇。",
+    "characters": ["之", "婉", "云"],
+    "id": "poem069",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "涉江",
+    "author": "屈原",
+    "quote": "怀信佗傺，忽乎吾将行兮！",
+    "originalQuote": "怀信佗傺，忽乎吾将行兮！",
+    "characters": ["怀", "信", "行"],
+    "id": "poem070",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "远游",
+    "author": "屈原",
+    "quote": "驾八龙之婉婉兮，载云旗之逶蛇。",
+    "originalQuote": "驾八龙之婉婉兮，载云旗之逶蛇。",
+    "characters": ["之", "婉", "云"],
+    "id": "poem071",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "九辩",
+    "author": "宋玉",
+    "quote": "卬明月而太息兮，步列星而极明。",
+    "originalQuote": "卬明月而太息兮，步列星而极明。",
+    "characters": ["明", "息", "星"],
+    "id": "poem072",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "九辩",
+    "author": "宋玉",
+    "quote": "载云旗之委蛇兮，扈屯骑之容容。",
+    "originalQuote": "载云旗之委蛇兮，扈屯骑之容容。",
+    "characters": ["云", "之", "容"],
+    "id": "poem073",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "伤时",
+    "author": "王逸",
+    "quote": "声噭誂兮清和，音晏衍兮要婬。",
+    "originalQuote": "声噭誂兮清和，音晏衍兮要婬。",
+    "characters": ["声", "清", "和", "音", "晏"],
+    "id": "poem074",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "逢尤",
+    "author": "王逸",
+    "quote": "世既卓兮远眇眇，握佩玖兮中路躇。",
+    "originalQuote": "世既卓兮远眇眇，握佩玖兮中路躇。",
+    "characters": ["卓", "远", "佩", "玖"],
+    "id": "poem075",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "悯上",
+    "author": "王逸",
+    "quote": "思灵泽兮一膏沐，怀兰英兮把琼若，待天明兮立踯躅。",
+    "originalQuote": "思灵泽兮一膏沐，怀兰英兮把琼若，待天明兮立踯躅。",
+    "characters": [
+      "思",
+      "灵",
+      "泽",
+      "一",
+      "沐",
+      "怀",
+      "兰",
+      "英",
+      "琼",
+      "若",
+      "明"
+    ],
+    "id": "poem076",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "逢纷",
+    "author": "刘向",
+    "quote": "怀兰蕙与衡芷兮，行中野而散之。",
+    "originalQuote": "怀兰蕙与衡芷兮，行中野而散之。",
+    "characters": ["怀", "兰", "蕙", "芷", "行", "之"],
+    "id": "poem077",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "惜诵",
+    "author": "屈原",
+    "quote": "忘儇媚以背众兮，待明君其知之。",
+    "originalQuote": "忘儇媚以背众兮，待明君其知之。",
+    "characters": ["以", "明", "君", "知", "之"],
+    "id": "poem078",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "惜诵",
+    "author": "屈原",
+    "quote": "故相臣莫若君兮，所以证之不远。",
+    "originalQuote": "故相臣莫若君兮，所以证之不远。",
+    "characters": ["若", "君", "以", "之", "远"],
+    "id": "poem079",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "抽思",
+    "author": "屈原",
+    "quote": "望孟夏之短夜兮，何晦明之若岁？",
+    "originalQuote": "望孟夏之短夜兮，何晦明之若岁？",
+    "characters": ["望", "夏", "之", "明", "若"],
+    "id": "poem080",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "思美人",
+    "author": "屈原",
+    "quote": "宁隐闵而寿考兮，何变易之可为！",
+    "originalQuote": "宁隐闵而寿考兮，何变易之可为！",
+    "characters": ["宁", "易", "之", "可"],
+    "id": "poem081",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "惜誓",
+    "author": "贾谊",
+    "quote": "黄鹄之一举兮，知山川之纡曲。",
+    "originalQuote": "黄鹄之一举兮，知山川之纡曲。",
+    "characters": ["之", "一", "知", "山", "川"],
+    "id": "poem082",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "初放",
+    "author": "东方朔",
+    "quote": "孰知其不合兮，若竹柏之异心。",
+    "originalQuote": "孰知其不合兮，若竹柏之异心。",
+    "characters": ["知", "合", "若", "竹", "柏", "之", "心"],
+    "id": "poem083",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "沉江",
+    "author": "东方朔",
+    "quote": "明法令而修理兮，兰芷幽而有芳。",
+    "originalQuote": "明法令而修理兮，兰芷幽而有芳。",
+    "characters": ["明", "法", "令", "修", "理", "兰", "芷", "芳"],
+    "id": "poem084",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "谬谏",
+    "author": "东方朔",
+    "quote": "不及君而骋说兮，世孰可为明之？",
+    "originalQuote": "不及君而骋说兮，世孰可为明之？",
+    "characters": ["君", "可", "明", "之"],
+    "id": "poem085",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "哀时命",
+    "author": "庄忌",
+    "quote": "揽瑶木之橝枝兮，望阆风之板桐。",
+    "originalQuote": "揽瑶木之橝枝兮，望阆风之板桐。",
+    "characters": ["瑶", "木", "之", "望", "桐"],
+    "id": "poem086",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "哀时命",
+    "author": "庄忌",
+    "quote": "雾露蒙蒙其晨降兮，云依斐而承宇。",
+    "originalQuote": "雾露濛濛其晨降兮，云依斐而承宇。",
+    "characters": ["露", "蒙", "晨", "云", "依", "承", "宇"],
+    "id": "poem087",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "离世",
+    "author": "刘向",
+    "quote": "端余行其如玉兮，述皇舆之踵迹。",
+    "originalQuote": "端余行其如玉兮，述皇舆之踵迹。",
+    "characters": ["行", "如", "玉", "之"],
+    "id": "poem088",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "怨思",
+    "author": "刘向",
+    "quote": "光明齐于日月兮，文采耀燿于玉石。",
+    "originalQuote": "光明齐于日月兮，文采耀燿于玉石。",
+    "characters": ["光", "明", "齐", "日", "文", "采", "耀", "玉"],
+    "id": "poem089",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "远逝",
+    "author": "刘向",
+    "quote": "云服阴阳之正道兮，御后土之中和。",
+    "originalQuote": "云服阴阳之正道兮，御后土之中和。",
+    "characters": ["云", "之", "正", "土", "和"],
+    "id": "poem090",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "惜贤",
+    "author": "刘向",
+    "quote": "游兰皋与蕙林兮，睨玉石之㟥嵯。",
+    "originalQuote": "游兰皋与蕙林兮，睨玉石之嵾嵯。",
+    "characters": ["游", "兰", "蕙", "林", "玉", "之"],
+    "id": "poem091",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "远游",
+    "author": "刘向",
+    "quote": "譬若王侨之乘云兮，载赤霄而凌太清。",
+    "originalQuote": "譬若王侨之乘云兮，载赤霄而凌太清。",
+    "characters": ["若", "之", "云", "霄", "凌", "清"],
+    "id": "poem092",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "遭厄",
+    "author": "王逸",
+    "quote": "载青云兮上升，适昭明兮所处。",
+    "originalQuote": "载青云兮上昇，適昭明兮所处。",
+    "characters": ["青", "云", "升", "昭", "明"],
+    "id": "poem093",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "伤时",
+    "author": "王逸",
+    "quote": "惟昊天兮昭灵，阳气发兮清明。",
+    "originalQuote": "惟昊天兮昭灵，阳气发兮清明。",
+    "characters": ["惟", "昊", "昭", "灵", "清", "明"],
+    "id": "poem094",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "湘君",
+    "author": "屈原",
+    "quote": "望夫君兮未来，吹参差兮谁思",
+    "originalQuote": "望夫君兮未来，吹参差兮谁思",
+    "characters": ["望", "君", "思"],
+    "id": "poem095",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "湘夫人",
+    "author": "屈原",
+    "quote": "沅有茝兮醴有兰，思公子兮未敢言",
+    "originalQuote": "沅有茝兮醴有兰，思公子兮未敢言",
+    "characters": ["沅", "兰", "思", "子"],
+    "id": "poem096",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "湘夫人",
+    "author": "屈原",
+    "quote": "九嶷缤兮并迎，灵之来兮如云",
+    "originalQuote": "九嶷缤兮并迎，灵之来兮如云",
+    "characters": ["嶷", "灵", "之", "如", "云"],
+    "id": "poem097",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "大司命",
+    "author": "屈原",
+    "quote": "吾与君兮齐速，导帝之兮九坑",
+    "originalQuote": "吾与君兮齐速，导帝之兮九坑",
+    "characters": ["君", "齐", "之"],
+    "id": "poem098",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "少司命",
+    "author": "屈原",
+    "quote": "夕宿兮帝郊，君谁须兮云之际",
+    "originalQuote": "夕宿兮帝郊，君谁须兮云之际",
+    "characters": ["君", "云", "之"],
+    "id": "poem099",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "山鬼",
+    "author": "屈原",
+    "quote": "既含睇兮又宜笑，子慕予兮善窈窕",
+    "originalQuote": "既含睇兮又宜笑，子慕予兮善窈窕",
+    "characters": ["含", "宜", "子", "慕", "予", "窈", "窕"],
+    "id": "poem100",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "山鬼",
+    "author": "屈原",
+    "quote": "君思我兮然疑作",
+    "originalQuote": "君思我兮然疑作",
+    "characters": ["君", "思", "然"],
+    "id": "poem101",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "天问",
+    "author": "屈原",
+    "quote": "释舟陵行，何之迁之？",
+    "originalQuote": "释舟陵行，何之迁之？",
+    "characters": ["舟", "行", "之"],
+    "id": "poem102",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "哀郢",
+    "author": "屈原",
+    "quote": "出国门而轸怀兮，甲之鼌吾以行。",
+    "originalQuote": "出国门而轸怀兮，甲之鼂吾以行。",
+    "characters": ["怀", "之", "以", "行"],
+    "id": "poem103",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "哀郢",
+    "author": "屈原",
+    "quote": "登大坟以远望兮，聊以舒吾忧心。",
+    "originalQuote": "登大坟以远望兮，聊以舒吾忧心。",
+    "characters": ["以", "远", "望", "舒", "心"],
+    "id": "poem104",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "抽思",
+    "author": "屈原",
+    "quote": "曾不知路之曲直兮，南指月与列星。",
+    "originalQuote": "曾不知路之曲直兮，南指月与列星。",
+    "characters": ["知", "之", "南", "星"],
+    "id": "poem105",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "怀沙",
+    "author": "屈原",
+    "quote": "易初本迪兮，君子所鄙。",
+    "originalQuote": "易初本迪兮，君子所鄙。",
+    "characters": ["易", "初", "本", "迪", "君", "子"],
+    "id": "poem106",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "思美人",
+    "author": "屈原",
+    "quote": "独茕茕而南行兮，思彭咸之故也。",
+    "originalQuote": "独茕茕而南行兮，思彭咸之故也。",
+    "characters": ["南", "行", "思", "之"],
+    "id": "poem107",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "惜往日",
+    "author": "屈原",
+    "quote": "君含怒而待臣兮，不清澈其然否。",
+    "originalQuote": "君含怒而待臣兮，不清澈其然否。",
+    "characters": ["君", "含", "清", "澈", "然"],
+    "id": "poem108",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "惜往日",
+    "author": "屈原",
+    "quote": "蔽晦君之聪明兮，虚惑误又以欺。",
+    "originalQuote": "蔽晦君之聪明兮，虚惑误又以欺。",
+    "characters": ["君", "之", "明", "以"],
+    "id": "poem109",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "悲回风",
+    "author": "屈原",
+    "quote": "眇远志之所及兮，怜浮云之相羊。",
+    "originalQuote": "眇远志之所及兮，怜浮云之相羊。",
+    "characters": ["远", "志", "之", "云"],
+    "id": "poem110",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "悲回风",
+    "author": "屈原",
+    "quote": "惟佳人之独怀兮，折若椒以自处。",
+    "originalQuote": "惟佳人之独怀兮，折若椒以自处。",
+    "characters": ["惟", "佳", "之", "怀", "若", "以"],
+    "id": "poem111",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "招魂",
+    "author": "宋玉",
+    "quote": "巫阳对曰：“掌梦！上帝其难从。若必筮予之，恐后之谢，不能复用。”",
+    "originalQuote": "巫阳对曰：“掌梦！上帝其难从。若必筮予之，恐后之谢，不能复用。”",
+    "characters": ["若", "予", "之"],
+    "id": "poem112",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "招魂",
+    "author": "宋玉",
+    "quote": "像设君室，静闲安些。",
+    "originalQuote": "像设君室，静闲安些。",
+    "characters": ["君", "静", "安"],
+    "id": "poem113",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "初放",
+    "author": "东方朔",
+    "quote": "便娟之修竹兮，寄生乎江潭。",
+    "originalQuote": "便娟之修竹兮，寄生乎江潭。",
+    "characters": ["之", "修", "竹", "生", "江"],
+    "id": "poem114",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "沉江",
+    "author": "东方朔",
+    "quote": "修往古以行恩兮，封比干之丘垄。",
+    "originalQuote": "修往古以行恩兮，封比干之丘垄。",
+    "characters": ["修", "以", "行", "恩", "之"],
+    "id": "poem115",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "怨世",
+    "author": "东方朔",
+    "quote": "弃捐药芷与杜衡兮，余柰世之不知芳何？",
+    "originalQuote": "弃捐药芷与杜衡兮，余柰世之不知芳何？",
+    "characters": ["芷", "之", "知", "芳"],
+    "id": "poem116",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "怨世",
+    "author": "东方朔",
+    "quote": "何周道之平易兮，然芜秽而险戏。",
+    "originalQuote": "何周道之平易兮，然芜秽而险戏。",
+    "characters": ["之", "易", "然"],
+    "id": "poem117",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "怨思",
+    "author": "东方朔",
+    "quote": "行明白而曰黑兮，荆棘聚而成林。",
+    "originalQuote": "行明白而曰黑兮，荆棘聚而成林。",
+    "characters": ["行", "明", "林"],
+    "id": "poem118",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "自悲",
+    "author": "东方朔",
+    "quote": "冰炭不可以相并兮，吾固知乎命之不长。",
+    "originalQuote": "冰炭不可以相并兮，吾固知乎命之不长。",
+    "characters": ["冰", "可", "以", "知", "之"],
+    "id": "poem119",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "楚辞",
+    "title": "自悲",
+    "author": "东方朔",
+    "quote": "苦众人之皆然兮，乘回风而远游。",
+    "originalQuote": "苦众人之皆然兮，乘回风而远游。",
+    "characters": ["之", "然", "远", "游"],
+    "id": "poem120",
+    "source": "chinese-poetry/chinese-poetry：楚辞选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "杂曲歌辞 行路难三首 一",
+    "author": "李白",
+    "quote": "行路难，行路难，多岐路，今安在？长风破浪会有时，直挂云帆济沧海。",
+    "originalQuote": "行路難，行路難，多岐路，今安在？長風破浪會有時，直挂雲帆濟滄海。",
+    "characters": ["行", "岐", "安", "浪", "云", "帆", "沧", "海"],
+    "id": "poem121",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "山石",
+    "author": "韩愈",
+    "quote": "升堂坐阶新雨足，芭蕉叶大支子肥。",
+    "originalQuote": "升堂坐階新雨足，芭蕉葉大支子肥。",
+    "characters": ["升", "堂", "新", "雨", "子"],
+    "id": "poem122",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "辋川集 竹里馆",
+    "author": "王维",
+    "quote": "深林人不知，明月来相照。",
+    "originalQuote": "深林人不知，明月來相照。",
+    "characters": ["林", "知", "明", "照"],
+    "id": "poem123",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "谷口书斋寄杨补阙",
+    "author": "钱起",
+    "quote": "竹怜新雨后，山爱夕阳时。",
+    "originalQuote": "竹憐新雨後，山愛夕陽時。",
+    "characters": ["竹", "新", "雨", "山"],
+    "id": "poem124",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "横吹曲辞 关山月",
+    "author": "李白",
+    "quote": "明月出天山，苍茫云海间。",
+    "originalQuote": "明月出天山，蒼茫雲海間。",
+    "characters": ["明", "山", "云", "海"],
+    "id": "poem125",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "无题二首 一",
+    "author": "李商隐",
+    "quote": "昨夜星辰昨夜风，画楼西畔桂堂东。",
+    "originalQuote": "昨夜星辰昨夜風，畫樓西畔桂堂東。",
+    "characters": ["星", "辰", "桂", "堂", "东"],
+    "id": "poem126",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "楚江怀古三首 一",
+    "author": "马戴",
+    "quote": "广泽生明月，苍山夹乱流。",
+    "originalQuote": "廣澤生明月，蒼山夾亂流。",
+    "characters": ["泽", "生", "明", "山", "流"],
+    "id": "poem127",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "山居秋暝",
+    "author": "王维",
+    "quote": "空山新雨后，天气晚来秋。",
+    "originalQuote": "空山新雨後，天氣晚來秋。",
+    "characters": ["山", "新", "雨", "秋"],
+    "id": "poem128",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "山居秋暝",
+    "author": "王维",
+    "quote": "明月松间照，清泉石上流。",
+    "originalQuote": "明月松間照，清泉石上流。",
+    "characters": ["明", "松", "照", "清", "流"],
+    "id": "poem129",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "寻西山隐者不遇",
+    "author": "丘为",
+    "quote": "草色新雨中，松声晚牕里。",
+    "originalQuote": "草色新雨中，松聲晚牕裏。",
+    "characters": ["新", "雨", "松", "声"],
+    "id": "poem130",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "自河南经乱关内阻饥兄弟离散各在一处因望月有感聊书所怀寄上浮梁大兄於潜七兄乌江十五兄兼示符离及下邽弟妹",
+    "author": "白居易",
+    "quote": "共看明月应垂泪，一夜乡心五处同。",
+    "originalQuote": "共看明月應垂淚，一夜鄉心五處同。",
+    "characters": ["明", "一", "心"],
+    "id": "poem131",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "行路难三首 一",
+    "author": "李白",
+    "quote": "长风破浪会有时，直挂云帆济沧海。",
+    "originalQuote": "長風破浪會有時，直挂雲帆濟滄海。",
+    "characters": ["浪", "云", "帆", "沧", "海"],
+    "id": "poem132",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "横吹曲辞 出塞 一",
+    "author": "王昌龄",
+    "quote": "秦时明月汉时关，万里长征人未还。",
+    "originalQuote": "秦時明月漢時關，萬里長征人未還。",
+    "characters": ["秦", "明", "汉"],
+    "id": "poem133",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "赋得",
+    "author": "刘长卿",
+    "quote": "家住层城临汉苑，[心]随明月到胡天。",
+    "originalQuote": "家住層城臨漢苑，[心]隨明月到胡天。",
+    "characters": ["城", "汉", "苑", "心", "明"],
+    "id": "poem134",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "送陈章甫",
+    "author": "李颀",
+    "quote": "四月南风大麦黄，枣花未落桐阴长。",
+    "originalQuote": "四月南風大麥黃，棗花未落桐陰長。",
+    "characters": ["南", "花", "桐"],
+    "id": "poem135",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "望月怀远",
+    "author": "张九龄",
+    "quote": "海上生明月，天涯共此时。",
+    "originalQuote": "海上生明月，天涯共此時。",
+    "characters": ["海", "生", "明"],
+    "id": "poem136",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "杂曲歌辞 盖罗缝 一",
+    "author": "不详",
+    "quote": "秦时明月汉时关，万里征人尚未还。",
+    "originalQuote": "秦時明月漢時關，萬里征人尚未還。",
+    "characters": ["秦", "明", "汉"],
+    "id": "poem137",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "春思",
+    "author": "皇甫冉",
+    "quote": "家住秦城邻汉苑，心随明月到胡天。",
+    "originalQuote": "家住秦城鄰漢苑，心隨明月到胡天。",
+    "characters": ["秦", "城", "汉", "苑", "心", "明"],
+    "id": "poem138",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "桃源行",
+    "author": "王维",
+    "quote": "坐看红树不知远，行尽青溪不见人。",
+    "originalQuote": "坐看紅樹不知遠，行盡青溪不見人。",
+    "characters": ["知", "远", "行", "青", "溪"],
+    "id": "poem139",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "鼓吹曲辞 将进酒",
+    "author": "李白",
+    "quote": "君不见高堂明镜悲白发，朝如青丝暮成雪。",
+    "originalQuote": "君不見高堂明鏡悲白髮，朝如青絲暮成雪。",
+    "characters": ["君", "堂", "明", "镜", "如", "青", "暮", "雪"],
+    "id": "poem140",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "韩碑",
+    "author": "李商隐",
+    "quote": "文成破体书在纸，清晨再拜铺丹墀。",
+    "originalQuote": "文成破體書在紙，清晨再拜鋪丹墀。",
+    "characters": ["文", "书", "清", "晨", "丹"],
+    "id": "poem141",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "西施咏",
+    "author": "王维",
+    "quote": "持谢邻家子，效颦安可希。",
+    "originalQuote": "持謝鄰家子，效顰安可希。",
+    "characters": ["子", "安", "可", "希"],
+    "id": "poem142",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "桃源行",
+    "author": "王维",
+    "quote": "当时只记入山深，青溪几曲到云林。",
+    "originalQuote": "當時只記入山深，青溪幾曲到雲林。",
+    "characters": ["记", "山", "青", "溪", "云", "林"],
+    "id": "poem143",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "蜀道难",
+    "author": "李白",
+    "quote": "其险也如此，嗟尔远道之人胡为乎来哉！劒阁峥嵘而崔嵬，一夫当关，万夫莫开。",
+    "originalQuote": "其險也如此，嗟爾遠道之人胡爲乎來哉！劒閣崢嶸而崔嵬，一夫當關，萬夫莫開。",
+    "characters": ["如", "远", "之", "峥", "嵘", "嵬", "一"],
+    "id": "poem144",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "晚次鄂州",
+    "author": "卢纶",
+    "quote": "云开远见汉阳城，犹是孤帆一日程。",
+    "originalQuote": "雲開遠見漢陽城，猶是孤帆一日程。",
+    "characters": ["云", "远", "汉", "城", "帆", "一", "日", "程"],
+    "id": "poem145",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "芙蓉楼送辛渐二首 一",
+    "author": "王昌龄",
+    "quote": "洛阳亲友如相问，一片冰心在玉壶。",
+    "originalQuote": "洛陽親友如相問，一片冰心在玉壺。",
+    "characters": ["洛", "友", "如", "一", "冰", "心", "玉"],
+    "id": "poem146",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "咏怀古迹五首 二",
+    "author": "杜甫",
+    "quote": "江山故宅空文藻，云雨荒台岂梦思。",
+    "originalQuote": "江山故宅空文藻，雲雨荒臺豈夢思。",
+    "characters": ["江", "山", "文", "云", "雨", "思"],
+    "id": "poem147",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "丹青引赠曹将军霸",
+    "author": "杜甫",
+    "quote": "丹青不知老将至，富贵于我如浮云。",
+    "originalQuote": "丹青不知老將至，富貴於我如浮雲。",
+    "characters": ["丹", "青", "知", "如", "云"],
+    "id": "poem148",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "相和歌辞 蜀道难",
+    "author": "李白",
+    "quote": "其崄也若此，嗟尔远道之人胡为乎来哉？劒阁峥嵘而崔嵬，一夫当关，万夫莫开。",
+    "originalQuote": "其嶮也若此，嗟爾遠道之人胡爲乎來哉？劒閣崢嶸而崔嵬，一夫當關，萬夫莫開。",
+    "characters": ["若", "远", "之", "峥", "嵘", "嵬", "一"],
+    "id": "poem149",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "登幽州台歌",
+    "author": "陈子昂",
+    "quote": "念天地之悠悠，独怆然而涕下。",
+    "originalQuote": "念天地之悠悠，獨愴然而涕下。",
+    "characters": ["念", "之", "悠", "然"],
+    "id": "poem150",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "蝉",
+    "author": "李商隐",
+    "quote": "烦君最相警，我亦举家清。",
+    "originalQuote": "煩君最相警，我亦舉家清。",
+    "characters": ["君", "亦", "清"],
+    "id": "poem151",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "韩碑",
+    "author": "李商隐",
+    "quote": "公之斯文若元气，先时已入人肝脾。",
+    "originalQuote": "公之斯文若元氣，先時已入人肝脾。",
+    "characters": ["之", "斯", "文", "若"],
+    "id": "poem152",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "寄令狐郎中",
+    "author": "李商隐",
+    "quote": "嵩云秦树久离居，双鲤迢迢一纸书。",
+    "originalQuote": "嵩雲秦樹久離居，雙鯉迢迢一紙書。",
+    "characters": ["嵩", "云", "秦", "一", "书"],
+    "id": "poem153",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "春雨",
+    "author": "李商隐",
+    "quote": "玉珰缄札何由达，万里云罗一雁飞。",
+    "originalQuote": "玉璫緘札何由達，萬里雲羅一雁飛。",
+    "characters": ["玉", "达", "云", "一", "雁", "飞"],
+    "id": "poem154",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "台城",
+    "author": "韦庄",
+    "quote": "江雨霏霏江草齐，六朝如梦鸟空啼。",
+    "originalQuote": "江雨霏霏江草齊，六朝如夢鳥空啼。",
+    "characters": ["江", "雨", "霏", "齐", "如"],
+    "id": "poem155",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "马嵬坡",
+    "author": "郑畋",
+    "quote": "终是圣明天子事，景阳宫井又何人。",
+    "originalQuote": "終是聖明天子事，景陽宮井又何人。",
+    "characters": ["圣", "明", "子", "景"],
+    "id": "poem156",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "次北固山下",
+    "author": "王湾",
+    "quote": "客路青山外，行舟绿水前。",
+    "originalQuote": "客路青山外，行舟綠水前。",
+    "characters": ["青", "山", "行", "舟", "水"],
+    "id": "poem157",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "次北固山下",
+    "author": "王湾",
+    "quote": "潮平两岸阔，风正一帆悬。",
+    "originalQuote": "潮平兩岸闊，風正一帆懸。",
+    "characters": ["岸", "正", "一", "帆"],
+    "id": "poem158",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "送綦毋潜落第还乡",
+    "author": "王维",
+    "quote": "既至君门远，孰云吾道非。",
+    "originalQuote": "既至君門遠，孰云吾道非。",
+    "characters": ["君", "远", "云"],
+    "id": "poem159",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "青溪",
+    "author": "王维",
+    "quote": "言入黄花川，每逐青溪水。",
+    "originalQuote": "言入黃花川，每逐青谿水。",
+    "characters": ["花", "川", "青", "溪", "水"],
+    "id": "poem160",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "青溪",
+    "author": "王维",
+    "quote": "我心素已闲，清川澹如此。",
+    "originalQuote": "我心素已閑，清川澹如此。",
+    "characters": ["心", "素", "清", "川", "澹", "如"],
+    "id": "poem161",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "老将行",
+    "author": "王维",
+    "quote": "贺兰山下阵如云，羽檄交驰日夕闻。",
+    "originalQuote": "賀蘭山下陣如雲，羽檄交馳日夕聞。",
+    "characters": ["兰", "山", "如", "云", "羽", "日"],
+    "id": "poem162",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "老将行",
+    "author": "王维",
+    "quote": "试拂铁衣如雪色，聊持宝劒动星文。",
+    "originalQuote": "試拂鐵衣如雪色，聊持寶劒動星文。",
+    "characters": ["如", "雪", "星", "文"],
+    "id": "poem163",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "八月十五夜赠张功曹",
+    "author": "韩愈",
+    "quote": "纤云四卷天无河，清风吹空月舒波。",
+    "originalQuote": "纖雲四卷天無河，清風吹空月舒波。",
+    "characters": ["纤", "云", "清", "舒", "波"],
+    "id": "poem164",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "八月十五夜赠张功曹",
+    "author": "韩愈",
+    "quote": "君歌声酸辞且苦，不能听终泪如雨。",
+    "originalQuote": "君歌聲酸辭且苦，不能聽終淚如雨。",
+    "characters": ["君", "声", "如", "雨"],
+    "id": "poem165",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "谒衡岳庙遂宿岳寺题门楼",
+    "author": "韩愈",
+    "quote": "我来正逢秋雨节，阴气晦昧无清风。",
+    "originalQuote": "我來正逢秋雨節，陰氣晦昧無清風。",
+    "characters": ["正", "秋", "雨", "清"],
+    "id": "poem166",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "谒衡岳庙遂宿岳寺题门楼",
+    "author": "韩愈",
+    "quote": "森然魄动下马拜，松柏一径趋灵宫。",
+    "originalQuote": "森然魄動下馬拜，松柏一逕趨靈宮。",
+    "characters": ["森", "然", "松", "柏", "一", "灵"],
+    "id": "poem167",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "将赴吴兴登乐游原一绝",
+    "author": "杜牧",
+    "quote": "清时有味是无能，闲爱孤云静爱僧。",
+    "originalQuote": "清時有味是無能，閑愛孤雲靜愛僧。",
+    "characters": ["清", "云", "静"],
+    "id": "poem168",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "将赴吴兴登乐游原一绝",
+    "author": "杜牧",
+    "quote": "欲把一麾江海去，乐游原上望昭陵。",
+    "originalQuote": "欲把一麾江海去，樂遊原上望昭陵。",
+    "characters": ["一", "江", "海", "乐", "游", "望", "昭"],
+    "id": "poem169",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "夜上受降城闻笛",
+    "author": "李益",
+    "quote": "不知何处吹芦管，一夜征人尽望乡。",
+    "originalQuote": "不知何處吹蘆管，一夜征人盡望鄉。",
+    "characters": ["知", "一", "望"],
+    "id": "poem170",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "饯别王十一南游",
+    "author": "刘长卿",
+    "quote": "长江一帆远，落日五湖春。",
+    "originalQuote": "長江一帆遠，落日五湖春。",
+    "characters": ["江", "一", "帆", "远", "日", "春"],
+    "id": "poem171",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "秋登兰山寄张五",
+    "author": "孟浩然",
+    "quote": "天边树若荠，江畔舟如月。",
+    "originalQuote": "天邊樹若薺，江畔舟如月。",
+    "characters": ["若", "江", "舟", "如"],
+    "id": "poem172",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "蜀道难",
+    "author": "李白",
+    "quote": "噫吁戏！危乎高哉！蜀道之难难于上青天！蚕丛及鱼凫，开国何茫然。",
+    "originalQuote": "噫吁戲！危乎高哉！蜀道之難難於上青天！蠶叢及魚鳧，開國何茫然。",
+    "characters": ["之", "青", "然"],
+    "id": "poem173",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "晚次鄂州",
+    "author": "卢纶",
+    "quote": "估客昼眠知浪静，舟人夜语觉潮生。",
+    "originalQuote": "估客晝眠知浪靜，舟人夜語覺潮生。",
+    "characters": ["知", "浪", "静", "舟", "语", "生"],
+    "id": "poem174",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "终南山",
+    "author": "王维",
+    "quote": "白云回望合，青霭入看无。",
+    "originalQuote": "白雲迴望合，青靄入看無。",
+    "characters": ["云", "望", "合", "青"],
+    "id": "poem175",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "酬郭给事",
+    "author": "王维",
+    "quote": "晨摇玉佩趋金殿，夕奉天书拜琐闱。",
+    "originalQuote": "晨搖玉佩趨金殿，夕奉天書拜瑣闈。",
+    "characters": ["晨", "玉", "佩", "金", "书"],
+    "id": "poem176",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "辋川集 鹿柴",
+    "author": "王维",
+    "quote": "返景入深林，复照青苔上。",
+    "originalQuote": "返景入深林，復照青苔上。",
+    "characters": ["景", "林", "照", "青"],
+    "id": "poem177",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "黄鹤楼",
+    "author": "崔颢",
+    "quote": "黄鹤一去不复返，白云千载空悠悠。",
+    "originalQuote": "黃鶴一去不復返，白雲千載空悠悠。",
+    "characters": ["鹤", "一", "云", "悠"],
+    "id": "poem178",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "行经华阴",
+    "author": "崔颢",
+    "quote": "武帝祠前云欲散，仙人掌上雨初晴。",
+    "originalQuote": "武帝祠前雲欲散，仙人掌上雨初晴。",
+    "characters": ["武", "云", "雨", "初", "晴"],
+    "id": "poem179",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "唐诗",
+    "title": "琴歌",
+    "author": "李颀",
+    "quote": "一声已动物皆静，四座无言星欲稀。",
+    "originalQuote": "一聲已動物皆靜，四座無言星欲稀。",
+    "characters": ["一", "声", "静", "星"],
+    "id": "poem180",
+    "source": "chinese-poetry/chinese-poetry：唐诗选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "永遇乐",
+    "author": "苏轼",
+    "quote": "明月如霜，好风如水，清景无限。",
+    "originalQuote": "明月如霜，好风如水，清景无限。",
+    "characters": ["明", "如", "好", "水", "清", "景"],
+    "id": "poem181",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "鹧鸪天",
+    "author": "吴文英",
+    "quote": "殷云度雨疏桐落，明月生凉宝扇闲。",
+    "originalQuote": "殷云度雨疏桐落，明月生凉宝扇闲。",
+    "characters": ["云", "雨", "桐", "明", "生"],
+    "id": "poem182",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "满庭芳",
+    "author": "周邦彦",
+    "quote": "风老莺雏，雨肥梅子，午阴嘉树清圆。",
+    "originalQuote": "风老莺雏，雨肥梅子，午阴嘉树清圆。",
+    "characters": ["莺", "雨", "梅", "子", "嘉", "清", "圆"],
+    "id": "poem183",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "念奴娇",
+    "author": "张孝祥",
+    "quote": "悠然心会，妙处难与君说。",
+    "originalQuote": "悠然心会，妙处难与君说。",
+    "characters": ["悠", "然", "心", "君"],
+    "id": "poem184",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "临江仙",
+    "author": "晏几道",
+    "quote": "当时明月在，曾照彩云归。",
+    "originalQuote": "当时明月在，曾照彩云归。",
+    "characters": ["明", "照", "云"],
+    "id": "poem185",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "玉楼春",
+    "author": "严仁",
+    "quote": "宝奁明月不欺人，明日归来君试看。",
+    "originalQuote": "宝奁明月不欺人，明日归来君试看。",
+    "characters": ["明", "日", "君"],
+    "id": "poem186",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "绿意・疏影",
+    "author": "张炎",
+    "quote": "喜静看、匹练秋光，倒泻半湖明月。",
+    "originalQuote": "喜静看、匹练秋光，倒泻半湖明月。",
+    "characters": ["静", "秋", "光", "明"],
+    "id": "poem187",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "伴云来・天香",
+    "author": "贺铸",
+    "quote": "赖明月曾知旧游处。",
+    "originalQuote": "赖明月曾知旧游处。",
+    "characters": ["明", "知", "游"],
+    "id": "poem188",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "瑶花慢",
+    "author": "周密",
+    "quote": "记少年，一梦扬州，二十四桥明月。",
+    "originalQuote": "记少年，一梦扬州，二十四桥明月。",
+    "characters": ["记", "一", "扬", "州", "明"],
+    "id": "poem189",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "贺新郎",
+    "author": "叶梦得",
+    "quote": "万里云帆何时到，送孤鸿、目断千山阻。",
+    "originalQuote": "万里云帆何时到，送孤鸿、目断千山阻。",
+    "characters": ["云", "帆", "山"],
+    "id": "poem190",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "虞美人",
+    "author": "晏几道",
+    "quote": "初将明月比佳期。",
+    "originalQuote": "初将明月比佳期。",
+    "characters": ["初", "明", "佳"],
+    "id": "poem191",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "绣鸾凤花犯・花犯",
+    "author": "周密",
+    "quote": "谩记得，汉宫仙掌，亭亭明月底。",
+    "originalQuote": "谩记得，汉宫仙掌，亭亭明月底。",
+    "characters": ["记", "汉", "亭", "明"],
+    "id": "poem192",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "生查子",
+    "author": "王观",
+    "quote": "两鬓可怜青，一夜相思老。",
+    "originalQuote": "两鬓可怜青，一夜相思老。",
+    "characters": ["可", "青", "一", "思"],
+    "id": "poem193",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "永遇乐",
+    "author": "苏轼",
+    "quote": "如三鼓，铿然一叶，黯黯梦云惊断。",
+    "originalQuote": "如三鼓，铿然一叶，黯黯梦云惊断。",
+    "characters": ["如", "铿", "然", "一", "云"],
+    "id": "poem194",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "大有",
+    "author": "潘希白",
+    "quote": "一片宋玉情怀，十分卫郎清瘦。",
+    "originalQuote": "一片宋玉情怀，十分卫郎清瘦。",
+    "characters": ["一", "玉", "怀", "清"],
+    "id": "poem195",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "永遇乐",
+    "author": "刘辰翁",
+    "quote": "宣和旧日，临安南渡，芳景犹自如故。",
+    "originalQuote": "宣和旧日，临安南渡，芳景犹自如故。",
+    "characters": ["宣", "和", "日", "安", "南", "渡", "芳", "景", "如"],
+    "id": "poem196",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "汉宫春",
+    "author": "李邴",
+    "quote": "清浅小溪如练，问玉堂何似，茅舍疏篱。",
+    "originalQuote": "清浅小溪如练，问玉堂何似，茅舍疏篱。",
+    "characters": ["清", "浅", "溪", "如", "玉", "堂"],
+    "id": "poem197",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "八归",
+    "author": "姜夔",
+    "quote": "渚寒烟淡，棹移人远，缥缈行舟如叶。",
+    "originalQuote": "渚寒烟淡，棹移人远，缥缈行舟如叶。",
+    "characters": ["寒", "烟", "淡", "远", "行", "舟", "如"],
+    "id": "poem198",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "念奴娇",
+    "author": "李清照",
+    "quote": "清露晨流，新桐初引，多少游春意。",
+    "originalQuote": "清露晨流，新桐初引，多少游春意。",
+    "characters": ["清", "露", "晨", "流", "新", "桐", "初", "游", "春"],
+    "id": "poem199",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "踏莎行",
+    "author": "周紫芝",
+    "quote": "一溪烟柳万丝垂，无因系得兰舟住。",
+    "originalQuote": "一溪烟柳万丝垂，无因系得兰舟住。",
+    "characters": ["一", "溪", "烟", "柳", "兰", "舟"],
+    "id": "poem200",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "湘春夜月",
+    "author": "黄孝迈",
+    "quote": "可惜一片清歌，都付与黄昏。",
+    "originalQuote": "可惜一片清歌，都付与黄昏。",
+    "characters": ["可", "一", "清"],
+    "id": "poem201",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "湘春夜月",
+    "author": "黄孝迈",
+    "quote": "翠玉楼前，惟是有、一波湘水，摇荡湘云。",
+    "originalQuote": "翠玉楼前，惟是有、一波湘水，摇荡湘云。",
+    "characters": ["翠", "玉", "惟", "一", "波", "湘", "水", "云"],
+    "id": "poem202",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "风入松",
+    "author": "吴文英",
+    "quote": "听风听雨过清明。",
+    "originalQuote": "听风听雨过清明。",
+    "characters": ["雨", "清", "明"],
+    "id": "poem203",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "莺啼序",
+    "author": "吴文英",
+    "quote": "画船载、清明过却，晴烟冉冉吴宫树。",
+    "originalQuote": "画船载、清明过却，晴烟冉冉吴宫树。",
+    "characters": ["清", "明", "晴", "烟"],
+    "id": "poem204",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "桂枝香",
+    "author": "王安石",
+    "quote": "彩舟云淡，星河鹭起，画图难足。",
+    "originalQuote": "彩舟云淡，星河鹭起，画图难足。",
+    "characters": ["舟", "云", "淡", "星", "鹭"],
+    "id": "poem205",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "生查子",
+    "author": "晏几道",
+    "quote": "两鬓可怜青，只为相思老。",
+    "originalQuote": "两鬓可怜青，只为相思老。",
+    "characters": ["可", "青", "思"],
+    "id": "poem206",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "清平乐",
+    "author": "晏几道",
+    "quote": "此后锦书休寄，画楼云雨无凭。",
+    "originalQuote": "此後锦书休寄，画楼云雨无凭。",
+    "characters": ["锦", "书", "云", "雨"],
+    "id": "poem207",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "阮郎归",
+    "author": "晏几道",
+    "quote": "一春犹有数行书。",
+    "originalQuote": "一春犹有数行书。",
+    "characters": ["一", "春", "行", "书"],
+    "id": "poem208",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "高阳台",
+    "author": "张炎",
+    "quote": "当年燕子知何处，但苔深韦曲，草暗斜川。",
+    "originalQuote": "当年燕子知何处，但苔深韦曲，草暗斜川。",
+    "characters": ["燕", "子", "知", "川"],
+    "id": "poem209",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "烛影摇红",
+    "author": "张抡",
+    "quote": "驰隙流年，恍如一瞬星霜换。",
+    "originalQuote": "驰隙流年，恍如一瞬星霜换。",
+    "characters": ["流", "如", "一", "星"],
+    "id": "poem210",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "绿意・疏影",
+    "author": "张炎",
+    "quote": "盘心清露如铅水，又一夜、西风吹折。",
+    "originalQuote": "盘心清露如铅水，又一夜、西风吹折。",
+    "characters": ["心", "清", "露", "如", "水", "一"],
+    "id": "poem211",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "绿头鸭・多丽",
+    "author": "晁端礼",
+    "quote": "料得来宵，清光未减，阴晴天气又争知。",
+    "originalQuote": "料得来宵，清光未减，阴晴天气又争知。",
+    "characters": ["清", "光", "晴", "知"],
+    "id": "poem212",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "洞仙歌",
+    "author": "李元膺",
+    "quote": "到清明时候，百紫千红花正乱。",
+    "originalQuote": "到清明时候，百紫千红花正乱。",
+    "characters": ["清", "明", "花", "正"],
+    "id": "poem213",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "望海潮",
+    "author": "秦观",
+    "quote": "金谷俊游，铜驼巷陌，新晴细履平沙。",
+    "originalQuote": "金谷俊游，铜驼巷陌，新晴细履平沙。",
+    "characters": ["金", "谷", "俊", "游", "新", "晴", "沙"],
+    "id": "poem214",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "满庭芳",
+    "author": "秦观",
+    "quote": "晓色云开，春随人意，骤雨才过还晴。",
+    "originalQuote": "晓色云开，春随人意，骤雨才过还晴。",
+    "characters": ["晓", "云", "春", "雨", "晴"],
+    "id": "poem215",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "人南渡・感皇恩",
+    "author": "贺铸",
+    "quote": "兰芷满芳洲，游思横路。",
+    "originalQuote": "兰芷满芳洲，游思横路。",
+    "characters": ["兰", "芷", "芳", "洲", "游", "思"],
+    "id": "poem216",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "人南渡・感皇恩",
+    "author": "贺铸",
+    "quote": "半黄梅子，向晚一帘疏雨。",
+    "originalQuote": "半黄梅子，向晚一帘疏雨。",
+    "characters": ["梅", "子", "一", "雨"],
+    "id": "poem217",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "伴云来・天香",
+    "author": "贺铸",
+    "quote": "不眠思妇，齐应和、几声砧杵。",
+    "originalQuote": "不眠思妇，齐应和、几声砧杵。",
+    "characters": ["思", "齐", "和", "声"],
+    "id": "poem218",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "八声甘州",
+    "author": "吴文英",
+    "quote": "渺空烟四远，是何年、青天坠长星。",
+    "originalQuote": "渺空烟四远，是何年、青天坠长星。",
+    "characters": ["渺", "烟", "远", "青", "星"],
+    "id": "poem219",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "金缕歌・贺新郎",
+    "author": "吴文英",
+    "quote": "华表月明归夜鹤，叹当时、花竹今如此。",
+    "originalQuote": "华表月明归夜鹤，叹当时、花竹今如此。",
+    "characters": ["明", "鹤", "花", "竹", "如"],
+    "id": "poem220",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "永遇乐",
+    "author": "刘辰翁",
+    "quote": "璧月初晴，黛云远澹，春事谁主。",
+    "originalQuote": "璧月初晴，黛云远澹，春事谁主。",
+    "characters": ["璧", "初", "晴", "云", "远", "澹", "春"],
+    "id": "poem221",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "摸鱼儿",
+    "author": "刘辰翁",
+    "quote": "叹一笑论文，清狂顾曲，此会几时又。",
+    "originalQuote": "叹一笑论文，清狂顾曲，此会几时又。",
+    "characters": ["一", "文", "清"],
+    "id": "poem222",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "摸鱼儿",
+    "author": "朱嗣发",
+    "quote": "奈雨覆云翻，情宽分窄，石上玉簪脆。",
+    "originalQuote": "奈雨覆云翻，情宽分窄，石上玉簪脆。",
+    "characters": ["雨", "云", "宽", "玉"],
+    "id": "poem223",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "望湘人",
+    "author": "贺铸",
+    "quote": "奈云和再鼓，曲终人远。",
+    "originalQuote": "奈云和再鼓，曲终人远。",
+    "characters": ["云", "和", "远"],
+    "id": "poem224",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "夏云峰",
+    "author": "仲殊",
+    "quote": "天阔云高，溪横水远。",
+    "originalQuote": "天阔云高，溪横水远。",
+    "characters": ["云", "溪", "水", "远"],
+    "id": "poem225",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "庆宫春・高阳台",
+    "author": "姜夔",
+    "quote": "如今安在，唯有阑干，伴人一霎。",
+    "originalQuote": "如今安在，唯有阑干，伴人一霎。",
+    "characters": ["如", "安", "一"],
+    "id": "poem226",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "长亭怨慢",
+    "author": "姜夔",
+    "quote": "树若有情时，不会得、青青如此。",
+    "originalQuote": "树若有情时，不会得、青青如此。",
+    "characters": ["若", "青", "如"],
+    "id": "poem227",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "疏影",
+    "author": "姜夔",
+    "quote": "昭君不惯胡沙远，但暗忆、江南江北。",
+    "originalQuote": "昭君不惯胡沙远，但暗忆、江南江北。",
+    "characters": ["昭", "君", "沙", "远", "忆", "江", "南"],
+    "id": "poem228",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "翠楼吟",
+    "author": "姜夔",
+    "quote": "宜有词仙，拥素云黄鹤，与君游戏。",
+    "originalQuote": "宜有词仙，拥素云黄鹤，与君游戏。",
+    "characters": ["宜", "词", "素", "云", "鹤", "君", "游"],
+    "id": "poem229",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "采莲令",
+    "author": "柳永",
+    "quote": "一叶兰舟，便恁急桨凌波去。",
+    "originalQuote": "一叶兰舟，便恁急桨凌波去。",
+    "characters": ["一", "兰", "舟", "凌", "波"],
+    "id": "poem230",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "浪淘沙",
+    "author": "柳永",
+    "quote": "知何时、却拥秦云态，愿低帏昵枕，轻轻细说与，江乡夜夜，数寒更思忆。",
+    "originalQuote": "知何时、却拥秦云态，愿低帏昵枕，轻轻细说与，江乡夜夜，数寒更思忆。",
+    "characters": ["知", "秦", "云", "愿", "江", "寒", "思", "忆"],
+    "id": "poem231",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "夜半乐",
+    "author": "柳永",
+    "quote": "冻云黯淡天气，扁舟一叶，乘兴离江渚。",
+    "originalQuote": "冻云黯淡天气，扁舟一叶，乘兴离江渚。",
+    "characters": ["云", "淡", "舟", "一", "江"],
+    "id": "poem232",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "夜半乐",
+    "author": "柳永",
+    "quote": "望中酒旆闪闪，一簇烟村，数行霜树。",
+    "originalQuote": "望中酒旆闪闪，一簇烟村，数行霜树。",
+    "characters": ["望", "一", "簇", "烟", "行"],
+    "id": "poem233",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "玉蝴蝶",
+    "author": "柳永",
+    "quote": "望处雨收云断，凭阑悄悄，目送秋光。",
+    "originalQuote": "望处雨收云断，凭阑悄悄，目送秋光。",
+    "characters": ["望", "雨", "云", "秋", "光"],
+    "id": "poem234",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "八声甘州",
+    "author": "柳永",
+    "quote": "对潇潇、暮雨洒江天，一番洗清秋。",
+    "originalQuote": "对潇潇、暮雨洒江天，一番洗清秋。",
+    "characters": ["潇", "暮", "雨", "江", "一", "清", "秋"],
+    "id": "poem235",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "八声甘州",
+    "author": "柳永",
+    "quote": "不忍登高临远，望故乡渺邈，归思难收。",
+    "originalQuote": "不忍登高临远，望故乡渺邈，归思难收。",
+    "characters": ["远", "望", "渺", "思"],
+    "id": "poem236",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "迷神引",
+    "author": "柳永",
+    "quote": "一叶扁舟轻帆卷。",
+    "originalQuote": "一叶扁舟轻帆卷。",
+    "characters": ["一", "舟", "帆"],
+    "id": "poem237",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "千秋岁",
+    "author": "张先",
+    "quote": "雨轻风色暴，梅子青时节。",
+    "originalQuote": "雨轻风色暴，梅子青时节。",
+    "characters": ["雨", "梅", "子", "青"],
+    "id": "poem238",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "玉楼春",
+    "author": "欧阳修",
+    "quote": "别后不知君远近。",
+    "originalQuote": "别後不知君远近。",
+    "characters": ["知", "君", "远"],
+    "id": "poem239",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  },
+  {
+    "collection": "宋词",
+    "title": "玉楼春",
+    "author": "欧阳修",
+    "quote": "渐行渐远渐无书，水阔鱼沈何处问。",
+    "originalQuote": "渐行渐远渐无书，水阔鱼沈何处问。",
+    "characters": ["行", "远", "书", "水"],
+    "id": "poem240",
+    "source": "chinese-poetry/chinese-poetry：宋词选本（公有领域原文，繁简转换）"
+  }
+]
