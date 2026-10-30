@@ -570,3 +570,10 @@ p {
     scroll-behavior: auto !important;
   }
 }
+
+/* Retain keyboard access and legible inputs without changing the original theme. */
+.tool-skip-link { position:fixed; top:-80px; left:20px; padding:12px 20px; background:#365d44; color:#fff; border-radius:7px; z-index:100; }
+.tool-skip-link:focus { top:16px; }
+.tool-wrap[tabindex="-1"] { outline:none; }
+.field input, .field select, .field textarea { font-size:16px; }
+@media(prefers-reduced-motion:reduce) { *,*::before,*::after { animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important; scroll-behavior:auto !important; } }

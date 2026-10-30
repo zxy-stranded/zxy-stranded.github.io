@@ -522,4 +522,132 @@ footer {
     font-size: 7px;
   }
 }
-.portal-shortcuts{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 30px}.portal-shortcuts a{border:1px solid #d5dfc8;border-radius:20px;padding:10px 16px;min-height:41px;font-size:11px;color:#789365;background:#f9faf1}.portal-shortcuts a:hover{background:#e9efdc}@media(max-width:600px){.portal-shortcuts{gap:8px;margin-top:2px;margin-bottom:27px}.portal-shortcuts a{font-size:10px;padding:10px 13px}}
+/* Illustrated posters share the page with a quiet daily reflection. */
+.discovery-row {
+  display: grid;
+  grid-template-columns: minmax(0, 2.15fr) minmax(260px, 1fr);
+  gap: 22px;
+  margin-bottom: 38px;
+}
+.spotlight {
+  position: relative;
+  min-width: 0;
+  border: 1px solid #d7dfcb;
+  border-radius: 16px;
+  background: #f0f2e7;
+  overflow: hidden;
+}
+.spotlight-viewport { overflow: hidden; }
+.spotlight-track {
+  display: flex;
+  transition: transform 600ms cubic-bezier(.22, .68, .2, 1);
+}
+.spotlight-slide {
+  position: relative;
+  flex: 0 0 100%;
+  min-width: 0;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  padding: 22px 30px 52px;
+  overflow: hidden;
+  isolation: isolate;
+}
+.spotlight-art {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+.spotlight-copy { width: 56%; min-width: 0; }
+.spotlight-kicker { color: #68725f; font-size: 10px; letter-spacing: .8px; }
+.spotlight-copy h2 {
+  font: 30px/1.4 "Songti SC", STSong, serif;
+  color: #365d44;
+  margin: 16px 0 12px;
+}
+.spotlight-copy p { font-size: 14px; line-height: 1.9; color: #606d5a; margin: 0; }
+.spotlight-controls { position: absolute; left: 20px; bottom: 10px; z-index: 2; }
+.spotlight-controls[hidden] { display: none; }
+.spotlight-dots { display: flex; }
+.spotlight-dots button {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  min-height: 44px;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  cursor: pointer;
+}
+.spotlight-dots button span { width: 6px; height: 6px; background: #aeb89f; border-radius: 50%; transition: transform 180ms; }
+.spotlight-dots button[aria-current] span { background: #4d6e50; transform: scale(1.4); }
+.spotlight button:focus-visible, .spotlight-slide:focus-visible { outline: 3px solid #8e78aa; outline-offset: -4px; }
+.daily-note {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid #ded8e6;
+  border-radius: 16px;
+  background: #efecf2;
+}
+.daily-note-top { display: flex; justify-content: space-between; gap: 10px; font-size: 10px; letter-spacing: 1px; color: #756785; }
+.daily-note h2 { font: 14px/1.5 "Songti SC", STSong, serif; color: #756785; margin: 14px 0 8px; }
+.daily-question { font: 22px/1.55 "Songti SC", STSong, serif; color: #51445f; margin: 0 0 10px; white-space: pre-line; }
+.daily-note-hint { font-size: 12px; line-height: 1.7; color: #7a7084; margin: 0 0 14px; }
+.daily-note a { margin-top: auto; padding-top: 12px; border-top: 1px solid #d9d2e1; font-size: 12px; color: #69547e; display: flex; justify-content: space-between; gap: 12px; }
+.daily-note a:focus-visible { outline: 2px solid #8e78aa; outline-offset: 5px; }
+@media (min-width: 851px) and (max-width: 1100px) {
+  .discovery-row { grid-template-columns: minmax(0, 1.8fr) minmax(245px, 1fr); gap: 18px; }
+  .spotlight-slide { padding-left: 26px; }
+  .spotlight-copy h2 { font-size: 27px; }
+  .daily-note { padding: 18px; }
+  .daily-question { font-size: 21px; }
+}
+@media (max-width: 850px) {
+  .discovery-row { grid-template-columns: minmax(0, 1fr); gap: 16px; margin-bottom: 28px; }
+  .daily-note { padding: 18px 22px; }
+  .daily-note h2 { margin-top: 12px; }
+  .daily-question { font-size: 21px; }
+  .daily-note-hint { margin-bottom: 10px; }
+}
+@media (max-width: 500px) {
+  .spotlight-slide { height: 220px; padding: 18px 20px 48px; }
+  .spotlight-art { object-position: 56% center; opacity: .85; }
+  .spotlight-copy { width: 68%; }
+  .spotlight-copy h2 { font-size: 22px; margin: 8px 0; }
+  .spotlight-copy p { font-size: 13px; line-height: 1.8; }
+  .spotlight-kicker { font-size: 9px; }
+  .spotlight-controls { left: 8px; bottom: 5px; }
+  .daily-note { padding: 18px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .spotlight-track, .spotlight-dots button span { transition: none; }
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+.more-features {
+  margin-top: 0;
+  grid-auto-rows: 1fr;
+}
+.explore-card {
+  min-width: 0;
+}
+.explore-card .card-category {
+  font-size: 10px;
+}
+.explore-card h3 {
+  font-family: "Songti SC", STSong, serif;
+}
+.explore-card > p {
+  margin-bottom: 0;
+}

@@ -10,6 +10,7 @@ import {
 } from "../engine.js";
 import Portrait from "../components/Portrait.vue";
 import Radar from "../components/Radar.vue";
+import { resultBackupUrl, isWeChatBrowser } from "../result-backup.js";
 import { createShareCard } from "../share.js";
 const router = useRouter(),
   data = computed(() => result.value),
@@ -23,7 +24,19 @@ const router = useRouter(),
   sharing = ref(false),
   image = ref(""),
   shareDialog = ref(null),
-  manualLink = ref("");
+  manualLink = ref(""),
+  recoveryLink = computed(() => resultBackupUrl(state.session, location.href)),
+  wechat = isWeChatBrowser(navigator.userAgent),
+  recoveryNotice = ref("");
+async function copyRecovery() {
+  try {
+    await navigator.clipboard.writeText(recoveryLink.value);
+    recoveryNotice.value = "结果地址已复制，请在目标浏览器粘贴打开。";
+  } catch {
+    recoveryNotice.value =
+      "请长按下方结果地址，选择并复制，再到目标浏览器粘贴打开。";
+  }
+}
 function restart() {
   router.push("/");
 }
@@ -38,8 +51,14 @@ async function generate() {
     const card = await createShareCard(data.value, location.href);
     image.value = card.image;
     await nextTick();
+    if (shareDialog.value.open) return;
     if (typeof shareDialog.value.showModal === "function") {
-      shareDialog.value.showModal();
+      try {
+        shareDialog.value.showModal();
+      } catch {
+        shareDialog.value.classList.add("fallback-open");
+        shareDialog.value.setAttribute("open", "");
+      }
     } else {
       shareDialog.value.classList.add("fallback-open");
       shareDialog.value.setAttribute("open", "");
@@ -100,8 +119,7 @@ onBeforeUnmount(close);
             >{{ data.count }}<small> / {{ data.total }}</small></strong
           >
           <div>
-            <b>道情境的选择方向与你吻合</b
-            ><span>基于人物倾向标签的编辑推演</span>
+            <b>道情境的选择方向与你吻合</b><span>基于人物倾向标签的编辑推演</span>
           </div>
         </div>
         <p class="agreement-disclaimer">
@@ -128,6 +146,29 @@ onBeforeUnmount(close);
         /></label>
       </aside>
     </div>
+    <section class="result-recovery" aria-labelledby="result-recovery-title">
+      <h2 id="result-recovery-title">换个浏览器，也能留住这次结果。</h2>
+      <p v-if="wechat">
+        在微信里可以先生成图片并长按保存；如需使用系统浏览器，请复制下方结果地址，或点右上角“…”选择“在浏览器打开”。
+      </p>
+      <p v-else>
+        本页地址已带上这次测试的恢复信息。保存此地址，或在其他浏览器粘贴打开，就能重新查看完整报告。
+      </p>
+      <button class="secondary" @click="copyRecovery">复制本次结果地址</button>
+      <label class="recovery-copy"
+        >本次结果地址（可长按复制）
+        <input
+          :value="recoveryLink"
+          readonly
+          aria-label="本次结果恢复地址"
+          @focus="$event.target.select()"
+        />
+      </label>
+      <p class="recovery-privacy">
+        结果地址包含本次答案，请仅自己保存或发给信任的人。想请朋友自己测试，请使用“复制邀请链接”。
+      </p>
+      <p class="recovery-notice" role="status">{{ recoveryNotice }}</p>
+    </section>
     <section class="result-analysis">
       <div class="section-heading">
         <h2><span>01</span> 为什么像这个人？</h2>
@@ -301,22 +342,46 @@ onBeforeUnmount(close);
           ✕
         </button>
       </div>
-      <p>图片为 1080 × 1440。手机可长按保存，二维码指向人物邀请页。</p>
+      <p v-if="wechat" class="wechat-save-tip">
+        <b>微信内请长按下方图片，选择“保存图片”。</b
+        ><br />如果当前微信版本未提供保存菜单，可截图留存，或复制结果地址到系统浏览器打开后下载。
+      </p>
+      <p v-else>图片为 1080 × 1440。手机可长按保存，也可使用下方下载按钮。</p>
+      <p>二维码邀请朋友自己测试，不用于恢复你的答卷。</p>
       <p
         v-if="['localhost', '127.0.0.1'].includes(windowHost())"
         class="local-share-note"
       >
         当前为本地预览，链接与二维码仅能在本机访问。
       </p>
-      <img v-if="image" :src="image" :alt="figure.name + '人物画像分享图'" />
+      <img
+        v-if="image"
+        :src="image"
+        :alt="figure.name + '人物画像分享图，长按可尝试保存'"
+        draggable="false"
+      />
       <div class="center-actions">
         <a
+          v-if="!wechat"
           class="primary"
           :href="image"
           :download="'观己-' + figure.name + '.png'"
           >下载图片 ↓</a
+        ><button class="secondary" @click="copyRecovery">
+          复制本次结果地址</button
         ><button class="text-button" @click="close">返回画像</button>
       </div>
+      <label class="recovery-copy"
+        >换浏览器时请保留完整结果地址
+        <input
+          :value="recoveryLink"
+          readonly
+          aria-label="分享窗口中的结果恢复地址"
+          @focus="$event.target.select()"
+        />
+      </label>
+      <p>地址包含本次答案，请勿作为公开邀请链接转发。</p>
+      <p class="recovery-notice" role="status">{{ recoveryNotice }}</p>
     </dialog>
   </section>
 </template>

@@ -1,7 +1,5 @@
 <script setup>
-import { useRoute } from "vue-router";
 import { state } from "./store.js";
-const route = useRoute();
 </script>
 <template>
   <a class="skip-link" href="#main">跳到主要内容</a>
@@ -11,23 +9,8 @@ const route = useRoute();
       ><span>观己<small>PORTRAIT OF YOU</small></span></RouterLink
     >
     <nav aria-label="主导航">
-      <a href="../../index.html">功能首页 <span>↗</span></a
-      ><RouterLink
-        to="/"
-        :class="{
-          active: ['/', '/quiz', '/result', '/loading'].includes(route.path),
-        }"
-        >人物测试</RouterLink
-      ><RouterLink
-        to="/gallery"
-        :class="{
-          active:
-            route.path.includes('gallery') || route.path.includes('figure'),
-        }"
-        >人物图鉴</RouterLink
-      >
+      <a href="../../index.html">返回全部 <span>↗</span></a>
     </nav>
-    <span class="header-note">以历史为镜 · 不以标签为限</span>
   </header>
   <main id="main" tabindex="-1"><RouterView /></main>
   <footer>
