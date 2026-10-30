@@ -11,3 +11,4 @@ delivery/
 node_modules/
 dist/
 qc-history-backfill-20261029/
+AGENTS.md
